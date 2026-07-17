@@ -49,8 +49,9 @@ large intermediate matrices are reacquired from GEO rather than stored in Git.
 
 ## Data and code availability
 
-The public GitHub URL, release tag, and archival DOI will be inserted here after
-the repository is created and the first release is archived.
+Public repository: https://github.com/rmaghembe1/UTI_HostOmics
+
+The semantic release tag and archival DOI will be added after the first GitHub release is archived in Zenodo.
 
 ## Citation
 
