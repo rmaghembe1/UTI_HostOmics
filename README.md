@@ -1,9 +1,11 @@
 # UTI HostOmics
 
-This repository accompanies the study:
+<!-- manuscript-title:start -->
+**Manuscript:** *Host endocrine-metabolic-immune remodeling across recurrent and pregnancy-associated uropathogenic Escherichia coli infection*
+<!-- manuscript-title:end -->
 
-**Host systems remodeling links uropathogenic *Escherichia coli* sensing to
-recurrent and pregnancy-associated urinary tract infection**
+
+This repository accompanies the study:
 
 The study integrates four public transcriptomic resources to examine
 endocrine-metabolic-immune remodeling across urinary tract infection,
@@ -51,7 +53,7 @@ large intermediate matrices are reacquired from GEO rather than stored in Git.
 
 Public repository: https://github.com/rmaghembe1/UTI_HostOmics
 
-The semantic release tag and archival DOI will be added after the first GitHub release is archived in Zenodo.
+Release candidate: `v1.0.0`. Zenodo integration is enabled; the archival DOI will be added after the GitHub release is ingested.
 
 ## Citation
 
@@ -62,5 +64,5 @@ after publication.
 
 Original analysis code is distributed under the MIT License. Original
 documentation, figure assemblies, and derived non-restricted tables are
-distributed under CC BY 4.0. Third-party GEO source data are not redistributed
+distributed under CC BY 4.0; see `CONTENT_LICENSE.md`. Third-party GEO source data are not redistributed
 and remain subject to their original terms.

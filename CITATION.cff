@@ -27,4 +27,6 @@ keywords:
   - complement
   - single-cell transcriptomics
 license: "MIT"
+version: "1.0.0"
+date-released: "2026-07-17"
 repository-code: "https://github.com/rmaghembe1/UTI_HostOmics"
