@@ -1,0 +1,17 @@
+{
+  "version": "U27B3E321_v1.0_2026-07-16",
+  "decision": "READY_FOR_U27B3E4_SUPPLEMENTARY_TABLE_SCHEMA_AND_CONTENT_AUDIT",
+  "table_hashes_preserved": true,
+  "provenance_complete": true,
+  "semantic_audits": 40,
+  "semantic_audits_passed": 40,
+  "unauthorized_GSE168600_occurrences": 0,
+  "documented_prohibition_rule_occurrences": 1,
+  "GSE186800_present": true,
+  "zip_path": "project://11_supplementary/phaseU27B3E321_semantic_accession_audit_correction/UTI_HostOmics_U27B3E321_Supplementary_Tables_S1-S10.zip",
+  "zip_pass": true,
+  "scientific_values_recalculated": false,
+  "materialized_table_bytes_modified": false,
+  "source_files_modified": false,
+  "historical_artifacts_overwritten": false
+}

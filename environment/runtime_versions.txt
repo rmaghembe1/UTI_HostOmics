@@ -1,0 +1,6 @@
+generated_at=2026-07-17T22:38:23+03:00
+project_root=project://
+staging_root=repository://
+python_version=Python 3.13.2
+r_version=R version 4.3.3 (2024-02-29) -- "Angel Food Cake"
+git_version=git version 2.43.0

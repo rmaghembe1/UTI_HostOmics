@@ -1,0 +1,2 @@
+selected_source	gene_column	n_input_rows	n_valid_symbol_rows	n_invalid_symbol_rows	n_duplicate_symbol_rows_before_collapse	n_canonical_gene_symbols	n_expression_samples	expected_samples	sample_count_difference	sample_columns	non_integer_fraction_preview	expression_scale_class	gene_universe_plausible	sample_count_plausible
+project://03_data_processed/phaseU4b_repaired_matrices/GSE186800_repaired_gene_symbol_matrix.tsv.gz	gene_symbol	41085	41082	3	0	41082	20	20	0	24;42;47;48;49;21;22;23;34;55;20;32;33;56;59;26;27;28;39;60	0.67165	continuous_transformed_expression	True	True

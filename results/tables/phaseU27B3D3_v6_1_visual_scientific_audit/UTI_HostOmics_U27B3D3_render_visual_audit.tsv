@@ -1,0 +1,2 @@
+render_page_count	expected_page_count	contact_sheet_present	automated_blank_page_flags	manual_visual_review_pass	render_pass	manual_visual_note
+30	31	True	0	True	False	All 31 pages were visually inspected. Text flows without clipping or overlap; headers and footers are stable; Figures 1-8 and legends are readable and ordered; no blank or broken page is visible; and the reference table remains structurally intact.

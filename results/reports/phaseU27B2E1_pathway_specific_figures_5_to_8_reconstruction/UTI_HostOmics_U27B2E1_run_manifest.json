@@ -1,0 +1,14 @@
+{
+  "version": "U27B2E1_v1.2_2026-07-16",
+  "decision": "READY_FOR_U27B2E2_FINAL_FIGURES_5_TO_8_VISUAL_AUDIT",
+  "figures_reconstructed": 4,
+  "panels": 28,
+  "panel_crops": 28,
+  "exports": 12,
+  "module_dictionary_features": 78,
+  "full_effect_features": 81,
+  "axis_mapping_validation_pass": true,
+  "minimum_axis_modules": 8,
+  "unrelated_fallback_modules_permitted": false,
+  "statistical_effects_recalculated": false
+}

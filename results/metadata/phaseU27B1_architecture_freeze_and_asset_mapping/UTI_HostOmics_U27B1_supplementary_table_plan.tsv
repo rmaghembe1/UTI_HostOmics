@@ -1,0 +1,9 @@
+table	title	planned_sheets_or_content	architecture_status
+Table_S1	Dataset and sample manifest	dataset accessions; sample metadata; contrasts; inclusion decisions	frozen
+Table_S2	Expanded module library	78-submodule dictionary; axes; gene membership; species coverage	frozen
+Table_S3	GSE280297 full results	C1; C2; C3; C4; permutation; stability; tissue collapse	frozen
+Table_S4	Comparator-dataset results	GSE112098; GSE186800; GSE252321; diagnostics	frozen
+Table_S5	Cross-dataset evidence collapse	primary effects; recurrence; divergence; evidence classes	frozen
+Table_S6	Single-cell QC and annotations	QC; clusters; markers; composition; Treg; TNFSF9 macrophages	frozen
+Table_S7	Cell-type pseudobulk results	manifest; broad results; subtype results; localization; reliability	frozen
+Table_S8	Figure source data and reproducibility	main/supp source values; panel mapping; scripts; versions; checksums	frozen

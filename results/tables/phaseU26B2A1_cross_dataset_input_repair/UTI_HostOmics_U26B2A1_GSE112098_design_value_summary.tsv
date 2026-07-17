@@ -1,0 +1,34 @@
+column	value	n_samples
+status	Public on Feb 20 2020	73
+source_name_ch1	URINE	73
+characteristics_ch1	gender: Female | age: 66	7
+characteristics_ch1	gender: Female | age: 63	3
+characteristics_ch1	gender: Male | age: 52	3
+characteristics_ch1	gender: Male | age: 65	3
+characteristics_ch1	gender: Male | age: 32	2
+characteristics_ch1	gender: Female | age: 72	2
+characteristics_ch1	gender: Male | age: 67	2
+characteristics_ch1	gender: Male | age: 58	2
+characteristics_ch1	gender: Female | age: 65	2
+characteristics_ch1	gender: Female | age: 70	2
+characteristics_ch1	gender: Male | age: 66	2
+characteristics_ch1	gender: Male | age: 54	2
+characteristics_ch1	gender: Female | age: 57	2
+characteristics_ch1	gender: Male | age: 79	2
+characteristics_ch1	gender: Female | age: 56	2
+characteristics_ch1	gender: Male | age: 64	2
+characteristics_ch1	gender: Female | age: 48	2
+characteristics_ch1	gender: Male | age: 62	1
+characteristics_ch1	gender: Male | age: 63	1
+characteristics_ch1	gender: Female | age: 20	1
+characteristics_ch1	gender: Female | age: 68	1
+characteristics_ch1	gender: Male | age: 42	1
+characteristics_ch1	gender: Male | age: 82	1
+characteristics_ch1	gender: Male | age: 18	1
+characteristics_ch1	gender: Female | age: 62	1
+characteristics_ch1	gender: Male | age: 83	1
+characteristics_ch1	gender: Male | age: 45	1
+characteristics_ch1	gender: Female | age: 74	1
+characteristics_ch1	gender: Male | age: 46	1
+characteristics_ch1	gender: Male | age: 26	1
+treatment_protocol_ch1	Approximately 50mL Urine was spun down at 1500g for 30 min at 4 degrees Celsius. Pellet was collected, lysed using 1mL RLT lysis buffer with 10uL β-mercaptoethanol from the kit and processed according the manufacturer's protocol.	73

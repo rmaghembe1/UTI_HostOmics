@@ -1,0 +1,14 @@
+tissue	treatment	primary_exposure	outcome	pregnancy_status	n_samples
+bladder	PBS_control	control	mock_control	pregnant_control	3
+bladder	UTI89	UPEC_exposed	nonpregnant	nonpregnant	4
+bladder	UTI89	UPEC_exposed	preterm	pregnant	6
+bladder	UTI89	UPEC_exposed	term	pregnant	3
+bladder	UTI89_RFP	UPEC_exposed	term	pregnant	2
+placenta	PBS_control	control	mock_control	pregnant_control	6
+placenta	UTI89	UPEC_exposed	preterm	pregnant	12
+placenta	UTI89	UPEC_exposed	term	pregnant	6
+placenta	UTI89_RFP	UPEC_exposed	term	pregnant	4
+uterus	PBS_control	control	mock_control	pregnant_control	3
+uterus	UTI89	UPEC_exposed	preterm	pregnant	6
+uterus	UTI89	UPEC_exposed	term	pregnant	3
+uterus	UTI89_RFP	UPEC_exposed	term	pregnant	2

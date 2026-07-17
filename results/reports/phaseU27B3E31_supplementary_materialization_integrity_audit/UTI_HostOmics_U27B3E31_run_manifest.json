@@ -1,0 +1,14 @@
+{
+  "version": "U27B3E31_v1.0_2026-07-16",
+  "decision": "READY_FOR_U27B3E32_TARGETED_SUPPLEMENTARY_SOURCE_MAP_REPAIR_AND_REMATERIALIZATION",
+  "table_audits": 42,
+  "table_audits_passed": 36,
+  "blocking_failures": 6,
+  "control_complete": false,
+  "diagnostic_zip": "project://11_supplementary/phaseU27B3E3_supplementary_table_materialization/UTI_HostOmics_U27B3E3_Supplementary_Tables_S1-S10.zip",
+  "diagnostic_zip_sha256": "e9e4108f2fdb7a743409728cbc2a5016bb7bf49467e2fa93a2559a035f32496a",
+  "current_package_submission_approved": false,
+  "scientific_values_recalculated": false,
+  "source_files_modified": false,
+  "current_materialized_tables_modified": false
+}

@@ -1,0 +1,5 @@
+dataset	selected_expression_source	extraction_status	n_sanitized_gene_symbols	expected_range	plausible_gene_universe	qc_action
+GSE186800	project://02_data_raw/GSE186800/supplementary/GSE186800_Raw_geneCPM_matrix.txt.gz	ok	21716	10000-50000	True	none
+GSE280297	project://02_data_raw/GSE280297/supplementary/GSE280297_Normalized.counts.csv.gz	ok	0	10000-50000	False	inspect selected source and gene identifier column before U26B
+GSE112098	project://02_data_raw/GSE112098/supplementary/GSE112098_IndependentValidationsetMatrix.txt.gz	ok	20782	5000-60000	True	none
+GSE252321	project://02_data_raw/GSE252321/single_cell_matrices/GSM7999428_UPEC_1_matrix.tsv.gz	ok	15622	5000-50000	True	none

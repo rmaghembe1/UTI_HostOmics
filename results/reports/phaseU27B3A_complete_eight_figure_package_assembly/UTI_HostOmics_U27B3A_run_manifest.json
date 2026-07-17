@@ -1,0 +1,18 @@
+{
+  "version": "U27B3A_v1.0_2026-07-16",
+  "decision": "READY_FOR_U27B3B_DEFINITIVE_FIGURE_LEGEND_CONSTRUCTION",
+  "figures_packaged": 8,
+  "main_exports_packaged": 24,
+  "panel_crops_packaged": 57,
+  "source_value_tables_packaged": 8,
+  "visual_approval_records": 8,
+  "title_registry_panels": 57,
+  "all_checksums_match": true,
+  "zip_path": "project://06_figures/phaseU27B3A_complete_eight_figure_package_assembly/UTI_HostOmics_U27B3A_complete_eight_figure_package.zip",
+  "zip_sha256": "479d48c45fb4fa57b87ad4bdf5e56ef2f584821c6b9b67acd2addabe77c2f52d",
+  "scientific_values_changed": false,
+  "figure_content_changed": false,
+  "panel_architecture_changed": false,
+  "source_locks_changed": false,
+  "manuscript_modified": false
+}

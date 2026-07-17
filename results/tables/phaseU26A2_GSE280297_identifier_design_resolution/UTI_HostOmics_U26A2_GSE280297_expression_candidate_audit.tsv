@@ -1,0 +1,3 @@
+path	status	score	delimiter	first_column_header	n_rows_inspected	n_sample_columns	identifier_type	n_unique_symbols	n_unique_mouse_ensembl
+project://02_data_raw/GSE280297/supplementary/GSE280297_Normalized.counts.csv.gz	ok	310.0	,		56748	60	mouse_ensembl	0	56748
+project://02_data_raw/GSE280297/supplementary/GSE280297_gene_count.csv.gz	ok	80.0	,		56748	61	unresolved	0	0

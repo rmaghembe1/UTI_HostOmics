@@ -1,0 +1,6 @@
+contrast_id	analysis_scope	comparison	eligible_tissues	primary_statistics	status
+GSE280297_C1	within_tissue	UTI89_preterm_vs_UTI89_term	bladder;uterus;placenta	continuous module-score effect size; Welch/limma-style contrast; FDR	ready
+GSE280297_C2	within_tissue	UPEC_exposed_pregnancy_vs_PBS_pregnancy_control	bladder;uterus;placenta	continuous module-score effect size; Welch/limma-style contrast; FDR	ready
+GSE280297_C3	bladder_only	UTI89_nonpregnant_vs_UTI89_pregnant	bladder	effect size and exploratory FDR-controlled contrast	ready_with_small_group_caution
+GSE280297_C4	tissue_stratified	UTI89_RFP_vs_UTI89	where both groups occur	descriptive/exploratory effect sizes	secondary
+GSE280297_C5	dam_level	pregnancy_risk_index_vs_preterm_outcome	dam-aggregated bladder;uterus;placenta	AUROC/permutation; logistic model only if dam identifiers and effective n are adequate	deferred_missing_dam_id

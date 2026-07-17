@@ -1,0 +1,7 @@
+finding_type	allowed_wording	avoid_wording
+coherent broad-cell pseudobulk effect	The module showed directionally coherent UPEC-associated remodeling across multiple immune populations.	The module was statistically significant across cell types.
+large Hedges g at n=2 versus n=2	A large standardized effect was observed, interpreted together with module-gene fold change and direction coherence.	Very large biological induction based on Hedges g alone.
+cell-type composition change	The UPEC samples showed descriptive expansion or contraction of the population.	UPEC significantly changed abundance.
+fixed Treg-like or TNFSF9 state fraction	Both UPEC replicates showed higher descriptive fractions under a fixed marker definition.	UPEC caused Treg differentiation or CD137L induction.
+metabolic module	Transcriptionally inferred metabolic pathway activity.	Metabolic flux, substrate utilization or metabolite production unless directly measured.
+top cellular source	The strongest composite localization was observed in the named population.	The named population was the exclusive biological source.

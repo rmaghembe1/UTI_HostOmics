@@ -1,0 +1,11 @@
+supplementary_table	table_number	description	selected_source_count	all_sources_exist	source_status	assembly_mode	final_user_confirmation_required
+Table S1	1	Dataset architecture, sample design and inclusion roles for GSE112098, GSE280297, GSE186800 and GSE252321.	3	True	PROVISIONAL_COMPOSITE_REVIEW	ASSEMBLE_FROM_RANKED_EXISTING_SOURCES	True
+Table S2	2	Expanded 78-submodule library organized across ten biological axes.	1	True	LOCKED_HIGH_CONFIDENCE	DIRECT_OR_COMPOSITE_FROM_EXACT_FROZEN_SOURCES	False
+Table S3	3	Dataset-specific module effects and factorial or adjusted contrasts.	3	True	PROVISIONAL_COMPOSITE_REVIEW	ASSEMBLE_FROM_RANKED_EXISTING_SOURCES	True
+Table S4	4	Cross-dataset recurrence, directional concordance and evidence-class assignments.	3	True	PROVISIONAL_COMPOSITE_REVIEW	ASSEMBLE_FROM_RANKED_EXISTING_SOURCES	True
+Table S5	5	GSE280297 pregnancy, tissue and outcome-specific module effects.	3	True	PROVISIONAL_HIGH_CONFIDENCE	ASSEMBLE_FROM_RANKED_EXISTING_SOURCES	True
+Table S6	6	GSE252321 quality control, cluster markers, broad populations and refined subtypes.	3	True	PROVISIONAL_COMPOSITE_REVIEW	ASSEMBLE_FROM_RANKED_EXISTING_SOURCES	True
+Table S7	7	Broad-cell and refined-subtype pseudobulk module localization results.	3	True	PROVISIONAL_HIGH_CONFIDENCE	ASSEMBLE_FROM_RANKED_EXISTING_SOURCES	True
+Table S8	8	Complement-stage and endocrine-metabolic cellular attribution tables.	3	True	PROVISIONAL_HIGH_CONFIDENCE	ASSEMBLE_FROM_RANKED_EXISTING_SOURCES	True
+Table S9	9	Figure 1-8 source-value manifest and panel-level provenance registry.	3	True	LOCKED_HIGH_CONFIDENCE	DIRECT_OR_COMPOSITE_FROM_EXACT_FROZEN_SOURCES	False
+Table S10	10	Interpretation-boundary, sensitivity and manuscript claim-traceability register.	3	True	LOCKED_HIGH_CONFIDENCE	DIRECT_OR_COMPOSITE_FROM_EXACT_FROZEN_SOURCES	False

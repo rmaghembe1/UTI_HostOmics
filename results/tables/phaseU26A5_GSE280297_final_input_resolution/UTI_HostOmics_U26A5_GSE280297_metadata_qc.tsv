@@ -1,0 +1,2 @@
+annotation_path	n_annotation_rows	n_expression_samples	annotation_match_fraction	tissue_completion	treatment_completion	outcome_completion	pregnancy_completion	dam_id_completion_all	n_unresolved_rows	dam_id_completion_pregnancy_samples
+project://07_tables/phaseU4b_repaired_module_scores/GSE280297_gene_count_repaired_sample_annotation_v1.tsv	60	60	1.0	1.0	1.0	1.0	1.0	0.0	0	0.0

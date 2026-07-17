@@ -1,0 +1,11 @@
+{
+  "version": "U26D2B_v1.1_2026-07-14",
+  "decision": "READY_FOR_U26D2C_CELLULAR_LOCALIZATION_SYNTHESIS_AND_U27_FIGURE_INTEGRATION",
+  "module_dictionary_source": "project://03_metadata/phaseU26A_expanded_endocrine_metabolic_immune_feasibility/UTI_HostOmics_U26A_expanded_submodule_library.tsv",
+  "n_score_eligible_modules": 73,
+  "n_complete_broad_cell_types": 6,
+  "n_complete_refined_subtypes": 14,
+  "minimum_exact_permutation_p": 0.3333333333333333,
+  "manuscript_modified": false,
+  "existing_figures_modified": false
+}

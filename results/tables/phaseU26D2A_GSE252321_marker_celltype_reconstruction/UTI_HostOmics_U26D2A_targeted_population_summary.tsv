@@ -1,0 +1,9 @@
+sample_id	condition	targeted_population	parent_population	parent_cells	candidate_cells	candidate_fraction_within_parent
+GSM7999426_Control_1	control	Treg_candidate	T_cell	1129	226	0.20017714791851196
+GSM7999426_Control_1	control	CD137L_high_macrophage_candidate	macrophage_monocyte	1161	233	0.20068906115417742
+GSM7999427_Control_2	control	Treg_candidate	T_cell	2134	427	0.2000937207122774
+GSM7999427_Control_2	control	CD137L_high_macrophage_candidate	macrophage_monocyte	845	169	0.2
+GSM7999428_UPEC_1	UPEC	Treg_candidate	T_cell	520	104	0.2
+GSM7999428_UPEC_1	UPEC	CD137L_high_macrophage_candidate	macrophage_monocyte	1210	242	0.2
+GSM7999429_UPEC_2	UPEC	Treg_candidate	T_cell	625	125	0.2
+GSM7999429_UPEC_2	UPEC	CD137L_high_macrophage_candidate	macrophage_monocyte	1496	300	0.20053475935828877

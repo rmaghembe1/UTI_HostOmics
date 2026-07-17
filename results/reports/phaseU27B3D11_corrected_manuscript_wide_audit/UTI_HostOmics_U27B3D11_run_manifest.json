@@ -1,0 +1,27 @@
+{
+  "version": "U27B3D11_v1.0_2026-07-16",
+  "decision": "READY_FOR_U27B3D2_MANUSCRIPT_WIDE_V6_RECONSTRUCTION",
+  "manuscript_path": "project://09_manuscript_docx/phaseU27B3C41_integrated_figure_section_cleanup/UTI_HostOmics_preZotero_manuscript_v5_2_U27B3C41_figure_section_cleaned.docx",
+  "manuscript_sha256": "d3e947d6e9fad0f0d1485855e871cbfa5a3e1db5daf8ded720edff71b7089001",
+  "caption_count": 8,
+  "caption_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "drawing_count": 8,
+  "media_count": 8,
+  "results_ready": true,
+  "figures_ready": true,
+  "sections_requiring_replacement": 12,
+  "obsolete_occurrences": 11,
+  "manuscript_modified": false,
+  "scientific_values_recalculated": false,
+  "figure_assets_modified": false,
+  "source_locks_changed": false
+}

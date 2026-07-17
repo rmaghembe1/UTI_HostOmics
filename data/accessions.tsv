@@ -1,0 +1,5 @@
+accession	repository	organism	role	raw_data_in_repository
+GSE112098	NCBI Gene Expression Omnibus	Homo sapiens	Human urinary-cell systemic inflammatory comparator	no
+GSE186800	NCBI Gene Expression Omnibus	Mus musculus	Gardnerella-triggered recurrent UTI bladder model	no
+GSE252321	NCBI Gene Expression Omnibus	Mus musculus	Single-cell UPEC bladder immune-state analysis	no
+GSE280297	NCBI Gene Expression Omnibus	Mus musculus	Pregnancy-associated UPEC model across bladder, placenta, and uterus	no

@@ -1,0 +1,13 @@
+figure_number	format	source_exists	frozen_exists	nonempty	png_width_px	png_height_px	sha256
+5	png	True	True	True	2125.0	3060.0	a7df4e4bde49e88dce21a97ee983f34e8887147aab5ac5abc87ec8cfc29d57dc
+5	svg	True	True	True			b5b925c21b9f0d6d2942a8d47ba0b0a7d7ae6469902c7f95ac79347eb7f883a3
+5	pdf	True	True	True			9a2a8eefb75efd4d6bab536ae04b2046a1a103a025f568176467818e0941cec7
+6	png	True	True	True	2125.0	3390.0	d7648857b50ea2bcc9fbb694df88cc023c9ad015724ebb65067b305e17b2a2a6
+6	svg	True	True	True			c29719c0f87b0def92a25be90e5c04bdb2b8a5cb41c3f5a3f2d13fe8466142bd
+6	pdf	True	True	True			6b1e9cf4adab2a4201fc9f8d4fb160777db71300e8ff4b9e609d7287e38b86d3
+7	png	True	True	True	2125.0	3060.0	b4ace7438f81de06a686d14fcb388aa13515b9d58e99fd0f3f6f4a1d4277d038
+7	svg	True	True	True			a75f4257727a316b9642f93f51bb43c56338e517efbd12f63a763a3d8d68e06f
+7	pdf	True	True	True			2ab73664c2769e95da09187ee3ab66f5658df96a63e8158172b3172190981ff5
+8	png	True	True	True	2125.0	2760.0	2a9df4bc0aff70c0431270421e161cebfc4127d84ce516416c0b6def1730af33
+8	svg	True	True	True			df7bd127a83b6699b497c36cf7e0fbdf84c753fbda2bdc1a8be1e18203a94067
+8	pdf	True	True	True			3ff40fc5aa6f5e6039aa0167ee71f7baa6f59cb4656a93232ec6703675afc4fb

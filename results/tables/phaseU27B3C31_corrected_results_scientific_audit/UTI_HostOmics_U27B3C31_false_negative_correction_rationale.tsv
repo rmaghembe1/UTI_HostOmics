@@ -1,0 +1,4 @@
+previous_failed_audit	previous_rule	corrected_rule	manuscript_content_changed
+sample_unit_boundary	literal terms: tissue samples; dam-level	semantic rule accepts explicit no-dam-level wording or the stated absence of dam identifiers	False
+cross_dataset_boundary	literal terms: not pooled; species	semantic rule requires independent native-species/tissue analysis, non-pooled expression and standardized directional integration	False
+figure_references_1_to_8	bare figure numbers with a word boundary after the digit	panel-qualified references such as Figure 1A-E and Figure 8F are accepted	False

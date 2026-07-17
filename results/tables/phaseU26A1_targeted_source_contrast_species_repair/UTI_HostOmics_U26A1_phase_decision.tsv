@@ -1,0 +1,2 @@
+phase	decision	all_expression_sources_resolved	all_gene_universes_plausible	u26b_scope	critical_rule
+U26A.1	TARGETED_INPUT_REVIEW_REQUIRED	True	False	expression-level submodule scoring with tissue-stratified bulk models and sample-level single-cell pseudobulk	coverage feasibility is not evidence of differential pathway activity

@@ -1,0 +1,6 @@
+path	status	priority	delimiter	n_columns	n_rows_inspected	gene_column	symbol_like_fraction	n_numeric_columns	sample_count_distance	selection_score	error
+project://02_data_raw/GSE112098/matrix/GSE112098_series_matrix.txt.gz	unreadable	20		0	0		0.0	0		-9999.0	ParserError('Error tokenizing data. C error: Expected 2 fields in line 48, saw 74\n')
+project://02_data_raw/GSE112098/supplementary/GSE112098_IndependentValidationsetMatrix.txt.gz	ok	180	"	"	54	600	Probe IDs	1.0	52	21	632.0	
+project://03_data_processed/phaseU4b_repaired_matrices/GSE112098_repaired_gene_symbol_matrix.tsv.gz	ok	1080	"	"	53	600	gene_symbol	1.0	52	21	1532.0	
+project://03_data_processed/phaseU4_clean_matrices/GSE112098_clean_gene_symbol_matrix.tsv.gz	ok	930	"	"	53	600	gene_symbol	1.0	52	21	1382.0	
+project://03_data_processed/phaseU6_human_urine_comparator/GSE112098_series_matrix_repaired_gene_symbol_matrix.tsv.gz	ok	1080	"	"	74	600	gene_symbol	1.0	73	0	1803.0	

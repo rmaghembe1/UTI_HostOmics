@@ -1,0 +1,13 @@
+{
+  "decision": "READY_FOR_U27B3E6B2_TARGETED_FRONT_MATTER_INSERTION",
+  "document_modified": false,
+  "embedded_media_files": 8,
+  "expected_accessions_present": 4,
+  "expected_accessions_total": 4,
+  "paragraphs": 135,
+  "sections": 1,
+  "source_docx": "project://09_manuscript_docx/phaseU27B3E22_targeted_accession_correction/UTI_HostOmics_preZotero_manuscript_v6_3_U27B3E22_accession_corrected.docx",
+  "source_sha256": "e2ad9a68675428f8c48fcd6047a9fa89435709f40d0c8bc2ade257c5565faa8d",
+  "tables": 0,
+  "version": "U27B3E6B1_v1.0_2026-07-17"
+}

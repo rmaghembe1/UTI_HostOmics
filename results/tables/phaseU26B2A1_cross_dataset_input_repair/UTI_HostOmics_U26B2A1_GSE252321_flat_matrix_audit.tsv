@@ -1,0 +1,5 @@
+path	status	sample_id	condition	gene_column	symbol_like_fraction	n_numeric_cell_columns	scale_class	selection_score	error
+project://02_data_raw/GSE252321/single_cell_matrices/GSM7999426_Control_1_matrix.tsv.gz	ok	GSM7999426_Control_1	control	Unnamed: 0	1.0	6002	integer_like_counts	1600	
+project://02_data_raw/GSE252321/single_cell_matrices/GSM7999427_Control_2_matrix.tsv.gz	ok	GSM7999427_Control_2	control	Unnamed: 0	1.0	8855	integer_like_counts	1600	
+project://02_data_raw/GSE252321/single_cell_matrices/GSM7999428_UPEC_1_matrix.tsv.gz	ok	GSM7999428_UPEC_1	UPEC	Unnamed: 0	1.0	7372	integer_like_counts	1600	
+project://02_data_raw/GSE252321/single_cell_matrices/GSM7999429_UPEC_2_matrix.tsv.gz	ok	GSM7999429_UPEC_2	UPEC	Unnamed: 0	1.0	6084	integer_like_counts	1600	

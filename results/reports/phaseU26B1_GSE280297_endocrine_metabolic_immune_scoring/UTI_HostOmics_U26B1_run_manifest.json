@@ -1,0 +1,11 @@
+{
+  "version": "U26B1_v1.0_2026-07-14",
+  "project_root": "project:",
+  "expression_input": "project://03_data_processed/phaseU26A5_GSE280297_final_input_resolution/GSE280297_U26A5_canonical_60sample_gene_symbol_expression.tsv.gz",
+  "design_input": "project://03_metadata/phaseU26A5_GSE280297_final_input_resolution/GSE280297_U26A5_validated_60sample_design.tsv",
+  "module_library": "project://03_metadata/phaseU26A_expanded_endocrine_metabolic_immune_feasibility/UTI_HostOmics_U26A_expanded_submodule_library.tsv",
+  "bootstrap_iterations": 1000,
+  "decision": "READY_FOR_U26B2_CROSS_DATASET_SCORING",
+  "manuscript_modified": false,
+  "existing_figures_modified": false
+}

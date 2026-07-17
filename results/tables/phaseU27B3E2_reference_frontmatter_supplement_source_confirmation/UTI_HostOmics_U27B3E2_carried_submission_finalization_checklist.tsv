@@ -1,0 +1,6 @@
+blocker_id	trigger_phrase	present	status	required_action
+author_affiliation_placeholder	Affiliations and co-author list to be finalized	True	OPEN	Confirm final author order, affiliations and corresponding-author details.
+repository_placeholder	A public repository archive will be finalized before journal submission	True	OPEN	Create/finalize the public repository and replace provisional wording with a persistent URL/DOI.
+contribution_placeholder	should be updated after co-author review	True	OPEN	Confirm CRediT contributions with all authors.
+competing_interest_placeholder	should be finalized before submission	True	OPEN	Insert the final competing-interest declaration.
+acknowledgement_placeholder	Acknowledgements should be added before submission	True	OPEN	Insert the final acknowledgements.

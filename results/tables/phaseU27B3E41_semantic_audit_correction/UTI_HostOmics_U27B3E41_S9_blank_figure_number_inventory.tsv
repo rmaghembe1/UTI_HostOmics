@@ -1,0 +1,3 @@
+supplementary_table	materialized_row_number	source_role	figure_number	asset_type	package_path	source_path	format	panel	panel_blank	figure_specific_marker	package_level_marker	collective_legend	classification	authorized_blank_figure_number
+S9	82	Frozen Figure 1-8 asset manifest		main_contact_sheet	project://06_figures/phaseU27B3A_complete_eight_figure_package_assembly/UTI_HostOmics_U27B3A_Figures_1_to_8_contact_sheet.png		png		True	False	contact_sheet	False	AUTHORIZED_PACKAGE_LEVEL_ASSET	True
+S9	83	Frozen Figure 1-8 asset manifest		panel_contact_sheet	project://06_figures/phaseU27B3A_complete_eight_figure_package_assembly/UTI_HostOmics_U27B3A_all_57_panels_contact_sheet.png		png		True	False	contact_sheet	False	FIGURE_LINKED_ASSET_MISSING_FIGURE_NUMBER	False

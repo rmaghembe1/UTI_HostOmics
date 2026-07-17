@@ -1,0 +1,4 @@
+asset	disposition	reason
+project://03_data_processed/phaseU4b_repaired_matrices/GSE280297_gene_count_repaired_gene_symbol_matrix.tsv.gz	selected_primary	valid gene symbols; all 60 B/U/P samples; continuous transformed expression suitable for module scoring
+project://07_tables/phaseU4b_repaired_module_scores/GSE280297_gene_count_repaired_sample_annotation_v1.tsv	selected_matching_annotation	matching 60-sample annotation architecture
+project://03_data_processed/phaseU4b_repaired_matrices/GSE280297_normalized_repaired_gene_symbol_matrix.tsv.gz	excluded	gene_symbol column contains numeric values and B1-B3 are absent

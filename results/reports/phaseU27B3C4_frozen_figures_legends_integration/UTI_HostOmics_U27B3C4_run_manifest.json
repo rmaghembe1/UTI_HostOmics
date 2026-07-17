@@ -1,0 +1,23 @@
+{
+  "version": "U27B3C4_v1.0_2026-07-16",
+  "decision": "TARGETED_U27B3C4_FIGURE_LEGEND_INTEGRATION_REPAIR_REQUIRED",
+  "source_path": "project://09_manuscript_docx/phaseU27B3C2_results_section_reconstruction/UTI_HostOmics_preZotero_manuscript_v5_0_U27B3C2_results_reconstructed.docx",
+  "source_sha256": "40b7419a3779b540d58f26cf2523a72cbefaff27e6117a9d32504bed7b9c3cbe",
+  "output_path": "project://09_manuscript_docx/phaseU27B3C4_frozen_figures_legends_integration/UTI_HostOmics_preZotero_manuscript_v5_1_U27B3C4_figures_legends_integrated.docx",
+  "output_sha256": "53aa829088468df4c70afd44a4290b701f814718fe78dc66e0b29484a278bee7",
+  "legacy_figures_removed": 6,
+  "frozen_figures_integrated": 8,
+  "legends_integrated": 20,
+  "media_parts": 8,
+  "embedded_figure_hashes_match": true,
+  "definitive_legends_match": false,
+  "results_text_preserved": true,
+  "tables_preserved": true,
+  "source_unchanged": true,
+  "render_pass": false,
+  "contact_sheet": "",
+  "scientific_values_recalculated": false,
+  "frozen_figure_assets_modified": false,
+  "source_locks_changed": false,
+  "source_derivative_modified": false
+}

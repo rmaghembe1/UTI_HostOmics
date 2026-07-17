@@ -1,0 +1,23 @@
+{
+  "version": "U27B3E1_v1.0_2026-07-16",
+  "decision": "READY_FOR_U27B3E2_REFERENCE_FRONT_MATTER_AND_SUPPLEMENT_SOURCE_CONFIRMATION",
+  "source": "project://09_manuscript_docx/phaseU27B3D21_corrected_v6_reconstruction/UTI_HostOmics_preZotero_manuscript_v6_1_U27B3D21_scientifically_harmonized_corrected.docx",
+  "source_sha256": "8684579d39fcbb65cf47e2882058b9eab07d3d5513e62921ddec246c5229b030",
+  "output": "project://09_manuscript_docx/phaseU27B3E1_reference_supplement_submission_architecture/UTI_HostOmics_preZotero_manuscript_v6_2_U27B3E1_submission_architecture_cleaned.docx",
+  "output_sha256": "c7639e9c3b0030aec56c4aed9ca53c76760ad4ad08dc2790fb6f8dc1338b51c5",
+  "internal_companion": "project://09_manuscript_docx/phaseU27B3E1_reference_supplement_submission_architecture/internal_reference_tracking/UTI_HostOmics_U27B3E1_internal_reference_and_Zotero_tracking.docx",
+  "reference_gap_records": 5,
+  "reference_table_rows": 16,
+  "supplementary_tables": 10,
+  "candidate_rows": 120,
+  "open_submission_blockers": 5,
+  "results_preserved": true,
+  "figures_legends_preserved": true,
+  "images_preserved": true,
+  "render_pass": true,
+  "render_pages": 25,
+  "source_modified": false,
+  "scientific_values_recalculated": false,
+  "figure_assets_modified": false,
+  "source_locks_changed": false
+}

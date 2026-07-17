@@ -1,0 +1,49 @@
+# Raw and processed expression data
+02_data_raw/
+03_data_processed/
+04_data_processed/
+data/raw/
+data/processed/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.sam
+*.cram
+*.h5
+*.h5ad
+*.loom
+*.mtx
+*.mtx.gz
+*.npz
+*.rds
+*.RData
+
+# Large or intermediate figure products
+*_draft*
+*_contact_sheet*
+render_qa/
+*.psd
+*.ai
+
+# Local runtime and caches
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.Rproj.user/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.DS_Store
+Thumbs.db
+
+# Logs, temporary files, and editor state
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*~

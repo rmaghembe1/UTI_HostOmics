@@ -1,0 +1,7 @@
+column	value	n_samples
+inferred_group	PBS	10
+inferred_group	Gardnerella	10
+source	GSE186800_PBS_1.txt.gz	5
+source	GSE186800_Gard_1.txt.gz	5
+source	GSE186800_PBS_2.txt.gz	5
+source	GSE186800_Gard_2.txt.gz	5

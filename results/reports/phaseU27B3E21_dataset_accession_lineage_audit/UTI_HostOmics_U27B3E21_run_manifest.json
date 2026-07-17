@@ -1,0 +1,15 @@
+{
+  "version": "U27B3E21_v1.0_2026-07-16",
+  "decision": "READY_FOR_U27B3E22_TARGETED_ACCESSION_CORRECTION_GSE168600_TO_GSE186800",
+  "files_scanned": 1381,
+  "files_with_mentions": 351,
+  "GSE186800_source_files": 60,
+  "GSE168600_source_files": 0,
+  "GSE168600_label_files": 42,
+  "recurrent_design_support": true,
+  "manuscript_modified": false,
+  "figure_assets_modified": false,
+  "scientific_values_recalculated": false,
+  "source_locks_changed": false,
+  "supplementary_materialization_allowed": false
+}

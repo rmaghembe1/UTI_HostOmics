@@ -1,0 +1,2 @@
+phase	decision	n_GSE252321_files	n_valid_10x_triplets	n_control_matrices	n_UPEC_matrices	n_unresolved_matrices	annotated_object_available	n_metadata_table_candidates	manuscript_modified	existing_figures_modified	next_phase
+U26D1	TARGETED_SINGLECELL_INPUT_REVIEW_REQUIRED	59	0	0	0	0	False	18	False	False	Targeted single-cell input or sample-label repair

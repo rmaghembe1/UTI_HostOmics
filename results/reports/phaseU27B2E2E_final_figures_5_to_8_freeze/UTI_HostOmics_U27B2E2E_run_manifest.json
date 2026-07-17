@@ -1,0 +1,14 @@
+{
+  "version": "U27B2E2E_v1.0_2026-07-16",
+  "decision": "READY_FOR_U27B3_COMPLETE_EIGHT_FIGURE_PACKAGE_AND_LEGEND_INTEGRATION",
+  "figures_frozen": 4,
+  "exports_frozen": 12,
+  "panel_crops_frozen": 28,
+  "contact_sheets_frozen": true,
+  "visual_audit_pass": true,
+  "scientific_values_changed": false,
+  "displayed_modules_changed": false,
+  "pathway_membership_changed": false,
+  "source_locks_changed": false,
+  "manuscript_modified": false
+}

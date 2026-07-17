@@ -1,0 +1,10 @@
+{
+  "version": "U26D2A1_v1.0_2026-07-14",
+  "decision": "READY_FOR_U26D2B_REFINED_CELLTYPE_PSEUDOBULK_SCORING",
+  "n_QC_cells": 27385,
+  "n_refined_broad_cell_types": 7,
+  "n_refined_subtypes": 18,
+  "tnfsf9_high_threshold": 2.2088557416963575,
+  "manuscript_modified": false,
+  "existing_figures_modified": false
+}

@@ -1,0 +1,11 @@
+supplementary_table	table_number	description	status
+Table S1	1	Dataset architecture, sample design and inclusion roles for GSE112098, GSE280297, GSE168600 and GSE252321.	SOURCE_CONFIRMATION_REQUIRED
+Table S2	2	Expanded 78-submodule library organized across ten biological axes.	SOURCE_CONFIRMATION_REQUIRED
+Table S3	3	Dataset-specific module effects and factorial or adjusted contrasts.	SOURCE_CONFIRMATION_REQUIRED
+Table S4	4	Cross-dataset recurrence, directional concordance and evidence-class assignments.	SOURCE_CONFIRMATION_REQUIRED
+Table S5	5	GSE280297 pregnancy, tissue and outcome-specific module effects.	SOURCE_CONFIRMATION_REQUIRED
+Table S6	6	GSE252321 quality control, cluster markers, broad populations and refined subtypes.	SOURCE_CONFIRMATION_REQUIRED
+Table S7	7	Broad-cell and refined-subtype pseudobulk module localization results.	SOURCE_CONFIRMATION_REQUIRED
+Table S8	8	Complement-stage and endocrine-metabolic cellular attribution tables.	SOURCE_CONFIRMATION_REQUIRED
+Table S9	9	Figure 1-8 source-value manifest and panel-level provenance registry.	SOURCE_CONFIRMATION_REQUIRED
+Table S10	10	Interpretation-boundary, sensitivity and manuscript claim-traceability register.	SOURCE_CONFIRMATION_REQUIRED

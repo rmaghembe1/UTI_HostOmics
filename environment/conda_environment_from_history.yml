@@ -1,0 +1,35 @@
+name: base
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.13
+  - conda=26.1.1
+  - setuptools
+  - pip
+  - wheel
+  - conda-anaconda-telemetry[version='>=0.2.0']
+  - conda-anaconda-tos[version='>=0.2.1']
+  - conda-content-trust
+  - conda-libmamba-solver
+  - menuinst
+  - anaconda-anon-usage
+  - ncbi-datasets-cli
+  - orthofinder
+  - perl-path-tiny
+  - mamba
+  - ragtag
+  - openpyxl
+  - pandas
+  - seaborn
+  - multiqc
+  - fastqc
+  - famsa
+  - ucsc-bigbedtobed
+  - fastp
+  - kraken2
+  - bracken
+  - megahit
+  - plink2
+prefix: /home/rmaghembe/miniconda3

@@ -1,0 +1,61 @@
+supplementary_figure	panel	panel_title	primary_source	supplementary_figure_title	planned_panels	panel_key	architecture_status
+Figure_S1	A	Dataset search and inclusion flow	dataset manifests	Dataset acquisition and preprocessing	6	Figure_S1A	frozen
+Figure_S1	B	Raw input types and accessions	raw-data inventory	Dataset acquisition and preprocessing	6	Figure_S1B	frozen
+Figure_S1	C	Expression-matrix repair	U26A5/U26B2A1 reports	Dataset acquisition and preprocessing	6	Figure_S1C	frozen
+Figure_S1	D	Gene-symbol resolution	matrix repair audits	Dataset acquisition and preprocessing	6	Figure_S1D	frozen
+Figure_S1	E	Sample retention	validated designs	Dataset acquisition and preprocessing	6	Figure_S1E	frozen
+Figure_S1	F	Final analysis-ready datasets	phase decisions	Dataset acquisition and preprocessing	6	Figure_S1F	frozen
+Figure_S2	A	Ten biological axes	U26A module library	Module-library construction and coverage	6	Figure_S2A	frozen
+Figure_S2	B	Seventy-eight submodules	U26A module library	Module-library construction and coverage	6	Figure_S2B	frozen
+Figure_S2	C	Gene-set size distribution	U26A gene membership	Module-library construction and coverage	6	Figure_S2C	frozen
+Figure_S2	D	Human and mouse coverage	U26B/U26D coverage	Module-library construction and coverage	6	Figure_S2D	frozen
+Figure_S2	E	Weak and partial modules	coverage audits	Module-library construction and coverage	6	Figure_S2E	frozen
+Figure_S2	F	Score-eligibility summary	U26B1/U26D2B	Module-library construction and coverage	6	Figure_S2F	frozen
+Figure_S3	A	Canonical matrix validation	U26A5	GSE280297 technical and statistical diagnostics	8	Figure_S3A	frozen
+Figure_S3	B	Sample and tissue distribution	GSE280297 design	GSE280297 technical and statistical diagnostics	8	Figure_S3B	frozen
+Figure_S3	C	Module-score distributions	U26B1	GSE280297 technical and statistical diagnostics	8	Figure_S3C	frozen
+Figure_S3	D	Permutation behavior	U26B1.1	GSE280297 technical and statistical diagnostics	8	Figure_S3D	frozen
+Figure_S3	E	Overall FDR landscape	U26B1.1	GSE280297 technical and statistical diagnostics	8	Figure_S3E	frozen
+Figure_S3	F	Family-specific FDR landscape	U26B1.1	GSE280297 technical and statistical diagnostics	8	Figure_S3F	frozen
+Figure_S3	G	Effect-size stability	U26B1.1	GSE280297 technical and statistical diagnostics	8	Figure_S3G	frozen
+Figure_S3	H	Exploratory C4 separation	U26B1.1 secondary	GSE280297 technical and statistical diagnostics	8	Figure_S3H	frozen
+Figure_S4	A	GSE112098 adjusted model	U26B2B	Cross-dataset comparator and sensitivity analyses	8	Figure_S4A	frozen
+Figure_S4	B	GSE186800 block effects	U26B2B	Cross-dataset comparator and sensitivity analyses	8	Figure_S4B	frozen
+Figure_S4	C	GSE186800 averaged treatment effects	U26B2B1	Cross-dataset comparator and sensitivity analyses	8	Figure_S4C	frozen
+Figure_S4	D	GSE252321 whole-sample pseudobulk	U26B2B	Cross-dataset comparator and sensitivity analyses	8	Figure_S4D	frozen
+Figure_S4	E	Independent-effect collapse	U26B2B1	Cross-dataset comparator and sensitivity analyses	8	Figure_S4E	frozen
+Figure_S4	F	Dataset weighting sensitivity	U26B2B1	Cross-dataset comparator and sensitivity analyses	8	Figure_S4F	frozen
+Figure_S4	G	Alternative recurrence definitions	U26B2B1	Cross-dataset comparator and sensitivity analyses	8	Figure_S4G	frozen
+Figure_S4	H	Divergent modules	U26B2B1	Cross-dataset comparator and sensitivity analyses	8	Figure_S4H	frozen
+Figure_S5	A	Per-sample library depth	U26D1A	Single-cell QC and annotation diagnostics	8	Figure_S5A	frozen
+Figure_S5	B	Detected genes	U26D1A	Single-cell QC and annotation diagnostics	8	Figure_S5B	frozen
+Figure_S5	C	Mitochondrial fraction	U26D1A	Single-cell QC and annotation diagnostics	8	Figure_S5C	frozen
+Figure_S5	D	Balanced integration	U26D2A	Single-cell QC and annotation diagnostics	8	Figure_S5D	frozen
+Figure_S5	E	Unsupervised clusters	U26D2A	Single-cell QC and annotation diagnostics	8	Figure_S5E	frozen
+Figure_S5	F	Marker-panel validation	U26D2A	Single-cell QC and annotation diagnostics	8	Figure_S5F	frozen
+Figure_S5	G	Annotation confidence	U26D2A	Single-cell QC and annotation diagnostics	8	Figure_S5G	frozen
+Figure_S5	H	Cluster-refinement audit	U26D2A1	Single-cell QC and annotation diagnostics	8	Figure_S5H	frozen
+Figure_S6	A	Broad-cell full module heatmap	U26D2B	Complete cell-type and subtype pseudobulk landscape	8	Figure_S6A	frozen
+Figure_S6	B	Refined-subtype full module heatmap	U26D2B	Complete cell-type and subtype pseudobulk landscape	8	Figure_S6B	frozen
+Figure_S6	C	Module coverage	U26D2B	Complete cell-type and subtype pseudobulk landscape	8	Figure_S6C	frozen
+Figure_S6	D	Cellular-localization classes	U26D2C	Complete cell-type and subtype pseudobulk landscape	8	Figure_S6D	frozen
+Figure_S6	E	Variance-sensitive effects	U26D2C	Complete cell-type and subtype pseudobulk landscape	8	Figure_S6E	frozen
+Figure_S6	F	Composite localization scores	U26D2C	Complete cell-type and subtype pseudobulk landscape	8	Figure_S6F	frozen
+Figure_S6	G	Top broad-cell sources	U26D2C	Complete cell-type and subtype pseudobulk landscape	8	Figure_S6G	frozen
+Figure_S6	H	Top refined-subtype sources	U26D2C	Complete cell-type and subtype pseudobulk landscape	8	Figure_S6H	frozen
+Figure_S7	A	Independent amino-acid/nucleotide/redox effects	U27A4 Figure 9A	Full amino-acid, nucleotide, nitrogen and redox atlas	4	Figure_S7A	frozen
+Figure_S7	B	Pregnancy preterm-term effects	U27A4 Figure 9B	Full amino-acid, nucleotide, nitrogen and redox atlas	4	Figure_S7B	frozen
+Figure_S7	C	Broad-cell cellular localization	U27A4 Figure 9C	Full amino-acid, nucleotide, nitrogen and redox atlas	4	Figure_S7C	frozen
+Figure_S7	D	Refined-subtype support	U27A4 Figure 9D	Full amino-acid, nucleotide, nitrogen and redox atlas	4	Figure_S7D	frozen
+Figure_S8	A	Androgen/testosterone biosynthesis	U26B1.1	Extended endocrine/lipid and complement branches	6	Figure_S8A	frozen
+Figure_S8	B	Testosterone conversion/aromatization	U26B1.1	Extended endocrine/lipid and complement branches	6	Figure_S8B	frozen
+Figure_S8	C	Steroid catabolism/deactivation	U26B1.1	Extended endocrine/lipid and complement branches	6	Figure_S8C	frozen
+Figure_S8	D	Lectin complement outside cellular data	U26B1.1	Extended endocrine/lipid and complement branches	6	Figure_S8D	frozen
+Figure_S8	E	Terminal-MAC outside cellular data	U26B1.1	Extended endocrine/lipid and complement branches	6	Figure_S8E	frozen
+Figure_S8	F	Coverage limitations	U26D2B	Extended endocrine/lipid and complement branches	6	Figure_S8F	frozen
+Figure_S9	A	Alternative effect metrics	U26B1.1/U26D2C	Robustness, evidence hierarchy and claim-boundary audit	6	Figure_S9A	frozen
+Figure_S9	B	Hedges-g variance sensitivity	U26D2C	Robustness, evidence hierarchy and claim-boundary audit	6	Figure_S9B	frozen
+Figure_S9	C	Composite cellular-localization score	U26D2C	Robustness, evidence hierarchy and claim-boundary audit	6	Figure_S9C	frozen
+Figure_S9	D	Evidence tiers	U26C1	Robustness, evidence hierarchy and claim-boundary audit	6	Figure_S9D	frozen
+Figure_S9	E	Claim-language boundaries	U26D2C	Robustness, evidence hierarchy and claim-boundary audit	6	Figure_S9E	frozen
+Figure_S9	F	Study limitations	U26C1/U26D2C	Robustness, evidence hierarchy and claim-boundary audit	6	Figure_S9F	frozen

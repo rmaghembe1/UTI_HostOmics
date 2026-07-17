@@ -1,0 +1,9 @@
+audit_id	pass	observed	expected
+source_hash_unchanged	True	e2ad9a68675428f8c48fcd6047a9fa89435709f40d0c8bc2ade257c5565faa8d	e2ad9a68675428f8c48fcd6047a9fa89435709f40d0c8bc2ade257c5565faa8d
+embedded_media_byte_identical	True	source=8; output=8; identical=8	8 output media files, all byte-identical
+field_char_count_preserved	True	0	0
+instr_text_count_preserved	True	0	0
+confirmed_text_present	True	12	12
+all_four_accessions_present	True	4	4
+cross_project_funding_markers_absent	True	6	6
+source_docx_not_modified	True	False	False

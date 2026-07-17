@@ -1,0 +1,17 @@
+sample_id	condition	targeted_measure	numerator_cells	parent_cells	value	definition
+GSM7999426_Control_1	control	strict_Treg_like_fraction_within_T	22	1129	0.01948627103631532	FOXP3 positive plus >=1 of IL2RA/CTLA4/TNFRSF18
+GSM7999426_Control_1	control	expanded_Treg_like_fraction_within_T	404	1129	0.35783879539415414	FOXP3 positive or >=2 of IL2RA/CTLA4/TNFRSF18
+GSM7999426_Control_1	control	TNFSF9_positive_fraction_within_macrophage	492	2030	0.24236453201970443	TNFSF9 detectable in refined macrophage/monocyte
+GSM7999426_Control_1	control	TNFSF9_high_fraction_within_macrophage	93	2030	0.0458128078817734	TNFSF9 above pooled positive-cell 75th percentile (2.208856)
+GSM7999427_Control_2	control	strict_Treg_like_fraction_within_T	31	2134	0.014526710402999063	FOXP3 positive plus >=1 of IL2RA/CTLA4/TNFRSF18
+GSM7999427_Control_2	control	expanded_Treg_like_fraction_within_T	541	2134	0.253514526710403	FOXP3 positive or >=2 of IL2RA/CTLA4/TNFRSF18
+GSM7999427_Control_2	control	TNFSF9_positive_fraction_within_macrophage	285	2842	0.10028149190710767	TNFSF9 detectable in refined macrophage/monocyte
+GSM7999427_Control_2	control	TNFSF9_high_fraction_within_macrophage	79	2842	0.027797325826882477	TNFSF9 above pooled positive-cell 75th percentile (2.208856)
+GSM7999428_UPEC_1	UPEC	strict_Treg_like_fraction_within_T	54	520	0.10384615384615385	FOXP3 positive plus >=1 of IL2RA/CTLA4/TNFRSF18
+GSM7999428_UPEC_1	UPEC	expanded_Treg_like_fraction_within_T	207	520	0.39807692307692305	FOXP3 positive or >=2 of IL2RA/CTLA4/TNFRSF18
+GSM7999428_UPEC_1	UPEC	TNFSF9_positive_fraction_within_macrophage	757	2822	0.26824946846208364	TNFSF9 detectable in refined macrophage/monocyte
+GSM7999428_UPEC_1	UPEC	TNFSF9_high_fraction_within_macrophage	203	2822	0.07193479801559177	TNFSF9 above pooled positive-cell 75th percentile (2.208856)
+GSM7999429_UPEC_2	UPEC	strict_Treg_like_fraction_within_T	39	625	0.0624	FOXP3 positive plus >=1 of IL2RA/CTLA4/TNFRSF18
+GSM7999429_UPEC_2	UPEC	expanded_Treg_like_fraction_within_T	240	625	0.384	FOXP3 positive or >=2 of IL2RA/CTLA4/TNFRSF18
+GSM7999429_UPEC_2	UPEC	TNFSF9_positive_fraction_within_macrophage	953	2809	0.3392666429334283	TNFSF9 detectable in refined macrophage/monocyte
+GSM7999429_UPEC_2	UPEC	TNFSF9_high_fraction_within_macrophage	247	2809	0.08793164827340691	TNFSF9 above pooled positive-cell 75th percentile (2.208856)

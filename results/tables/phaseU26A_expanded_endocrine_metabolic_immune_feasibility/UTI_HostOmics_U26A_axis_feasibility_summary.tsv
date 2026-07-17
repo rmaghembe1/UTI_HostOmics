@@ -1,0 +1,11 @@
+axis	n_submodules	n_main_candidates	n_secondary_candidates	n_exploratory	n_deferred	feasibility_score	axis_recommendation	proposed_figure_family
+adipokine_signaling	5	5	0	0	0	1.0	main_figure_axis	Figure_8
+amino_acid_metabolism	8	8	0	0	0	1.0	main_figure_axis	Figure_9
+carbohydrate_inflammatory_carbon	11	11	0	0	0	1.0	main_figure_axis	Figure_8
+catecholamine_stress_adjacent	3	3	0	0	0	1.0	main_figure_axis	Figure_9
+immune_context_anchors	6	6	0	0	0	1.0	main_figure_axis	Integrated_network
+insulin_irs_signaling	4	4	0	0	0	1.0	main_figure_axis	Figure_8
+lipid_metabolism	8	8	0	0	0	1.0	main_figure_axis	Figure_7
+nucleotide_nad_nitrogen	9	9	0	0	0	1.0	main_figure_axis	Figure_9
+complement_architecture	9	8	1	0	0	0.9611	main_figure_axis	Figure_10
+steroid_cholesterol_endocrine	15	13	0	2	0	0.9067	main_figure_axis	Figure_7

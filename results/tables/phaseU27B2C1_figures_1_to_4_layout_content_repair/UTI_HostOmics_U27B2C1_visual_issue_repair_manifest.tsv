@@ -1,0 +1,13 @@
+figure	panel	observed_issue	implemented_repair
+Figure_1	B	Dataset panel omitted GSE280297 and GSE252321.	Build a four-dataset biological-sample summary.
+Figure_1	E	Workflow boxes and text were too small and crowded.	Use a six-stage snake workflow with shorter labels.
+Figure_1	F	Long evidence-class labels collided.	Collapse to concise manuscript-facing evidence classes.
+Figure_2	A-B	Panel B labels overlapped Panel A and its colorbar.	Use a vertical evidence-class chart and a horizontal Panel A colorbar.
+Figure_2	C-E	Titles, labels and annotations collided.	Increase gutters and simplify each panel.
+Figure_2	G	Concordance annotations were unreadably crowded.	Number six priority points and provide an inset key.
+Figure_3	B/E/G	Automatic ranking produced complement-dominated panels.	Use U26C1 biological labels for curated branch-balanced selection.
+Figure_3	F	Title was truncated.	Shorten the panel title.
+Figure_3	H	Working-model boxes and text overlapped.	Rebuild as a six-node nonoverlapping model.
+Figure_4	B	Marker labels were too dense.	Use at most two markers per cluster.
+Figure_4	C-F	Sample and targeted-state labels were too long.	Use compact biological-sample and state labels.
+Figure_4	H	Model nodes overlapped.	Rebuild as a five-node cellular model.

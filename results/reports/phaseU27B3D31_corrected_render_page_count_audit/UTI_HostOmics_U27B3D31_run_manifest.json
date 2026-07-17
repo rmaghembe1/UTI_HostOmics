@@ -1,0 +1,21 @@
+{
+  "version": "U27B3D31_v1.0_2026-07-16",
+  "decision": "READY_FOR_U27B3E1_REFERENCE_SUPPLEMENTARY_AND_SUBMISSION_ARCHITECTURE_FINALIZATION",
+  "manuscript_path": "project://09_manuscript_docx/phaseU27B3D21_corrected_v6_reconstruction/UTI_HostOmics_preZotero_manuscript_v6_1_U27B3D21_scientifically_harmonized_corrected.docx",
+  "observed_png_pages": 30,
+  "pdf_page_count": 30,
+  "canonical_page_count": 30,
+  "contiguous_page_sequence": true,
+  "blank_page_flags": 0,
+  "contact_sheet_present": true,
+  "render_pass": true,
+  "section_pass": true,
+  "scientific_pass": true,
+  "figures_pass": true,
+  "obsolete_absent": true,
+  "submission_finalization_blockers": 7,
+  "manuscript_modified": false,
+  "scientific_values_recalculated": false,
+  "figure_assets_modified": false,
+  "source_locks_changed": false
+}

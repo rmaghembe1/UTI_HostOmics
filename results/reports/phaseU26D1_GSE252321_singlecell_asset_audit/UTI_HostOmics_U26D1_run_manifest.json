@@ -1,0 +1,10 @@
+{
+  "version": "U26D1_v1.0_2026-07-14",
+  "project_root": "project:",
+  "decision": "TARGETED_SINGLECELL_INPUT_REVIEW_REQUIRED",
+  "n_files": 59,
+  "n_valid_10x_triplets": 0,
+  "annotated_object_available": false,
+  "manuscript_modified": false,
+  "existing_figures_modified": false
+}

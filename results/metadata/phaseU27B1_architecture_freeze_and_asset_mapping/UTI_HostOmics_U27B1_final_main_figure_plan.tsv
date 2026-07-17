@@ -1,0 +1,9 @@
+figure	title	n_panels	primary_message	architecture_status
+Figure_1	Study architecture, datasets and evidence framework	6	The study integrates cross-dataset infection biology, pregnancy outcome, endocrine-metabolic modules and cell-resolved validation under an explicit evidence hierarchy.	frozen
+Figure_2	Cross-dataset infection-response core	7	A TLR4-linked leptin/PI3K-AKT core is supported across independent infection contexts, with provisional complement support.	frozen
+Figure_3	Pregnancy-, tissue- and outcome-resolved UTI remodeling	8	Pregnancy-associated UTI remodeling is tissue-specific and branch-selective rather than a global steroid-metabolic shift.	frozen
+Figure_4	Single-cell immune ecosystem and the TNFSF9-Treg axis	8	UPEC induces myeloid expansion while TNFSF9-positive macrophage, Treg-like and pathway programs remain distributed across multiple immune states.	frozen
+Figure_5	Steroid, cholesterol and lipid-remodeling architecture	7	Steroid synthesis, cholesterol metabolism, receptor response and lipid-stress programs are biologically separable branches.	frozen
+Figure_6	Adipokine, insulin and integrated immunometabolic remodeling	8	Adipokine and insulin signaling couple to inflammatory carbon use, nitrogen metabolism and purine-redox remodeling.	frozen
+Figure_7	Complement branch and cellular architecture	7	Complement remodeling is branch- and cell-specific rather than uniformly activated.	frozen
+Figure_8	Integrated endocrine-metabolic-immune model	6	UTI biology emerges from context-dependent endocrine, metabolic and immune programs with distinct cellular sources.	frozen

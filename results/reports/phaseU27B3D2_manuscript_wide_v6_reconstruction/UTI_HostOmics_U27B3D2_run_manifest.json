@@ -1,0 +1,14 @@
+{
+  "version": "U27B3D2_v1.0_2026-07-16",
+  "decision": "V6_RECONSTRUCTION_COMPLETE_RENDER_QA_PENDING",
+  "source": "project://09_manuscript_docx/phaseU27B3C41_integrated_figure_section_cleanup/UTI_HostOmics_preZotero_manuscript_v5_2_U27B3C41_figure_section_cleaned.docx",
+  "source_sha256": "d3e947d6e9fad0f0d1485855e871cbfa5a3e1db5daf8ded720edff71b7089001",
+  "output": "project://09_manuscript_docx/phaseU27B3D2_manuscript_wide_v6_reconstruction/UTI_HostOmics_preZotero_manuscript_v6_0_U27B3D2_scientifically_harmonized.docx",
+  "output_sha256": "d30ca2b91ad7fb94cc955eaf34a4b051aff4f2b829a1865b4a57f813c5ddfa56",
+  "results_preserved": true,
+  "figures_legends_preserved": true,
+  "images_preserved": true,
+  "content_pass": true,
+  "render_pass": false,
+  "page_count": 0
+}

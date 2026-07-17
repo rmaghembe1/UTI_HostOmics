@@ -1,0 +1,12 @@
+supplementary_table	manuscript_table_number_present	title_anchor_terms	title_anchor_hits	title_anchor_expected_minimum	title_consistency_pass
+S1	True	dataset; architecture; inclusion; gse112098; gse280297	5	2	True
+S2	True	expanded; 78-submodule; library; biological	4	2	True
+S3	True	dataset-specific; effects; factorial; adjusted; contrasts	5	2	True
+S4	True	cross-dataset; recurrence; directional; concordance; evidence-class	5	2	True
+S5	True	gse280297; pregnancy; outcome-specific; effects	4	2	True
+S6	True	gse252321; quality; control; cluster; markers	5	2	True
+S7	True	broad-cell; refined-subtype; pseudobulk; localization	4	2	True
+S8	True	complement-stage; endocrine-metabolic; cellular; attribution	4	2	True
+S9	True	source-value; manifest; panel-level; provenance; registry	5	2	True
+S10	True	interpretation-boundary; sensitivity; manuscript; claim-traceability; register	5	2	True
+ACCESSION	True	GSE186800	1	1	True

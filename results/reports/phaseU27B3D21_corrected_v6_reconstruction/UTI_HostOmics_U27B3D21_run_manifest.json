@@ -1,0 +1,17 @@
+{
+  "version": "U27B3D21_v1.0_2026-07-16",
+  "decision": "READY_FOR_U27B3D3_V6_MANUSCRIPT_VISUAL_AND_SCIENTIFIC_AUDIT",
+  "source": "project://09_manuscript_docx/phaseU27B3D2_manuscript_wide_v6_reconstruction/UTI_HostOmics_preZotero_manuscript_v6_0_U27B3D2_scientifically_harmonized.docx",
+  "source_sha256": "d30ca2b91ad7fb94cc955eaf34a4b051aff4f2b829a1865b4a57f813c5ddfa56",
+  "output": "project://09_manuscript_docx/phaseU27B3D21_corrected_v6_reconstruction/UTI_HostOmics_preZotero_manuscript_v6_1_U27B3D21_scientifically_harmonized_corrected.docx",
+  "output_sha256": "8684579d39fcbb65cf47e2882058b9eab07d3d5513e62921ddec246c5229b030",
+  "results_preserved": true,
+  "figures_legends_preserved": true,
+  "images_preserved": true,
+  "section_structure_pass": true,
+  "obsolete_terms_absent": true,
+  "render_pass": true,
+  "page_count": 30,
+  "contact_sheet": "project://09_manuscript_docx/phaseU27B3D21_corrected_v6_reconstruction/render_qa/UTI_HostOmics_U27B3D21_render_contact_sheet.png",
+  "source_modified": false
+}

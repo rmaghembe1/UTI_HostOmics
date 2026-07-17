@@ -1,0 +1,1 @@
+contrast_id	tissue	analysis_status	group_a	group_b	n_group_a	n_group_b	feature_type	axis	feature_id	display_label	proposed_figure_family	mean_group_a	mean_group_b	mean_difference_a_minus_b	hedges_g	hedges_g_ci_low	hedges_g_ci_high	welch_t	p_value	auc_group_a_higher	direction	interpretation	q_value_within_contrast	fdr_0_05	fdr_0_10

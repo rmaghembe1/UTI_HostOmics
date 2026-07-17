@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated article and this software release."
+title: "UTI HostOmics"
+type: software
+authors:
+  - family-names: "Maghembe"
+    given-names: "Reuben S."
+  - family-names: "Bahati"
+    given-names: "Samweli"
+  - family-names: "Makaranga"
+    given-names: "Abdalah"
+  - family-names: "Magulye"
+    given-names: "Maximilian A.K."
+  - family-names: "Kidenya"
+    given-names: "Benson R."
+abstract: >-
+  Reproducible scripts, module definitions, source-value tables, figures, and
+  supplemental material for an integrative host-omics study of endocrine,
+  metabolic, complement, and immune remodeling across urinary tract infection,
+  recurrence, pregnancy-associated outcomes, and cell-resolved UPEC responses.
+keywords:
+  - urinary tract infection
+  - uropathogenic Escherichia coli
+  - recurrent UTI
+  - pregnancy
+  - immunometabolism
+  - complement
+  - single-cell transcriptomics
+license: "MIT"

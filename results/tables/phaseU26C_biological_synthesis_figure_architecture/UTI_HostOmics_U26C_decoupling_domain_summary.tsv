@@ -1,0 +1,5 @@
+domain	n_features	median_effect	mean_effect	n_positive	n_negative	directional_coherence	dominant_direction
+steroid_synthesis	4	0.13463529256327061	0.174951911311203	2	2	0.5	mixed
+steroid_receptor_response	5	-0.8043093611651837	-0.7078938419801899	0	5	1.0	negative
+metabolic_effector_response	7	-0.6759836665295377	-0.7049014274756004	0	7	1.0	negative
+complement_effector_response	4	0.38071069107207467	0.20967870141765238	3	1	0.75	positive

@@ -1,0 +1,32 @@
+supplementary_table	source_role	expected_rows	observed_rows	pass
+S1	GSE252321 four-sample biological design	4	4	True
+S1	GSE112098 validated 73-sample design	73	73	True
+S1	GSE186800 validated 20-sample recurrent-UTI design	20	20	True
+S1	GSE280297 validated 60-tissue-sample design	60	60	True
+S2	Frozen 78-submodule library	78	78	True
+S3	GSE112098 adjusted human comparator module effects	20	20	True
+S3	GSE280297 factorial and tissue-specific module effects	810	810	True
+S3	GSE186800 block and interaction module effects	162	162	True
+S3	GSE252321 sample-level UPEC-versus-control module effects	20	20	True
+S4	Evidence-class summary	4	4	True
+S4	Independent-dataset recurrence ranking	78	78	True
+S4	Evidence-weighted synthesis panel support	60	60	True
+S5	Tissue-resolved preterm-versus-term effects	243	243	True
+S5	Collapsed pregnancy-outcome effects	81	81	True
+S5	Full three-contrast tissue effect matrix	81	81	True
+S6	Flat-matrix and per-sample single-cell QC	4	4	True
+S6	Cluster top-marker table	450	450	True
+S6	Broad-cell sample composition	32	32	True
+S6	Refined-subtype sample composition	72	72	True
+S7	Broad-cell localization summary	73	73	True
+S7	Core-module cellular localization	73	73	True
+S7	Refined-subtype localization summary	73	73	True
+S8	Core complement and endocrine-metabolic cellular attribution	10	10	True
+S8	Module-level cellular synthesis across immune populations	73	73	True
+S9	Frozen Figure 1-8 asset manifest	83	83	True
+S9	Figure and panel title registry	57	57	True
+S9	Accession-corrected panel legend provenance registry	57	57	True
+S10	Accession-corrected caveat terminology registry	8	8	True
+S10	Cellular-localization claim-boundary matrix	6	6	True
+S10	Future accession validation rules	2	2	True
+S10	Accession correction and preservation traceability	1	1	True

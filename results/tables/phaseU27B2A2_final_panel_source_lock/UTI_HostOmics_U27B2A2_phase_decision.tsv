@@ -1,0 +1,2 @@
+phase	decision	panels_expected	panels_with_locked_sources	missing_panel_keys	unexpected_panel_keys	unlocked_panels	locked_source_rows	replacement_panels	replacement_source_rows	exact_source_schemas_pass	integrated_figure8_semantics_pass	prohibited_source_selections	U27A4_assets_used_as_numerical_sources	all_locked_paths_exist	scientific_values_changed	manuscript_modified	figures_modified	next_phase
+U27B2A.2	READY_FOR_U27B2B_SCRIPTED_FINAL_FIGURES_1_TO_4_BUILD	57	57			0	114	11	19	True	True	0	0	True	False	False	False	U27B2B build Final Figures 1-4

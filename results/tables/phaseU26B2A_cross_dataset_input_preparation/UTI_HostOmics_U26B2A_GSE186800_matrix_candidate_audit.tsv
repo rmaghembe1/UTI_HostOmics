@@ -1,0 +1,5 @@
+path	status	priority	delimiter	n_columns	n_rows_inspected	gene_column	symbol_like_fraction	n_numeric_columns	sample_count_distance	selection_score	error
+project://02_data_raw/GSE186800/matrix/GSE186800_series_matrix.txt.gz	unreadable	20		0	0		0.0	0		-9999.0	ParserError('Error tokenizing data. C error: Expected 2 fields in line 33, saw 21\n')
+project://02_data_raw/GSE186800/supplementary/GSE186800_Raw_geneCPM_matrix.txt.gz	ok	160	"	"	28	600	external_gene_name	1.0	23	3	773.0	
+project://03_data_processed/phaseU4b_repaired_matrices/GSE186800_repaired_gene_symbol_matrix.tsv.gz	ok	1080	"	"	21	600	gene_symbol	1.0	20	0	1750.0	
+project://03_data_processed/phaseU4_clean_matrices/GSE186800_clean_gene_symbol_matrix.tsv.gz	ok	930	"	"	24	600	gene_symbol	1.0	23	3	1543.0	

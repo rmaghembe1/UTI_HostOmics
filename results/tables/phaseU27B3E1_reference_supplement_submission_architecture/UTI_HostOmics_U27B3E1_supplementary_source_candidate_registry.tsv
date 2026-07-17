@@ -1,0 +1,121 @@
+supplementary_table	candidate_rank	candidate_score	matched_keywords	candidate_path	file_type	size_bytes	modified_time
+Table S1	1	16	dataset; sample; design; metadata	project://03_metadata/phaseU26B2A1_cross_dataset_input_repair/GSE252321_U26B2A1_sample_level_pseudobulk_design.tsv	tsv	876	2026-07-14T21:10:44
+Table S1	2	16	dataset; sample; design; metadata	project://03_metadata/phaseU26B2A1_cross_dataset_input_repair/GSE112098_U26B2A1_validated_sample_design.tsv	tsv	124024	2026-07-14T21:03:40
+Table S1	3	16	dataset; sample; design; metadata	project://03_metadata/phaseU26B2A1_cross_dataset_input_repair/GSE186800_U26B2A1_validated_sample_design.tsv	tsv	1201	2026-07-14T21:03:35
+Table S1	4	13	sample; design; metadata	project://03_metadata/phaseU26A5_GSE280297_final_input_resolution/GSE280297_U26A5_validated_60sample_design.tsv	tsv	10710	2026-07-14T20:37:38
+Table S1	5	13	sample; design; metadata	project://03_metadata/phaseU26A4_GSE280297_established_asset_validation/GSE280297_U26A4_validated_sample_design.tsv	tsv	13190	2026-07-14T20:31:55
+Table S1	6	13	sample; design; metadata	project://03_metadata/phaseU26A2_GSE280297_identifier_design_resolution/GSE280297_U26A2_deduplicated_sample_design.tsv	tsv	9490	2026-07-14T20:15:47
+Table S1	7	11	dataset; design; metadata	project://03_metadata/phaseU26B2B_cross_dataset_scoring_integration/GSE112098_U26B2B_resolved_scoring_design.tsv	tsv	125530	2026-07-14T21:30:33
+Table S1	8	10	sample; design	project://06_tables/phaseU26A5_GSE280297_final_input_resolution/UTI_HostOmics_U26A5_unresolved_sample_design_rows.tsv	tsv	189	2026-07-14T20:37:38
+Table S1	9	10	sample; design	project://06_tables/phaseU26A4_GSE280297_established_asset_validation/UTI_HostOmics_U26A4_unresolved_sample_design_rows.tsv	tsv	2874	2026-07-14T20:31:55
+Table S1	10	10	dataset; inclusion	project://07_tables/phaseU12_methods_draft/phaseU12_dataset_inclusion_status_v1.tsv	tsv	1724	2026-07-09T15:19:19
+Table S1	11	10	dataset; sample	project://07_tables/phaseU4b_repaired_module_scores/phaseU4b_all_dataset_sample_annotations_v1.tsv	tsv	22666	2026-07-06T11:27:52
+Table S1	12	10	dataset; sample	project://07_tables/phaseU4_module_scores/phaseU4_all_dataset_sample_annotations_v1.tsv	tsv	32591	2026-07-06T11:22:28
+Table S2	1	15	submodule; library; expanded	project://03_metadata/phaseU26A_expanded_endocrine_metabolic_immune_feasibility/UTI_HostOmics_U26A_expanded_submodule_library.tsv	tsv	17925	2026-07-14T19:54:48
+Table S2	2	8	axis; expanded	project://06_tables/phaseU26A_expanded_endocrine_metabolic_immune_feasibility/UTI_HostOmics_U26A_axis_feasibility_summary.tsv	tsv	822	2026-07-14T19:55:19
+Table S2	3	8	submodule; expanded	project://06_tables/phaseU26A_expanded_endocrine_metabolic_immune_feasibility/UTI_HostOmics_U26A_submodule_figure_priority.tsv	tsv	10611	2026-07-14T19:55:19
+Table S2	4	8	submodule; expanded	project://06_tables/phaseU26A_expanded_endocrine_metabolic_immune_feasibility/UTI_HostOmics_U26A_submodule_coverage_by_dataset.tsv	tsv	75851	2026-07-14T19:55:19
+Table S2	5	5	axis	project://06_tables/phaseU27B2E1_pathway_specific_figures_5_to_8_reconstruction/UTI_HostOmics_U27B2E1_axis_mapping_validation.tsv	tsv	206	2026-07-16T10:09:09
+Table S2	6	5	axis	project://06_tables/phaseU26B1_1_GSE280297_stability_refinement/UTI_HostOmics_U26B1_1_axis_permutation_results.tsv	tsv	20122	2026-07-14T20:53:47
+Table S2	7	5	axis	project://03_metadata/phaseU26B1_1_GSE280297_stability_refinement/UTI_HostOmics_U26B1_1_axis_score_definitions.tsv	tsv	2649	2026-07-14T20:53:44
+Table S2	8	5	axis	project://06_tables/phaseU26B1_GSE280297_endocrine_metabolic_immune_scoring/UTI_HostOmics_U26B1_axis_contrast_summary.tsv	tsv	12803	2026-07-14T20:45:53
+Table S2	9	5	submodule	project://06_tables/phaseU26B1_GSE280297_endocrine_metabolic_immune_scoring/UTI_HostOmics_U26B1_GSE280297_submodule_coverage.tsv	tsv	15384	2026-07-14T20:45:02
+Table S2	10	5	submodule	project://06_tables/phaseU26A5_GSE280297_final_input_resolution/UTI_HostOmics_U26A5_GSE280297_submodule_coverage.tsv	tsv	13715	2026-07-14T20:37:38
+Table S2	11	5	submodule	project://06_tables/phaseU26A4_GSE280297_established_asset_validation/UTI_HostOmics_U26A4_GSE280297_submodule_coverage.tsv	tsv	7572	2026-07-14T20:31:55
+Table S2	12	5	submodule	project://06_tables/phaseU26A2_GSE280297_identifier_design_resolution/UTI_HostOmics_U26A2_GSE280297_submodule_coverage.tsv	tsv	21416	2026-07-14T20:15:47
+Table S3	1	10	module; contrast	project://07_tables/phaseU8b_single_cell_module_scoring/phaseU8b_GSE252321_cell_level_UPEC_vs_Control_module_contrast_v1.tsv	tsv	4513	2026-07-06T13:51:51
+Table S3	2	10	module; contrast	project://07_tables/phaseU8b_single_cell_module_scoring/phaseU8b_GSE252321_sample_level_UPEC_vs_Control_module_contrast_v1.tsv	tsv	4975	2026-07-06T13:51:51
+Table S3	3	10	module; contrast	project://07_tables/phaseU6_human_urine_comparator/phaseU6_GSE112098_human_urine_module_contrast_v1.tsv	tsv	5704	2026-07-06T11:46:40
+Table S3	4	10	module; contrast	project://05_results/phaseU5_module_contrasts/phaseU5_first_module_contrasts_report_v1.md	md	1748	2026-07-06T11:40:45
+Table S3	5	10	module; contrast	project://07_tables/phaseU5_module_contrasts/phaseU5_top_module_contrasts_by_abs_delta_v1.tsv	tsv	31412	2026-07-06T11:40:14
+Table S3	6	10	module; contrast	project://07_tables/phaseU5_module_contrasts/phaseU5_all_module_contrasts_v1.tsv	tsv	58709	2026-07-06T11:40:14
+Table S3	7	8	module; contrast	project://06_tables/phaseU26A1_targeted_source_contrast_species_repair/UTI_HostOmics_U26A1_submodule_coverage_by_selected_source.tsv	tsv	92580	2026-07-14T20:04:17
+Table S3	8	8	module; contrast	project://07_tables/phaseU8b_single_cell_module_scoring/phaseU8b_GSE252321_combined_single_cell_validation_contrasts_v1.tsv	tsv	9314	2026-07-06T13:51:51
+Table S3	9	8	module; contrast	project://07_tables/phaseU5_module_contrasts/phaseU5_group_mean_module_scores_v1.tsv	tsv	24763	2026-07-06T11:40:14
+Table S3	10	6	module; contrast	project://07_tables/phaseU5_module_contrasts/phaseU5_figure_generation_status_v1.tsv	tsv	230	2026-07-06T11:40:45
+Table S3	11	5	module	project://03_metadata/phaseU27B2E1_pathway_specific_figures_5_to_8_reconstruction/UTI_HostOmics_U27B2E1_full_module_dictionary_used.tsv	tsv	6321	2026-07-16T10:09:18
+Table S3	12	5	effect	project://06_tables/phaseU27B2C2A_GSE280297_full_effect_source_repair/UTI_HostOmics_U27B2C2A_GSE280297_full_tissue_effect_matrix.tsv	tsv	13360	2026-07-16T08:49:22
+Table S4	1	8	evidence; class	project://06_tables/phaseU26B2B1_independent_dataset_evidence_collapse/UTI_HostOmics_U26B2B1_validation_class_summary.tsv	tsv	183	2026-07-14T21:37:15
+Table S4	2	8	recurrence; evidence	project://06_tables/phaseU26B2B1_independent_dataset_evidence_collapse/UTI_HostOmics_U26B2B1_independent_dataset_recurrence_ranking.tsv	tsv	27151	2026-07-14T21:37:11
+Table S4	3	5	evidence	project://06_tables/phaseU26C_biological_synthesis_figure_architecture/UTI_HostOmics_U26C_Figure_9_panel_evidence.tsv	tsv	26868	2026-07-14T21:44:44
+Table S4	4	5	evidence	project://06_tables/phaseU26C_biological_synthesis_figure_architecture/UTI_HostOmics_U26C_Figure_8_panel_evidence.tsv	tsv	26544	2026-07-14T21:44:44
+Table S4	5	5	evidence	project://06_tables/phaseU26C_biological_synthesis_figure_architecture/UTI_HostOmics_U26C_Figure_7_panel_evidence.tsv	tsv	25542	2026-07-14T21:44:44
+Table S4	6	5	evidence	project://06_tables/phaseU26C_biological_synthesis_figure_architecture/UTI_HostOmics_U26C_Figure_11_panel_evidence.tsv	tsv	42037	2026-07-14T21:44:44
+Table S4	7	5	evidence	project://06_tables/phaseU26C_biological_synthesis_figure_architecture/UTI_HostOmics_U26C_Figure_10_panel_evidence.tsv	tsv	24121	2026-07-14T21:44:44
+Table S4	8	5	evidence	project://06_tables/phaseU26C_biological_synthesis_figure_architecture/UTI_HostOmics_U26C_Figures_7_to_11_panel_evidence.tsv	tsv	144304	2026-07-14T21:44:44
+Table S4	9	5	evidence	project://03_metadata/phaseU26C_biological_synthesis_figure_architecture/UTI_HostOmics_U26C_evidence_tier_dictionary.tsv	tsv	925	2026-07-14T21:44:44
+Table S4	10	5	evidence	project://05_results/phaseU26B2B1_independent_dataset_evidence_collapse/UTI_HostOmics_U26B2B1_independent_evidence_report.md	md	9383	2026-07-14T21:37:15
+Table S4	11	5	recurrence	project://06_tables/phaseU26B2B_cross_dataset_scoring_integration/UTI_HostOmics_U26B2B_cross_dataset_recurrence_ranking.tsv	tsv	22503	2026-07-14T21:30:45
+Table S4	12	5	evidence	project://06_tables/phaseU26B2B_cross_dataset_scoring_integration/UTI_HostOmics_U26B2B_harmonized_effect_evidence.tsv	tsv	460730	2026-07-14T21:30:45
+Table S5	1	20	gse280297; tissue; preterm; term	project://06_tables/phaseU26B2B1_independent_dataset_evidence_collapse/UTI_HostOmics_U26B2B1_GSE280297_preterm_term_tissue_effects.tsv	tsv	49813	2026-07-14T21:37:11
+Table S5	2	15	gse280297; preterm; term	project://06_tables/phaseU26B2B1_independent_dataset_evidence_collapse/UTI_HostOmics_U26B2B1_GSE280297_preterm_term_collapsed.tsv	tsv	27689	2026-07-14T21:37:11
+Table S5	3	10	gse280297; tissue	project://06_tables/phaseU27B2C2A_GSE280297_full_effect_source_repair/UTI_HostOmics_U27B2C2A_GSE280297_full_tissue_effect_matrix.tsv	tsv	13360	2026-07-16T08:49:22
+Table S5	4	10	gse280297; tissue	project://06_tables/phaseU26B2B1_independent_dataset_evidence_collapse/UTI_HostOmics_U26B2B1_GSE280297_UPEC_tissue_heterogeneity.tsv	tsv	52431	2026-07-14T21:37:11
+Table S5	5	8	gse280297; tissue	project://06_tables/phaseU26B1_1_GSE280297_stability_refinement/UTI_HostOmics_U26B1_1_cross_tissue_directional_coherence.tsv	tsv	28116	2026-07-14T20:53:47
+Table S5	6	5	term	project://03_metadata/phaseU27B3B_definitive_figure_legend_construction/UTI_HostOmics_U27B3B_caveat_terminology_registry.tsv	tsv	963	2026-07-16T10:56:44
+Table S5	7	5	gse280297	project://05_results/phaseU27B2C2A_GSE280297_full_effect_source_repair/UTI_HostOmics_U27B2C2A_GSE280297_source_repair_report.md	md	870	2026-07-16T08:49:22
+Table S5	8	5	pregnancy	project://06_tables/phaseU26C_biological_synthesis_figure_architecture/UTI_HostOmics_U26C_pregnancy_synthesis_response_decoupling.tsv	tsv	3814	2026-07-14T21:44:44
+Table S5	9	5	gse280297	project://06_tables/phaseU26B2A_cross_dataset_input_preparation/UTI_HostOmics_U26B2A_GSE280297_family_FDR10_hits.tsv	tsv	1213	2026-07-14T20:58:49
+Table S5	10	5	gse280297	project://05_results/phaseU26B1_GSE280297_endocrine_metabolic_immune_scoring/UTI_HostOmics_U26B1_GSE280297_scoring_report.md	md	8306	2026-07-14T20:45:59
+Table S5	11	5	gse280297	project://06_tables/phaseU26B1_GSE280297_endocrine_metabolic_immune_scoring/UTI_HostOmics_U26B1_GSE280297_submodule_coverage.tsv	tsv	15384	2026-07-14T20:45:02
+Table S5	12	5	gse280297	project://05_results/phaseU26A5_GSE280297_final_input_resolution/UTI_HostOmics_U26A5_final_input_resolution_report.md	md	1924	2026-07-14T20:37:38
+Table S6	1	13	gse252321; refined; subtype	project://06_tables/phaseU26D2B_GSE252321_refined_celltype_pseudobulk/UTI_HostOmics_U26D2B_refined_subtype_module_results.tsv	tsv	383828	2026-07-14T22:52:53
+Table S6	2	13	gse252321; cluster; marker	project://06_tables/phaseU26D2A_GSE252321_marker_celltype_reconstruction/UTI_HostOmics_U26D2A_cluster_top_markers.tsv	tsv	23872	2026-07-14T22:12:11
+Table S6	3	13	gse252321; cluster; marker	project://06_tables/phaseU26D2A_GSE252321_marker_celltype_reconstruction/UTI_HostOmics_U26D2A_cluster_marker_panel_scores.tsv	tsv	2489	2026-07-14T22:12:11
+Table S6	4	11	gse252321; refined; subtype	project://06_tables/phaseU26D2B_GSE252321_refined_celltype_pseudobulk/UTI_HostOmics_U26D2B_subtype_cellular_localization.tsv	tsv	23329	2026-07-14T22:52:53
+Table S6	5	11	gse252321; cluster; marker	project://06_tables/phaseU26D2A_GSE252321_marker_celltype_reconstruction/UTI_HostOmics_U26D2A_sample_cluster_composition.tsv	tsv	3849	2026-07-14T22:12:15
+Table S6	6	11	gse252321; cluster; marker	project://06_tables/phaseU26D2A_GSE252321_marker_celltype_reconstruction/UTI_HostOmics_U26D2A_cluster_annotations.tsv	tsv	1835	2026-07-14T22:12:11
+Table S6	7	8	gse252321; refined	project://06_tables/phaseU26D2A1_GSE252321_annotation_refinement/UTI_HostOmics_U26D2A1_refined_celltype_sample_presence.tsv	tsv	325	2026-07-14T22:42:31
+Table S6	8	8	gse252321; subtype	project://06_tables/phaseU26D2A1_GSE252321_annotation_refinement/UTI_HostOmics_U26D2A1_sample_subtype_composition.tsv	tsv	5550	2026-07-14T22:42:31
+Table S6	9	8	gse252321; refined	project://06_tables/phaseU26D2A1_GSE252321_annotation_refinement/UTI_HostOmics_U26D2A1_refined_sample_celltype_composition.tsv	tsv	1806	2026-07-14T22:42:31
+Table S6	10	8	gse252321; cluster	project://06_tables/phaseU26D2A1_GSE252321_annotation_refinement/UTI_HostOmics_U26D2A1_cluster_annotation_refinement.tsv	tsv	2937	2026-07-14T22:42:28
+Table S6	11	8	gse252321; marker	project://06_tables/phaseU26D2A_GSE252321_marker_celltype_reconstruction/UTI_HostOmics_U26D2A_marker_panel_coverage.tsv	tsv	1180	2026-07-14T22:12:07
+Table S6	12	6	gse252321; refined	project://05_results/phaseU26D2B_GSE252321_refined_celltype_pseudobulk/UTI_HostOmics_U26D2B_run_manifest.json	json	546	2026-07-14T22:52:57
+Table S7	1	21	broad; refined; pseudobulk; localization; cellular	project://06_tables/phaseU26D2B_GSE252321_refined_celltype_pseudobulk/UTI_HostOmics_U26D2B_broad_cellular_localization.tsv	tsv	19587	2026-07-14T22:52:53
+Table S7	2	16	refined; pseudobulk; localization; cellular	project://06_tables/phaseU26D2B_GSE252321_refined_celltype_pseudobulk/UTI_HostOmics_U26D2B_core_module_cellular_localization.tsv	tsv	21268	2026-07-14T22:52:53
+Table S7	3	16	refined; pseudobulk; localization; cellular	project://06_tables/phaseU26D2B_GSE252321_refined_celltype_pseudobulk/UTI_HostOmics_U26D2B_subtype_cellular_localization.tsv	tsv	23329	2026-07-14T22:52:53
+Table S7	4	11	broad; localization; cellular	project://06_tables/phaseU26D2C_cellular_localization_synthesis/UTI_HostOmics_U26D2C_broad_effect_reliability.tsv	tsv	189506	2026-07-14T23:04:11
+Table S7	5	11	broad; refined; pseudobulk	project://06_tables/phaseU26D2B_GSE252321_refined_celltype_pseudobulk/UTI_HostOmics_U26D2B_broad_celltype_module_results.tsv	tsv	156846	2026-07-14T22:52:53
+Table S7	6	10	localization; cellular	project://05_results/phaseU26D2C_cellular_localization_synthesis/UTI_HostOmics_U26D2C_cellular_localization_synthesis_report.md	md	4647	2026-07-14T23:04:12
+Table S7	7	8	localization; cellular	project://03_metadata/phaseU26D2C_cellular_localization_synthesis/UTI_HostOmics_U26D2C_Figures_7_to_11_cellular_panel_plan.tsv	tsv	24001	2026-07-14T23:04:11
+Table S7	8	8	localization; cellular	project://06_tables/phaseU26D2C_cellular_localization_synthesis/UTI_HostOmics_U26D2C_core_module_cellular_attribution.tsv	tsv	5977	2026-07-14T23:04:11
+Table S7	9	8	localization; cellular	project://06_tables/phaseU26D2C_cellular_localization_synthesis/UTI_HostOmics_U26D2C_module_cellular_synthesis.tsv	tsv	31868	2026-07-14T23:04:11
+Table S7	10	8	refined; pseudobulk	project://05_results/phaseU26D2B_GSE252321_refined_celltype_pseudobulk/UTI_HostOmics_U26D2B_celltype_pseudobulk_report.md	md	5616	2026-07-14T22:52:57
+Table S7	11	8	refined; pseudobulk	project://06_tables/phaseU26D2B_GSE252321_refined_celltype_pseudobulk/UTI_HostOmics_U26D2B_refined_subtype_module_results.tsv	tsv	383828	2026-07-14T22:52:53
+Table S7	12	8	refined; pseudobulk	project://06_tables/phaseU26D2B_GSE252321_refined_celltype_pseudobulk/UTI_HostOmics_U26D2B_pseudobulk_manifest.tsv	tsv	8264	2026-07-14T22:52:52
+Table S8	1	10	attribution; cellular	project://06_tables/phaseU26D2C_cellular_localization_synthesis/UTI_HostOmics_U26D2C_core_module_cellular_attribution.tsv	tsv	5977	2026-07-14T23:04:11
+Table S8	2	6	endocrine; metabolic	project://05_results/phaseU26B1_GSE280297_endocrine_metabolic_immune_scoring/UTI_HostOmics_U26B1_run_manifest.json	json	752	2026-07-14T20:45:59
+Table S8	3	6	endocrine; metabolic	project://06_tables/phaseU26B1_GSE280297_endocrine_metabolic_immune_scoring/UTI_HostOmics_U26B1_phase_decision.tsv	tsv	433	2026-07-14T20:45:59
+Table S8	4	6	endocrine; metabolic	project://05_results/phaseU26B1_GSE280297_endocrine_metabolic_immune_scoring/UTI_HostOmics_U26B1_GSE280297_scoring_report.md	md	8306	2026-07-14T20:45:59
+Table S8	5	6	endocrine; metabolic	project://06_tables/phaseU26B1_GSE280297_endocrine_metabolic_immune_scoring/UTI_HostOmics_U26B1_composite_effect_size_matrix.tsv	tsv	1321	2026-07-14T20:45:58
+Table S8	6	6	endocrine; metabolic	project://06_tables/phaseU26B1_GSE280297_endocrine_metabolic_immune_scoring/UTI_HostOmics_U26B1_Figure_10_effect_size_matrix.tsv	tsv	2388	2026-07-14T20:45:57
+Table S8	7	6	endocrine; metabolic	project://06_tables/phaseU26B1_GSE280297_endocrine_metabolic_immune_scoring/UTI_HostOmics_U26B1_Figure_9_effect_size_matrix.tsv	tsv	4845	2026-07-14T20:45:56
+Table S8	8	6	endocrine; metabolic	project://06_tables/phaseU26B1_GSE280297_endocrine_metabolic_immune_scoring/UTI_HostOmics_U26B1_Figure_8_effect_size_matrix.tsv	tsv	4767	2026-07-14T20:45:55
+Table S8	9	6	endocrine; metabolic	project://06_tables/phaseU26B1_GSE280297_endocrine_metabolic_immune_scoring/UTI_HostOmics_U26B1_Figure_7_effect_size_matrix.tsv	tsv	5367	2026-07-14T20:45:53
+Table S8	10	6	endocrine; metabolic	project://06_tables/phaseU26B1_GSE280297_endocrine_metabolic_immune_scoring/UTI_HostOmics_U26B1_effect_size_matrix.tsv	tsv	18611	2026-07-14T20:45:53
+Table S8	11	6	endocrine; metabolic	project://06_tables/phaseU26B1_GSE280297_endocrine_metabolic_immune_scoring/UTI_HostOmics_U26B1_composite_index_contrasts.tsv	tsv	20877	2026-07-14T20:45:53
+Table S8	12	6	endocrine; metabolic	project://06_tables/phaseU26B1_GSE280297_endocrine_metabolic_immune_scoring/UTI_HostOmics_U26B1_figure_candidate_ranking.tsv	tsv	12018	2026-07-14T20:45:53
+Table S9	1	18	figure; source; value; manifest	project://06_tables/phaseU27B3A_complete_eight_figure_package_assembly/UTI_HostOmics_U27B3A_source_value_table_manifest.tsv	tsv	3829	2026-07-16T10:47:17
+Table S9	2	18	figure; source; manifest; panel	project://03_metadata/phaseU27A2_journal_width_figure_repair/UTI_HostOmics_U27A2_panel_source_manifest.tsv	tsv	1839	2026-07-15T20:47:31
+Table S9	3	18	figure; source; manifest; panel	project://03_metadata/phaseU27A_build_figures_7_to_11/UTI_HostOmics_U27A_panel_source_manifest.tsv	tsv	1839	2026-07-14T23:11:25
+Table S9	4	15	figure; manifest; provenance	project://03_metadata/phaseU27B3A_complete_eight_figure_package_assembly/frozen_provenance/Figures_5_to_8_frozen_asset_manifest.tsv	tsv	15719	2026-07-16T10:41:03
+Table S9	5	15	figure; manifest; provenance	project://03_metadata/phaseU27B3A_complete_eight_figure_package_assembly/frozen_provenance/Figures_5_to_8_frozen_build_manifest.tsv	tsv	21528	2026-07-16T10:35:19
+Table S9	6	15	figure; source; value	project://06_tables/phaseU27B2E2D_final_visibility_title_microrepair/UTI_HostOmics_U27B2E2D_Figure_8_source_values.tsv	tsv	75643	2026-07-16T10:35:16
+Table S9	7	15	figure; source; value	project://06_tables/phaseU27B2E2E_final_figures_5_to_8_freeze/UTI_HostOmics_U27B2E2E_Figure_8_source_values.tsv	tsv	75643	2026-07-16T10:35:16
+Table S9	8	15	figure; source; value	project://06_tables/phaseU27B3A_complete_eight_figure_package_assembly/UTI_HostOmics_U27B3A_Figure_8_source_values.tsv	tsv	75643	2026-07-16T10:35:16
+Table S9	9	15	figure; source; value	project://06_tables/phaseU27B2E2D_final_visibility_title_microrepair/UTI_HostOmics_U27B2E2D_Figure_7_source_values.tsv	tsv	44676	2026-07-16T10:35:14
+Table S9	10	15	figure; source; value	project://06_tables/phaseU27B2E2E_final_figures_5_to_8_freeze/UTI_HostOmics_U27B2E2E_Figure_7_source_values.tsv	tsv	44676	2026-07-16T10:35:14
+Table S9	11	15	figure; source; value	project://06_tables/phaseU27B3A_complete_eight_figure_package_assembly/UTI_HostOmics_U27B3A_Figure_7_source_values.tsv	tsv	44676	2026-07-16T10:35:14
+Table S9	12	15	figure; source; value	project://06_tables/phaseU27B2E2D_final_visibility_title_microrepair/UTI_HostOmics_U27B2E2D_Figure_6_source_values.tsv	tsv	57670	2026-07-16T10:35:12
+Table S10	1	10	boundary; claim	project://03_metadata/phaseU26D2C_cellular_localization_synthesis/UTI_HostOmics_U26D2C_claim_boundary_matrix.tsv	tsv	1098	2026-07-14T23:04:11
+Table S10	2	10	boundary; claim	project://03_metadata/phaseU26C_biological_synthesis_figure_architecture/UTI_HostOmics_U26C_claim_boundary_matrix.tsv	tsv	936	2026-07-14T21:44:44
+Table S10	3	10	claim; traceability	project://07_tables/phaseU10_manuscript_results_skeleton/phaseU10_table_to_claim_traceability_v1.tsv	tsv	9188	2026-07-06T14:22:04
+Table S10	4	5	boundary	project://06_tables/phaseU27B3D1_manuscript_wide_content_structure_audit/UTI_HostOmics_U27B3D1_section_boundary_inventory.tsv	tsv	831	2026-07-16T13:17:55
+Table S10	5	5	caveat	project://03_metadata/phaseU27B3B_definitive_figure_legend_construction/UTI_HostOmics_U27B3B_caveat_terminology_registry.tsv	tsv	963	2026-07-16T10:56:44
+Table S10	6	5	interpretation	project://03_metadata/phaseU26C1_interpretation_threshold_and_branch_refinement/UTI_HostOmics_U26C1_interpretation_correction_log.tsv	tsv	522	2026-07-14T21:48:53
+Table S10	7	5	traceability	project://07_tables/phaseU12_methods_draft/phaseU12_methods_traceability_v1.tsv	tsv	1447	2026-07-09T15:19:19
+Table S10	8	5	claim	project://07_tables/phaseU11_results_draft/phaseU11_results_claim_index_v1.tsv	tsv	10075	2026-07-09T15:15:43
+Table S10	9	4	boundary	project://06_tables/phaseU27B3C4_frozen_figures_legends_integration/UTI_HostOmics_U27B3C4_legacy_block_boundary_audit.tsv	tsv	205	2026-07-16T12:19:02
+Table S10	10	4	boundary	project://06_tables/phaseU27B3C11_authoritative_target_and_structure_audit/UTI_HostOmics_U27B3C11_section_boundary_audit.tsv	tsv	201	2026-07-16T11:16:35
+Table S10	11	3	interpretation	project://05_results/phaseU26C1_interpretation_threshold_and_branch_refinement/UTI_HostOmics_U26C1_run_manifest.json	json	248	2026-07-14T21:48:53
+Table S10	12	3	interpretation	project://06_tables/phaseU26C1_interpretation_threshold_and_branch_refinement/UTI_HostOmics_U26C1_phase_decision.tsv	tsv	540	2026-07-14T21:48:53

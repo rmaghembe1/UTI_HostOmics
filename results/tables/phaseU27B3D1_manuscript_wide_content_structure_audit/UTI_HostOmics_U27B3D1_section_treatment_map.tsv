@@ -1,0 +1,21 @@
+section	word_count	content_paragraphs	content_tables	recommended_treatment	obsolete_hits	current_required_concepts_present	contains_GSE168600	contains_GSE186800	contains_78_submodules	contains_10_axes	contains_figure_1_to_8
+Front matter	71	9	0	REPLACE_OR_UPDATE			False	False	False	False	False
+Abstract	233	4	0	REPLACE	17 modules		False	False	False	False	False
+Introduction	303	5	0	MAJOR_REVISION			False	False	False	False	False
+Methods	1364	24	0	REPLACE	GSE186800; GSE261018; phase u7; phase u9; phase u12	metabolic_boundary	False	True	False	False	False
+Results	1575	27	0	FREEZE_EXCEPT_COPYEDITING		expanded_submodule_architecture; recurrent_infection_core; pregnancy_branch_selectivity; single_cell_reconstruction; complement_architecture; metabolic_boundary; single_cell_boundary; cross_dataset_boundary	True	False	True	True	True
+Discussion	498	14	0	REPLACE	17 modules	metabolic_boundary	False	False	False	False	False
+Limitations	88	1	0	REPLACE_OR_EXPAND			False	False	False	False	False
+Future directions	68	1	0	REPLACE_OR_EXPAND			False	False	False	False	False
+Concluding model	54	1	0	REPLACE			False	False	False	False	False
+Data availability	45	1	0	REPLACE	GSE186800		False	True	False	False	False
+Code availability	32	1	0	REPLACE	04_scripts/		False	False	False	False	False
+Ethics statement	30	1	0	RETAIN_WITH_JOURNAL_REFINEMENT			False	False	False	False	False
+Author contributions	33	1	0	RETAIN_PENDING_AUTHOR_CONFIRMATION			False	False	False	False	False
+Competing interests	8	1	0	RETAIN_PENDING_FINALIZATION			False	False	False	False	False
+Funding	7	1	0	REPLACE_WITH_CONFIRMED_FUNDING			False	False	False	False	False
+Acknowledgements	6	1	0	RETAIN_PENDING_FINALIZATION			False	False	False	False	False
+Supplementary tables	148	8	0	REPLACE_AND_RENUMBER			False	False	False	False	False
+Reference gap register	131	11	0	RETAIN_TEMPORARILY			False	False	False	False	False
+Figures	1431	18	2	FREEZE		recurrent_infection_core; pregnancy_branch_selectivity; complement_architecture; metabolic_boundary; single_cell_boundary	False	False	False	False	False
+Reference table	405	1	1	RETAIN_TEMPORARILY			False	False	False	False	False

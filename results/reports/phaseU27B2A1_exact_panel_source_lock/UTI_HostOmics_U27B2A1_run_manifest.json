@@ -1,0 +1,11 @@
+{
+  "version": "U27B2A1_v1.0_2026-07-15",
+  "decision": "TARGETED_SOURCE_LOCK_REVIEW_REQUIRED",
+  "panels_locked": 52,
+  "panels_unlocked": 5,
+  "locked_source_rows": 101,
+  "prohibited_source_selections": 0,
+  "scientific_values_changed": false,
+  "manuscript_modified": false,
+  "figures_modified": false
+}

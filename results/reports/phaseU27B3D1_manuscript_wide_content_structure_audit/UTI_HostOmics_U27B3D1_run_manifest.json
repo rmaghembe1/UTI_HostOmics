@@ -1,0 +1,16 @@
+{
+  "version": "U27B3D1_v1.0_2026-07-16",
+  "decision": "TARGETED_U27B3D1_AUDIT_OR_FROZEN_SECTION_REPAIR_REQUIRED",
+  "manuscript_path": "project://09_manuscript_docx/phaseU27B3C41_integrated_figure_section_cleanup/UTI_HostOmics_preZotero_manuscript_v5_2_U27B3C41_figure_section_cleaned.docx",
+  "manuscript_sha256": "d3e947d6e9fad0f0d1485855e871cbfa5a3e1db5daf8ded720edff71b7089001",
+  "sections_identified": 20,
+  "sections_requiring_replacement_or_major_revision": 12,
+  "obsolete_occurrences": 11,
+  "results_ready": true,
+  "figures_ready": false,
+  "supplementary_tables_detected": 8,
+  "manuscript_modified": false,
+  "scientific_values_recalculated": false,
+  "figure_assets_modified": false,
+  "source_locks_changed": false
+}

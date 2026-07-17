@@ -1,0 +1,5 @@
+domain	n_features	median_effect	mean_effect	n_positive	n_negative	directional_coherence	dominant_direction	refined_effect_class	refined_interpretation
+steroid_synthesis	4	0.1346352925632706	0.174951911311203	2	2	0.5	mixed	near_neutral	branch_selective_steroid_synthesis: core steroidogenesis and androgen/testosterone biosynthesis are positive, whereas estrogen and cholesterol biosynthesis are negative; do not describe the entire synthesis domain as globally increased
+steroid_receptor_response	5	-0.8043093611651837	-0.7078938419801899	0	5	1.0	negative	negative	uniform_receptor_response_attenuation: all five receptor-response programmes are negative across the tissue-collapsed comparison
+metabolic_effector_response	7	-0.6759836665295377	-0.7049014274756004	0	7	1.0	negative	negative	uniform_metabolic_effector_attenuation: insulin/IRS, PI3K-AKT, leptin, transport and carbon-use programmes are negative
+complement_effector_response	4	0.3807106910720746	0.2096787014176523	3	1	0.75	positive	positive	branch_selective_complement_remodeling: classical, terminal-MAC and opsonophagocytosis are positive while C3a/C5a signaling is negative

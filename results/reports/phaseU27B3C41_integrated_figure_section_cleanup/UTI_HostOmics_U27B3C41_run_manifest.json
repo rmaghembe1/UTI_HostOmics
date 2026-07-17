@@ -1,0 +1,19 @@
+{
+  "version": "U27B3C41_v1.0_2026-07-16",
+  "decision": "READY_FOR_U27B3C5_FIGURE_SECTION_VISUAL_AUDIT",
+  "source_path": "project://09_manuscript_docx/phaseU27B3C4_frozen_figures_legends_integration/UTI_HostOmics_preZotero_manuscript_v5_1_U27B3C4_figures_legends_integrated.docx",
+  "source_sha256": "53aa829088468df4c70afd44a4290b701f814718fe78dc66e0b29484a278bee7",
+  "output_path": "project://09_manuscript_docx/phaseU27B3C41_integrated_figure_section_cleanup/UTI_HostOmics_preZotero_manuscript_v5_2_U27B3C41_figure_section_cleaned.docx",
+  "output_sha256": "d3e947d6e9fad0f0d1485855e871cbfa5a3e1db5daf8ded720edff71b7089001",
+  "legacy_caption_paragraphs_removed": 12,
+  "orphan_headings_removed": 2,
+  "frozen_figures_preserved": 8,
+  "definitive_legends_preserved": 8,
+  "embedded_figure_hashes_preserved": true,
+  "results_text_preserved": true,
+  "tables_preserved": true,
+  "source_unchanged": true,
+  "render_pass": true,
+  "contact_sheet": "project://09_manuscript_docx/phaseU27B3C41_integrated_figure_section_cleanup/render_qa/UTI_HostOmics_U27B3C41_render_contact_sheet.png",
+  "known_nonblocking_section_harmonization_issues": 3
+}

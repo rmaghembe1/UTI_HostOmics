@@ -1,0 +1,6 @@
+construction_mode	n_panels	requires_missing_legacy_figure_2_to_5
+table_driven_rebuild	33	False
+reuse_and_rebuild	15	False
+conceptual_rebuild	4	False
+selected_rebuild	4	False
+scripted_rebuild	1	False

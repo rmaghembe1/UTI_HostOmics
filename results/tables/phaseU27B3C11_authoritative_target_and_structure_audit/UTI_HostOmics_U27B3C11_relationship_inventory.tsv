@@ -1,0 +1,17 @@
+relationship_id	type	target	target_mode
+rId3	http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles	styles.xml	
+rId4	http://schemas.microsoft.com/office/2007/relationships/stylesWithEffects	stylesWithEffects.xml	
+rId5	http://schemas.openxmlformats.org/officeDocument/2006/relationships/settings	settings.xml	
+rId6	http://schemas.openxmlformats.org/officeDocument/2006/relationships/webSettings	webSettings.xml	
+rId7	http://schemas.openxmlformats.org/officeDocument/2006/relationships/fontTable	fontTable.xml	
+rId8	http://schemas.openxmlformats.org/officeDocument/2006/relationships/theme	theme/theme1.xml	
+rId1	http://schemas.openxmlformats.org/officeDocument/2006/relationships/customXml	../customXml/item1.xml	
+rId2	http://schemas.openxmlformats.org/officeDocument/2006/relationships/numbering	numbering.xml	
+rId9	http://schemas.openxmlformats.org/officeDocument/2006/relationships/header	header1.xml	
+rId10	http://schemas.openxmlformats.org/officeDocument/2006/relationships/footer	footer1.xml	
+rId11	http://schemas.openxmlformats.org/officeDocument/2006/relationships/image	media/image1.png	
+rId12	http://schemas.openxmlformats.org/officeDocument/2006/relationships/image	media/image2.png	
+rId13	http://schemas.openxmlformats.org/officeDocument/2006/relationships/image	media/image3.png	
+rId14	http://schemas.openxmlformats.org/officeDocument/2006/relationships/image	media/image4.png	
+rId15	http://schemas.openxmlformats.org/officeDocument/2006/relationships/image	media/image5.png	
+rId16	http://schemas.openxmlformats.org/officeDocument/2006/relationships/image	media/image6.png	

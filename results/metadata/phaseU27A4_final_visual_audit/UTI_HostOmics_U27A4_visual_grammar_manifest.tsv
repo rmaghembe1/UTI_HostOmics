@@ -1,0 +1,21 @@
+figure	panel	visual_grammar
+Figure_7	A	effect-size bubble matrix
+Figure_7	B	warm diverging lollipop
+Figure_7	C	diverging cellular heatmap
+Figure_7	D	ranked support stems
+Figure_8	A	cool independent-effect heatmap
+Figure_8	B	teal-orange lollipop
+Figure_8	C	broad-cell trajectory plot
+Figure_8	D	ranked support bars
+Figure_9	A	green-amber effect bubble matrix
+Figure_9	B	green-amber lollipop
+Figure_9	C	cellular Cleveland dot-range plot
+Figure_9	D	ranked support stems
+Figure_10	A	stage-organized complement heatmap
+Figure_10	B	direction-shaded pregnancy bars
+Figure_10	C	cellular complement bubble matrix
+Figure_10	D	ranked support bars
+Figure_11	A	cross-context core heatmap
+Figure_11	B	core cellular-localization heatmap
+Figure_11	C	composition and targeted-state bars
+Figure_11	D	integrated mechanistic network

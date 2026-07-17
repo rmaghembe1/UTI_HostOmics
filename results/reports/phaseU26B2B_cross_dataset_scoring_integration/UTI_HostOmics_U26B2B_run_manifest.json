@@ -1,0 +1,10 @@
+{
+  "version": "U26B2B_v1.0_2026-07-14",
+  "project_root": "project:",
+  "decision": "READY_FOR_U26C_CROSS_DATASET_BIOLOGICAL_SYNTHESIS_CELLTYPE_RECONSTRUCTION_DEFERRED",
+  "human_group_status": "resolved_41_sepsis_32_vascular_surgery",
+  "human_scoring_completed": true,
+  "GSE252321_cell_type_pseudobulk": "deferred",
+  "manuscript_modified": false,
+  "existing_figures_modified": false
+}

@@ -1,0 +1,8 @@
+audit_id	required_terms	pass
+datasets	GSE112098; GSE280297; GSE168600; GSE252321	True
+architecture	78; ten biological axes	True
+infection_core	TLR4; leptin; PI3K-AKT	True
+pregnancy	branch-selective; steroid; preterm	True
+single_cell	27,385; 18 clusters; 14 refined subtypes; 0.333	True
+complement	C3a/C5a; opsonophagocytosis; provisional	True
+code_path	10_scripts/	True

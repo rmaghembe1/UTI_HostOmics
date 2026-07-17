@@ -1,0 +1,16 @@
+{
+  "version": "U26A2_v1.0_2026-07-14",
+  "project_root": "project:",
+  "dataset": "GSE280297",
+  "decision": "TARGETED_METADATA_REVIEW_REQUIRED",
+  "outputs": {
+    "candidate_audit": "project://06_tables/phaseU26A2_GSE280297_identifier_design_resolution/UTI_HostOmics_U26A2_GSE280297_expression_candidate_audit.tsv",
+    "canonical_matrix": "project://04_data_processed/phaseU26A2_GSE280297_identifier_design_resolution/GSE280297_U26A2_canonical_gene_symbol_expression.tsv.gz",
+    "matrix_qc": "project://06_tables/phaseU26A2_GSE280297_identifier_design_resolution/UTI_HostOmics_U26A2_GSE280297_canonical_matrix_qc.tsv",
+    "gene_universe": "project://03_metadata/phaseU26A2_GSE280297_identifier_design_resolution/GSE280297_U26A2_resolved_gene_universe.txt",
+    "coverage": "project://06_tables/phaseU26A2_GSE280297_identifier_design_resolution/UTI_HostOmics_U26A2_GSE280297_submodule_coverage.tsv",
+    "sample_design": "project://03_metadata/phaseU26A2_GSE280297_identifier_design_resolution/GSE280297_U26A2_deduplicated_sample_design.tsv",
+    "decision": "project://06_tables/phaseU26A2_GSE280297_identifier_design_resolution/UTI_HostOmics_U26A2_phase_decision.tsv",
+    "report": "project://05_results/phaseU26A2_GSE280297_identifier_design_resolution/UTI_HostOmics_U26A2_GSE280297_resolution_report.md"
+  }
+}

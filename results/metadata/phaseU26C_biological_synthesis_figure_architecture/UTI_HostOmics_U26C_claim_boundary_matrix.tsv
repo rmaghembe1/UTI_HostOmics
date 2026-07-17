@@ -1,0 +1,8 @@
+evidence_pattern	allowed_claim	avoid
+Human adjusted FDR only	Associated with human urinary systemic inflammation	UTI-specific, causal or cell-type-specific wording
+Human FDR plus concordant independent effect	Recurrent urinary inflammatory module with independent cross-model support	Replicated FDR across cohorts
+GSE186800 treatment direction without FDR	Directionally altered in a mouse bladder exposure model	Significantly regulated by Gardnerella
+GSE186800 PBS block FDR	Exposure-stage or experimental-block difference among controls	Gardnerella-induced effect
+Large coherent GSE280297 preterm effect	Candidate pregnancy-outcome-associated tissue programme	Confirmed mechanism of preterm birth or miscarriage
+GSE252321 n=2 versus n=2	Exploratory directionally consistent UPEC response	Validated, significant or cell-type-specific effect
+Opposite effects across models	Context-dependent remodeling	Universal activation or repression

@@ -1,0 +1,79 @@
+feature_id	display_label	axis	proposed_figure_family	requested_genes	detected_genes	coverage_fraction	score_eligible
+BRANCHED_CHAIN_AMINO_ACIDS	Branched-chain amino-acid metabolism	amino_acid_metabolism	Figure_9	12	12	1.0	True
+GLYCOGENOLYSIS	Glycogenolysis	carbohydrate_inflammatory_carbon	Figure_8	12	12	1.0	True
+LACTATE_HIF1A_INFLAMMATORY_GLYCOLYSIS	Lactate and HIF1A inflammatory glycolysis	carbohydrate_inflammatory_carbon	Figure_8	15	15	1.0	True
+MTORC1_INSULIN_OUTPUT	mTORC1 insulin output	insulin_irs_signaling	Figure_8	13	13	1.0	True
+MTOR_SIGNALING	mTOR signaling	carbohydrate_inflammatory_carbon	Figure_8	19	19	1.0	True
+NAD_METABOLISM	NAD metabolism	nucleotide_nad_nitrogen	Figure_9	16	16	1.0	True
+OXIDATIVE_STRESS_NRF2_ANCHOR	Oxidative stress and NRF2 anchor	immune_context_anchors	Integrated_network	13	13	1.0	True
+PHOSPHOLIPID_METABOLISM	Phospholipid metabolism	lipid_metabolism	Figure_7	16	16	1.0	True
+PI3K_AKT_SIGNALING	PI3K-AKT signaling	insulin_irs_signaling	Figure_8	17	17	1.0	True
+RESISTIN_INFLAMMATORY_SIGNALING	Resistin-associated inflammatory signaling	adipokine_signaling	Figure_8	11	11	1.0	True
+SERINE_GLYCINE_ONE_CARBON	Serine, glycine and one-carbon metabolism	amino_acid_metabolism	Figure_9	13	13	1.0	True
+TLR4_LPS_SIGNALING_ANCHOR	TLR4-LPS signaling anchor	immune_context_anchors	Integrated_network	15	15	1.0	True
+XANTHINE_OXIDASE_OXIDATIVE_PURINE_CATABOLISM	Xanthine oxidase and oxidative purine catabolism	nucleotide_nad_nitrogen	Figure_9	13	13	1.0	True
+CHOLESTEROL_BIOSYNTHESIS	Cholesterol biosynthesis	steroid_cholesterol_endocrine	Figure_7	19	18	0.9473684210526315	True
+INSULIN_RECEPTOR_IRS	Insulin receptor and IRS signaling	insulin_irs_signaling	Figure_8	18	17	0.9444444444444444	True
+FERROPTOSIS_LIPID_PEROXIDATION	Ferroptosis-linked lipid peroxidation	lipid_metabolism	Figure_7	16	15	0.9375	True
+NFKB_MAPK_INFLAMMATION_ANCHOR	NF-kB and MAPK inflammation anchor	immune_context_anchors	Integrated_network	16	15	0.9375	True
+PPAR_SREBP_LXR_REGULATION	PPAR, SREBP and LXR regulation	lipid_metabolism	Figure_7	16	15	0.9375	True
+UROTHELIAL_BARRIER_REPAIR_ANCHOR	Urothelial barrier and repair anchor	immune_context_anchors	Integrated_network	16	15	0.9375	True
+CATECHOLAMINE_IRON_REDOX_INTERFACE	Catecholamine, iron and redox interface	catecholamine_stress_adjacent	Figure_9	15	14	0.9333333333333333	True
+LEPTIN_SIGNALING	Leptin signaling	adipokine_signaling	Figure_8	12	11	0.9166666666666666	True
+PYRIMIDINE_SYNTHESIS	Pyrimidine synthesis	nucleotide_nad_nitrogen	Figure_9	12	11	0.9166666666666666	True
+ANDROGEN_RECEPTOR_SIGNALING	Androgen receptor signaling	steroid_cholesterol_endocrine	Figure_7	11	10	0.9090909090909091	True
+AMPK_INSULIN_COUNTERREGULATION	AMPK counter-regulation of insulin signaling	insulin_irs_signaling	Figure_8	10	9	0.9	True
+PENTOSE_PHOSPHATE_PATHWAY	Pentose-phosphate pathway	carbohydrate_inflammatory_carbon	Figure_8	10	9	0.9	True
+SPHINGOLIPID_CERAMIDE_METABOLISM	Sphingolipid and ceramide metabolism	lipid_metabolism	Figure_7	20	18	0.9	True
+GLYCOLYSIS	Glycolysis	carbohydrate_inflammatory_carbon	Figure_8	18	16	0.8888888888888888	True
+EICOSANOID_PROSTAGLANDIN_METABOLISM	Eicosanoid and prostaglandin metabolism	lipid_metabolism	Figure_7	17	15	0.8823529411764706	True
+AGE_RAGE_SIGNALING	AGE-RAGE signaling	carbohydrate_inflammatory_carbon	Figure_8	16	14	0.875	True
+FATTY_ACID_BETA_OXIDATION	Fatty-acid beta-oxidation	lipid_metabolism	Figure_7	16	14	0.875	True
+NEUTROPHIL_NETOSIS_ANCHOR	Neutrophil and NETosis anchor	immune_context_anchors	Integrated_network	16	14	0.875	True
+TCA_OXPHOS	TCA cycle and oxidative phosphorylation	carbohydrate_inflammatory_carbon	Figure_8	23	20	0.8695652173913043	True
+LIPID_DROPLET_DYNAMICS	Lipid-droplet dynamics	lipid_metabolism	Figure_7	15	13	0.8666666666666667	True
+FATTY_ACID_SYNTHESIS	Fatty-acid synthesis	lipid_metabolism	Figure_7	14	12	0.8571428571428571	True
+NITRIC_OXIDE_SYNTHESIS_REGULATION	Nitric-oxide synthesis and regulation	nucleotide_nad_nitrogen	Figure_9	14	12	0.8571428571428571	True
+GLUCOCORTICOID_RESPONSE	Glucocorticoid response	steroid_cholesterol_endocrine	Figure_7	13	11	0.8461538461538461	True
+GLUTAMINE_GLUTAMATE	Glutamine and glutamate metabolism	amino_acid_metabolism	Figure_9	13	11	0.8461538461538461	True
+PURINE_DE_NOVO_SYNTHESIS	De novo purine synthesis	nucleotide_nad_nitrogen	Figure_9	13	11	0.8461538461538461	True
+CHOLESTEROL_UPTAKE_TRANSPORT_EXPORT	Cholesterol uptake, transport and export	steroid_cholesterol_endocrine	Figure_7	19	16	0.8421052631578947	True
+COMPLEMENT_C3A_C5A_SIGNALING	C3a and C5a inflammatory signaling	complement_architecture	Figure_10	12	10	0.8333333333333334	True
+PPARG_ADIPOMETABOLIC_REGULATION	PPARG adipometabolic regulation	adipokine_signaling	Figure_8	12	10	0.8333333333333334	True
+PURINE_SALVAGE	Purine salvage	nucleotide_nad_nitrogen	Figure_9	12	10	0.8333333333333334	True
+MINERALOCORTICOID_RESPONSE	Mineralocorticoid response	steroid_cholesterol_endocrine	Figure_7	11	9	0.8181818181818182	True
+PURINE_DEGRADATION_URATE	Purine degradation and urate	nucleotide_nad_nitrogen	Figure_9	11	9	0.8181818181818182	True
+AMPK_SIGNALING	AMPK signaling	carbohydrate_inflammatory_carbon	Figure_8	15	12	0.8	True
+COMPLEMENT_CLASSICAL	Classical complement pathway	complement_architecture	Figure_10	10	8	0.8	True
+PREGNANCY_INFLAMMATION_ANCHOR	Pregnancy-associated inflammation anchor	immune_context_anchors	Integrated_network	15	12	0.8	True
+AMINO_ACID_TRANSPORT	Amino-acid transport	amino_acid_metabolism	Figure_9	14	11	0.7857142857142857	True
+ADIPOKINE_INFLAMMATORY_AXIS	Inflammatory adipokine axis	adipokine_signaling	Figure_8	13	10	0.7692307692307693	True
+CATECHOLAMINE_BIOSYNTHESIS_DEGRADATION	Catecholamine biosynthesis and degradation	catecholamine_stress_adjacent	Figure_9	13	10	0.7692307692307693	True
+ARGININE_NO_UREA	Arginine, nitric oxide and urea coupling	amino_acid_metabolism	Figure_9	16	12	0.75	True
+LXR_FXR_STEROL_SIGNALING	LXR and FXR sterol signaling	steroid_cholesterol_endocrine	Figure_7	12	9	0.75	True
+ADIPONECTIN_SIGNALING	Adiponectin signaling	adipokine_signaling	Figure_8	11	8	0.7272727272727273	True
+METHIONINE_SAM_METHYLATION	Methionine and SAM metabolism	amino_acid_metabolism	Figure_9	14	10	0.7142857142857143	True
+COMPLEMENT_C3_CONVERTASE_AMPLIFICATION	C3 convertase and amplification	complement_architecture	Figure_10	10	7	0.7	True
+GLYCOGEN_SYNTHESIS	Glycogen synthesis	carbohydrate_inflammatory_carbon	Figure_8	10	7	0.7	True
+PYRIMIDINE_DEGRADATION	Pyrimidine degradation	nucleotide_nad_nitrogen	Figure_9	10	7	0.7	True
+STEROID_SULFATION_DESULFATION	Steroid sulfation and desulfation	steroid_cholesterol_endocrine	Figure_7	10	7	0.7	True
+UREA_CYCLE	Urea cycle	nucleotide_nad_nitrogen	Figure_9	10	7	0.7	True
+ESTROGEN_RECEPTOR_RESPONSE	Estrogen receptor response	steroid_cholesterol_endocrine	Figure_7	13	9	0.6923076923076923	True
+ADRENERGIC_STRESS_SIGNALING	Adrenergic stress signaling	catecholamine_stress_adjacent	Figure_9	15	10	0.6666666666666666	True
+ESTROGEN_BIOSYNTHESIS	Estrogen biosynthesis and interconversion	steroid_cholesterol_endocrine	Figure_7	9	6	0.6666666666666666	True
+GLUCONEOGENESIS	Gluconeogenesis	carbohydrate_inflammatory_carbon	Figure_8	12	8	0.6666666666666666	True
+PROGESTERONE_BIOSYNTHESIS_RESPONSE	Progesterone biosynthesis and response	steroid_cholesterol_endocrine	Figure_7	17	11	0.6470588235294118	True
+COMPLEMENT_COAGULATION_CROSSTALK	Complement-coagulation crosstalk	complement_architecture	Figure_10	16	10	0.625	True
+COMPLEMENT_OPSONOPHAGOCYTOSIS	Complement-opsonophagocytosis	complement_architecture	Figure_10	14	8	0.5714285714285714	True
+TRYPTOPHAN_KYNURENINE	Tryptophan-kynurenine metabolism	amino_acid_metabolism	Figure_9	13	7	0.5384615384615384	True
+GLUCOSE_TRANSPORT	Glucose transport	carbohydrate_inflammatory_carbon	Figure_8	12	6	0.5	True
+STEROIDOGENESIS_CORE	Core steroidogenesis	steroid_cholesterol_endocrine	Figure_7	12	6	0.5	True
+AROMATIC_AMINO_ACID_METABOLISM	Aromatic amino-acid metabolism	amino_acid_metabolism	Figure_9	13	6	0.46153846153846156	True
+COMPLEMENT_ALTERNATIVE	Alternative complement pathway	complement_architecture	Figure_10	11	5	0.45454545454545453	True
+PLACENTAL_STEROID_METABOLISM	Placental steroid metabolism	steroid_cholesterol_endocrine	Figure_7	14	6	0.42857142857142855	True
+COMPLEMENT_REGULATORS	Complement regulators	complement_architecture	Figure_10	12	5	0.4166666666666667	True
+ANDROGEN_TESTOSTERONE_BIOSYNTHESIS	Androgen and testosterone biosynthesis	steroid_cholesterol_endocrine	Figure_7	9	4	0.4444444444444444	False
+COMPLEMENT_LECTIN	Lectin complement pathway	complement_architecture	Figure_10	12	4	0.3333333333333333	False
+STEROID_CATABOLISM_DEACTIVATION	Steroid catabolism and deactivation	steroid_cholesterol_endocrine	Figure_7	13	4	0.3076923076923077	False
+COMPLEMENT_TERMINAL_MAC	Terminal complement and membrane-attack complex	complement_architecture	Figure_10	10	3	0.3	False
+TESTOSTERONE_CONVERSION_AROMATIZATION	Testosterone conversion and aromatization	steroid_cholesterol_endocrine	Figure_7	11	3	0.2727272727272727	False

@@ -1,0 +1,2 @@
+phase	decision	n_primary_feature_results	n_secondary_exploratory_results	n_primary_permutation_FDR_0_05	n_primary_permutation_FDR_0_10	n_primary_family_FDR_0_10	n_axis_FDR_0_05	n_axis_FDR_0_10	n_large_primary_effects	c4_primary_ranking_status	dam_level_model	manuscript_modified	existing_figures_modified	next_phase
+U26B1.1	READY_FOR_U26B2_CROSS_DATASET_SCORING	567	243	0	0	1	0	0	55	excluded_secondary_exploratory	deferred	False	False	dataset-appropriate scoring of GSE186800, GSE112098, and GSE252321 followed by cross-dataset standardized-effect integration

@@ -1,0 +1,2 @@
+phase	decision	figures_rebuilt	panels_expected	panels_in_manifest	panel_crops_present	exports_present	contact_sheets_present	locked_source_paths_exist	scatter_annotation_audit_pass	statistical_effects_recalculated	displayed_modules_changed	pathway_membership_changed	source_locks_changed	manuscript_modified	next_phase
+U27B2E2D	READY_FOR_U27B2E2E_FINAL_FIGURES_5_TO_8_FREEZE	4	28	28	28	12	True	True	True	False	False	False	False	False	U27B2E2E final freeze of Figures 5-8

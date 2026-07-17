@@ -1,0 +1,12 @@
+{
+  "version": "U27B2D_v1.0_2026-07-16",
+  "decision": "READY_FOR_U27B2E_FINAL_FIGURES_5_TO_8_VISUAL_AUDIT",
+  "figures_built": 4,
+  "panels": 28,
+  "panel_crops": 28,
+  "exports": 12,
+  "U27A4_visual_references_complete": true,
+  "U27A4_used_as_numerical_source": false,
+  "scientific_values_recalculated": false,
+  "manuscript_modified": false
+}

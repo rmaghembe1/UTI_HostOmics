@@ -1,0 +1,4 @@
+issue_id	present	required_action	blocking_for_figure_section_cleanup
+LEGACY_GSE186800_OUTSIDE_RESULTS	True	Harmonize Abstract, Methods, Discussion and Data availability to the frozen GSE168600 architecture.	False
+LEGACY_ABSTRACT_MODULE_FRAMEWORK	True	Rewrite the Abstract against the frozen 78-submodule and eight-figure synthesis.	False
+LEGACY_CODE_DIRECTORY_REFERENCE	True	Update Code availability to the current 10_scripts and package paths.	False

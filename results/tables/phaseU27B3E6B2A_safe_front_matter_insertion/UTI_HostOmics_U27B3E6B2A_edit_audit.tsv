@@ -1,0 +1,8 @@
+section	paragraphs_removed	authors_inserted	affiliations_inserted	correspondence_inserted	paragraphs_inserted	inserted_text
+Authors	2	5.0	5.0	True		
+Data availability	1				1.0	All datasets analyzed in this study are publicly available from the NCBI Gene Expression Omnibus under accession numbers GSE112098, GSE186800, GSE252321 and GSE280297. No new primary datasets were generated.
+Code availability	1				1.0	Analysis scripts and derived non-restricted outputs will be deposited in a public GitHub repository after completion of the full manuscript and before submission. The final repository URL will be added to the manuscript.
+Author contributions	1				1.0	Reuben S. Maghembe: Conceptualization; Data curation; Formal analysis; Investigation; Methodology; Software; Validation; Visualization; Writing - original draft. Samweli Bahati: Data curation; Methodology; Writing - review and editing. Abdalah Makaranga: Conceptualization; Methodology; Writing - review and editing. Maximilian A.K. Magulye: Conceptualization; Writing - review and editing. Benson R. Kidenya: Writing - review and editing.
+Competing interests	1				1.0	The authors declare no competing interests.
+Funding	1				1.0	No specific funding was received for this study.
+Acknowledgements	1				1.0	The authors acknowledge the investigators who generated and deposited the publicly available datasets used in this study.

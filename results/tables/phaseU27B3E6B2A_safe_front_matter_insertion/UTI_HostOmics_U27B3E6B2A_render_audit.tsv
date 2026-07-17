@@ -1,0 +1,2 @@
+render_pass	reason	pdf_path	page_pngs	contact_sheet_path	contact_sheet_created	manual_visual_qa_required
+False	Intentionally skipped in U27B3E6B2A to avoid WSL termination; external render and page-by-page visual QA are required.		0		False	True

@@ -1,0 +1,9 @@
+{
+  "version": "U26A4_v1.0_2026-07-14",
+  "project_root": "project:",
+  "primary_matrix": "project://03_data_processed/phaseU4b_repaired_matrices/GSE280297_normalized_repaired_gene_symbol_matrix.tsv.gz",
+  "primary_annotation": "project://07_tables/phaseU4b_repaired_module_scores/GSE280297_normalized_repaired_sample_annotation_v1.tsv",
+  "decision": "TARGETED_MATRIX_REVIEW_REQUIRED",
+  "manuscript_modified": false,
+  "existing_figures_modified": false
+}

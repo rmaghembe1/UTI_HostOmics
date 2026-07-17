@@ -1,0 +1,11 @@
+{
+  "version": "U26C_v1.0_2026-07-14",
+  "project_root": "project:",
+  "decision": "READY_FOR_U26D_CELLTYPE_RECONSTRUCTION_AND_U27_FIGURE_MANUSCRIPT_INTEGRATION",
+  "robust_core_modules": 3,
+  "provisional_core_modules": 2,
+  "secondary_modules": 5,
+  "context_divergent_modules": 21,
+  "manuscript_modified": false,
+  "existing_figures_modified": false
+}

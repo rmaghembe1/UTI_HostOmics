@@ -1,0 +1,13 @@
+{
+  "version": "U27B2E2D_v1.0_2026-07-16",
+  "decision": "READY_FOR_U27B2E2E_FINAL_FIGURES_5_TO_8_FREEZE",
+  "figures_rebuilt": 4,
+  "panels": 28,
+  "panel_crops": 28,
+  "exports": 12,
+  "scatter_annotation_audit_pass": true,
+  "statistical_effects_recalculated": false,
+  "displayed_modules_changed": false,
+  "pathway_membership_changed": false,
+  "source_locks_changed": false
+}

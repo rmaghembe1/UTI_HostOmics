@@ -1,0 +1,61 @@
+sample_id	annotation_row_matched	sample_geo_accession	tissue	treatment	primary_exposure	outcome	pregnancy_status	sex	inferred_group	dam_id	unresolved_required_fields	source_annotation_text
+B1	True	GSM8594270	bladder	UTI89	UPEC_exposed	preterm	pregnant	female	UTI89_Preterm			tissue: Bladder | outcome: Preterm | background: 129/sv | Sex: female | treatment: UTI89
+B2	True	GSM8594271	bladder	UTI89	UPEC_exposed	preterm	pregnant	female	UTI89_Preterm			tissue: Bladder | outcome: Preterm | background: 129/sv | Sex: female | treatment: UTI89
+B3	True	GSM8594272	bladder	UTI89	UPEC_exposed	nonpregnant	nonpregnant	female	UTI89_Nonpregnant			tissue: Bladder | outcome: Nonpregnant | background: 129/sv | Sex: female | treatment: UTI89
+B4	True	GSM8594273	bladder	UTI89	UPEC_exposed	nonpregnant	nonpregnant	female	UTI89_Nonpregnant			tissue: Bladder | outcome: Nonpregnant | background: 129/sv | Sex: female | treatment: UTI89
+B5	True	GSM8594274	bladder	UTI89	UPEC_exposed	nonpregnant	nonpregnant	female	UTI89_Nonpregnant			tissue: Bladder | outcome: Nonpregnant | background: 129/sv | Sex: female | treatment: UTI89
+B6	True	GSM8594275	bladder	UTI89	UPEC_exposed	nonpregnant	nonpregnant	female	UTI89_Nonpregnant			tissue: Bladder | outcome: Nonpregnant | background: 129/sv | Sex: female | treatment: UTI89
+B7	True	GSM8594276	bladder	UTI89	UPEC_exposed	preterm	pregnant	female	UTI89_Preterm			tissue: Bladder | outcome: Preterm | background: 129/sv | Sex: female | treatment: UTI89
+B8	True	GSM8594277	bladder	UTI89	UPEC_exposed	term	pregnant	female	UTI89_Term			tissue: Bladder | outcome: Term | background: 129/sv | Sex: female | treatment: UTI89
+B9	True	GSM8594278	bladder	UTI89	UPEC_exposed	term	pregnant	female	UTI89_Term			tissue: Bladder | outcome: Term | background: 129/sv | Sex: female | treatment: UTI89
+B10	True	GSM8594279	bladder	PBS_control	control	mock_control	pregnant_control	female	Mock_PBS			tissue: Bladder | outcome: Mock | background: 129/sv | Sex: female | treatment: PBS
+B11	True	GSM8594280	bladder	UTI89	UPEC_exposed	preterm	pregnant	female	UTI89_Preterm			tissue: Bladder | outcome: Preterm | background: 129/sv | Sex: female | treatment: UTI89
+B12	True	GSM8594281	bladder	UTI89	UPEC_exposed	term	pregnant	female	UTI89_Term			tissue: Bladder | outcome: Term | background: 129/sv | Sex: female | treatment: UTI89
+B13	True	GSM8594282	bladder	PBS_control	control	mock_control	pregnant_control	female	Mock_PBS			tissue: Bladder | outcome: Mock | background: 129/sv | Sex: female | treatment: PBS
+B14	True	GSM8594283	bladder	UTI89	UPEC_exposed	preterm	pregnant	female	UTI89_Preterm			tissue: Bladder | outcome: Preterm | background: 129/sv | Sex: female | treatment: UTI89
+B15	True	GSM8594284	bladder	PBS_control	control	mock_control	pregnant_control	female	Mock_PBS			tissue: Bladder | outcome: Mock | background: 129/sv | Sex: female | treatment: PBS
+B16	True	GSM8594285	bladder	UTI89	UPEC_exposed	preterm	pregnant	female	UTI89_Preterm			tissue: Bladder | outcome: Preterm | background: 129/sv | Sex: female | treatment: UTI89
+B17	True	GSM8594286	bladder	UTI89_RFP	UPEC_exposed	term	pregnant	female	UTI89_Term			tissue: Bladder | outcome: Term | background: 129/sv | Sex: female | treatment: UTI89 RFP
+B18	True	GSM8594287	bladder	UTI89_RFP	UPEC_exposed	term	pregnant	female	UTI89_Term			tissue: Bladder | outcome: Term | background: 129/sv | Sex: female | treatment: UTI89 RFP
+U1	True	GSM8594316	uterus	UTI89	UPEC_exposed	preterm	pregnant	female	UTI89_Preterm			tissue: Uterus | outcome: Preterm | background: 129/sv | Sex: female | treatment: UTI89
+U2	True	GSM8594317	uterus	UTI89	UPEC_exposed	preterm	pregnant	female	UTI89_Preterm			tissue: Uterus | outcome: Preterm | background: 129/sv | Sex: female | treatment: UTI89
+U3	True	GSM8594318	uterus	UTI89	UPEC_exposed	preterm	pregnant	female	UTI89_Preterm			tissue: Uterus | outcome: Preterm | background: 129/sv | Sex: female | treatment: UTI89
+U4	True	GSM8594319	uterus	UTI89	UPEC_exposed	term	pregnant	female	UTI89_Term			tissue: Uterus | outcome: Term | background: 129/sv | Sex: female | treatment: UTI89
+U5	True	GSM8594320	uterus	UTI89	UPEC_exposed	term	pregnant	female	UTI89_Term			tissue: Uterus | outcome: Term | background: 129/sv | Sex: female | treatment: UTI89
+U6	True	GSM8594321	uterus	PBS_control	control	mock_control	pregnant_control	female	Mock_PBS			tissue: Uterus | outcome: Mock | background: 129/sv | Sex: female | treatment: PBS
+U7	True	GSM8594322	uterus	UTI89	UPEC_exposed	preterm	pregnant	female	UTI89_Preterm			tissue: Uterus | outcome: Preterm | background: 129/sv | Sex: female | treatment: UTI89
+U8	True	GSM8594323	uterus	UTI89	UPEC_exposed	term	pregnant	female	UTI89_Term			tissue: Uterus | outcome: Term | background: 129/sv | Sex: female | treatment: UTI89
+U9	True	GSM8594324	uterus	PBS_control	control	mock_control	pregnant_control	female	Mock_PBS			tissue: Uterus | outcome: Mock | background: 129/sv | Sex: female | treatment: PBS
+U10	True	GSM8594325	uterus	UTI89	UPEC_exposed	preterm	pregnant	female	UTI89_Preterm			tissue: Uterus | outcome: Preterm | background: 129/sv | Sex: female | treatment: UTI89
+U11	True	GSM8594326	uterus	PBS_control	control	mock_control	pregnant_control	female	Mock_PBS			tissue: Uterus | outcome: Mock | background: 129/sv | Sex: female | treatment: PBS
+U12	True	GSM8594327	uterus	UTI89	UPEC_exposed	preterm	pregnant	female	UTI89_Preterm			tissue: Uterus | outcome: Preterm | background: 129/sv | Sex: female | treatment: UTI89
+U13	True	GSM8594328	uterus	UTI89_RFP	UPEC_exposed	term	pregnant	female	UTI89_Term			tissue: Uterus | outcome: Term | background: 129/sv | Sex: female | treatment: UTI89 RFP
+U14	True	GSM8594329	uterus	UTI89_RFP	UPEC_exposed	term	pregnant	female	UTI89_Term			tissue: Uterus | outcome: Term | background: 129/sv | Sex: female | treatment: UTI89 RFP
+P1	True	GSM8594288	placenta	UTI89	UPEC_exposed	preterm	pregnant	Female	UTI89_Preterm			tissue: Placenta | outcome: Preterm | background: 129/sv | Sex: Female | treatment: UTI89
+P2	True	GSM8594289	placenta	UTI89	UPEC_exposed	preterm	pregnant	Female	UTI89_Preterm			tissue: Placenta | outcome: Preterm | background: 129/sv | Sex: Female | treatment: UTI89
+P3	True	GSM8594290	placenta	UTI89	UPEC_exposed	preterm	pregnant	Male	UTI89_Preterm			tissue: Placenta | outcome: Preterm | background: 129/sv | Sex: Male | treatment: UTI89
+P4	True	GSM8594291	placenta	UTI89	UPEC_exposed	preterm	pregnant	Male	UTI89_Preterm			tissue: Placenta | outcome: Preterm | background: 129/sv | Sex: Male | treatment: UTI89
+P5	True	GSM8594292	placenta	UTI89	UPEC_exposed	preterm	pregnant	Female	UTI89_Preterm			tissue: Placenta | outcome: Preterm | background: 129/sv | Sex: Female | treatment: UTI89
+P6	True	GSM8594293	placenta	UTI89	UPEC_exposed	preterm	pregnant	Female	UTI89_Preterm			tissue: Placenta | outcome: Preterm | background: 129/sv | Sex: Female | treatment: UTI89
+P7	True	GSM8594294	placenta	UTI89	UPEC_exposed	term	pregnant	Female	UTI89_Term			tissue: Placenta | outcome: Term | background: 129/sv | Sex: Female | treatment: UTI89
+P8	True	GSM8594295	placenta	UTI89	UPEC_exposed	term	pregnant	Male	UTI89_Term			tissue: Placenta | outcome: Term | background: 129/sv | Sex: Male | treatment: UTI89
+P9	True	GSM8594296	placenta	UTI89	UPEC_exposed	term	pregnant	Male	UTI89_Term			tissue: Placenta | outcome: Term | background: 129/sv | Sex: Male | treatment: UTI89
+P10	True	GSM8594297	placenta	UTI89	UPEC_exposed	term	pregnant	Female	UTI89_Term			tissue: Placenta | outcome: Term | background: 129/sv | Sex: Female | treatment: UTI89
+P11	True	GSM8594298	placenta	PBS_control	control	mock_control	pregnant_control	Female	Mock_PBS			tissue: Placenta | outcome: Mock | background: 129/sv | Sex: Female | treatment: PBS
+P12	True	GSM8594299	placenta	PBS_control	control	mock_control	pregnant_control	Female	Mock_PBS			tissue: Placenta | outcome: Mock | background: 129/sv | Sex: Female | treatment: PBS
+P13	True	GSM8594300	placenta	UTI89	UPEC_exposed	preterm	pregnant	Female	UTI89_Preterm			tissue: Placenta | outcome: Preterm | background: 129/sv | Sex: Female | treatment: UTI89
+P14	True	GSM8594301	placenta	UTI89	UPEC_exposed	preterm	pregnant	Female	UTI89_Preterm			tissue: Placenta | outcome: Preterm | background: 129/sv | Sex: Female | treatment: UTI89
+P15	True	GSM8594302	placenta	UTI89	UPEC_exposed	term	pregnant	Female	UTI89_Term			tissue: Placenta | outcome: Term | background: 129/sv | Sex: Female | treatment: UTI89
+P16	True	GSM8594303	placenta	UTI89	UPEC_exposed	term	pregnant	Female	UTI89_Term			tissue: Placenta | outcome: Term | background: 129/sv | Sex: Female | treatment: UTI89
+P17	True	GSM8594304	placenta	PBS_control	control	mock_control	pregnant_control	Male	Mock_PBS			tissue: Placenta | outcome: Mock | background: 129/sv | Sex: Male | treatment: PBS
+P18	True	GSM8594305	placenta	PBS_control	control	mock_control	pregnant_control	Female	Mock_PBS			tissue: Placenta | outcome: Mock | background: 129/sv | Sex: Female | treatment: PBS
+P19	True	GSM8594306	placenta	UTI89	UPEC_exposed	preterm	pregnant	Female	UTI89_Preterm			tissue: Placenta | outcome: Preterm | background: 129/sv | Sex: Female | treatment: UTI89
+P20	True	GSM8594307	placenta	UTI89	UPEC_exposed	preterm	pregnant	Male	UTI89_Preterm			tissue: Placenta | outcome: Preterm | background: 129/sv | Sex: Male | treatment: UTI89
+P21	True	GSM8594308	placenta	PBS_control	control	mock_control	pregnant_control	Female	Mock_PBS			tissue: Placenta | outcome: Mock | background: 129/sv | Sex: Female | treatment: PBS
+P22	True	GSM8594309	placenta	PBS_control	control	mock_control	pregnant_control	Male	Mock_PBS			tissue: Placenta | outcome: Mock | background: 129/sv | Sex: Male | treatment: PBS
+P23	True	GSM8594310	placenta	UTI89	UPEC_exposed	preterm	pregnant	Male	UTI89_Preterm			tissue: Placenta | outcome: Preterm | background: 129/sv | Sex: Male | treatment: UTI89
+P24	True	GSM8594311	placenta	UTI89	UPEC_exposed	preterm	pregnant	Female	UTI89_Preterm			tissue: Placenta | outcome: Preterm | background: 129/sv | Sex: Female | treatment: UTI89
+P25	True	GSM8594312	placenta	UTI89_RFP	UPEC_exposed	term	pregnant	Female	UTI89_Term			tissue: Placenta | outcome: Term | background: 129/sv | Sex: Female | treatment: UTI89 RFP
+P26	True	GSM8594313	placenta	UTI89_RFP	UPEC_exposed	term	pregnant	Female	UTI89_Term			tissue: Placenta | outcome: Term | background: 129/sv | Sex: Female | treatment: UTI89 RFP
+P27	True	GSM8594314	placenta	UTI89_RFP	UPEC_exposed	term	pregnant	Female	UTI89_Term			tissue: Placenta | outcome: Term | background: 129/sv | Sex: Female | treatment: UTI89 RFP
+P28	True	GSM8594315	placenta	UTI89_RFP	UPEC_exposed	term	pregnant	Female	UTI89_Term			tissue: Placenta | outcome: Term | background: 129/sv | Sex: Female | treatment: UTI89 RFP

@@ -1,0 +1,15 @@
+{
+  "version": "U27B3B_v1.0_2026-07-16",
+  "decision": "READY_FOR_U27B3C_RESULTS_SECTION_CONSTRUCTION_AND_MANUSCRIPT_TARGET_RESOLUTION",
+  "figures_with_legends": 8,
+  "panels_in_registry": 57,
+  "unique_panel_keys": 57,
+  "markdown_path": "project://07_manuscript/phaseU27B3B_definitive_figure_legend_construction/UTI_HostOmics_U27B3B_definitive_figure_legends.md",
+  "text_path": "project://07_manuscript/phaseU27B3B_definitive_figure_legend_construction/UTI_HostOmics_U27B3B_manuscript_legend_insert.txt",
+  "docx_path": "project://07_manuscript/phaseU27B3B_definitive_figure_legend_construction/UTI_HostOmics_U27B3B_definitive_figure_legends.docx",
+  "docx_status": "CREATED",
+  "scientific_values_recalculated": false,
+  "figure_assets_modified": false,
+  "source_locks_changed": false,
+  "manuscript_modified": false
+}

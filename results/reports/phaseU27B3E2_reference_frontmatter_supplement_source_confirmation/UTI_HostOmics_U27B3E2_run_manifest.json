@@ -1,0 +1,15 @@
+{
+  "version": "U27B3E2_v1.0_2026-07-16",
+  "decision": "READY_FOR_U27B3E3_SUPPLEMENTARY_TABLE_MATERIALIZATION_WITH_FRONT_MATTER_USER_INPUT_REQUIRED",
+  "manuscript_path": "project://09_manuscript_docx/phaseU27B3E1_reference_supplement_submission_architecture/UTI_HostOmics_preZotero_manuscript_v6_2_U27B3E1_submission_architecture_cleaned.docx",
+  "supplementary_tables_with_sources": 10,
+  "high_confidence_locked": 3,
+  "provisional_mappings": 7,
+  "unresolved_supplements": 0,
+  "reference_gaps": 5,
+  "front_matter_items_open": 8,
+  "manuscript_modified": false,
+  "scientific_values_recalculated": false,
+  "figure_assets_modified": false,
+  "source_locks_changed": false
+}

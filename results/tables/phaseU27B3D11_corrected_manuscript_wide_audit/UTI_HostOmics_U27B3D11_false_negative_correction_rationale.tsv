@@ -1,0 +1,2 @@
+failed_audit	previous_method	corrected_method	manuscript_content_changed
+Figure 1 caption presence	The first definitive Figure 1 caption was promoted to a synthetic Figures-section heading and excluded from its own section content.	Audit all definitive Figure 1-8 caption paragraphs directly across the complete DOCX body.	False

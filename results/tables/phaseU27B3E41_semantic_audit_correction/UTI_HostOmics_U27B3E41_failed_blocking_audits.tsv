@@ -1,0 +1,2 @@
+category	supplementary_table	audit_id	pass	observed	expected	severity	note
+critical_column	S9	critical_nonmissing::Frozen Figure 1-8 asset manifest::figure_number	False	81/81 figure-linked assets numbered; 1/2 package-level assets exempt	figure_number complete for every figure-linked asset; package-level non-figure assets exempt	BLOCKING	Blank figure numbers are permitted only for explicitly classified package-level assets with no panel or figure-specific path marker.

@@ -1,0 +1,2 @@
+phase	decision	supplementary_tables_preserved	table_sha256_matches	semantic_audits	semantic_audits_passed	unauthorized_GSE168600_occurrences	documented_prohibition_rule_occurrences	GSE186800_present	package_zip_created	scientific_values_recalculated	materialized_table_bytes_modified	source_files_modified	historical_artifacts_overwritten	next_phase
+U27B3E3.2.1	READY_FOR_U27B3E4_SUPPLEMENTARY_TABLE_SCHEMA_AND_CONTENT_AUDIT	10	10	40	40	0	1	True	True	False	False	False	False	U27B3E4 perform table-by-table schema, missingness, content and manuscript-consistency audit

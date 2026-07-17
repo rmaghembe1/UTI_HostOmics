@@ -1,0 +1,3 @@
+category	supplementary_table	audit_id	pass	observed	expected	severity	note
+table_specific	S3	single_cell_biological_unit	False	sample_mean	sample	BLOCKING	GSE252321 effects must use four biological samples, not cells.
+critical_column	S9	critical_nonmissing::Frozen Figure 1-8 asset manifest::figure_number	False	81/83	83/83	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.

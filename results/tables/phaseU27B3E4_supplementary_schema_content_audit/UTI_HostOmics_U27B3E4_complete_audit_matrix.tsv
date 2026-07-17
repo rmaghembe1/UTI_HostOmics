@@ -1,0 +1,267 @@
+category	supplementary_table	audit_id	pass	observed	expected	severity	note
+general	S1	file_exists_and_nonempty	True	exists=True; rows=157	existing nonempty TSV	BLOCKING	Every supplementary table must be present.
+general	S1	provenance_schema	True	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	BLOCKING	All rows must retain complete source provenance.
+general	S1	semantic_accession_cleanliness	True	authorized=0; unauthorized=0	zero unauthorized GSE168600 use	BLOCKING	The sole allowed GSE168600 string is the explicit S10 prohibition rule.
+general	S1	expected_source_roles_only	True		none	BLOCKING	No unplanned source blocks should appear in the controlled table.
+general	S2	file_exists_and_nonempty	True	exists=True; rows=78	existing nonempty TSV	BLOCKING	Every supplementary table must be present.
+general	S2	provenance_schema	True	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	BLOCKING	All rows must retain complete source provenance.
+general	S2	semantic_accession_cleanliness	True	authorized=0; unauthorized=0	zero unauthorized GSE168600 use	BLOCKING	The sole allowed GSE168600 string is the explicit S10 prohibition rule.
+general	S2	expected_source_roles_only	True		none	BLOCKING	No unplanned source blocks should appear in the controlled table.
+general	S3	file_exists_and_nonempty	True	exists=True; rows=1012	existing nonempty TSV	BLOCKING	Every supplementary table must be present.
+general	S3	provenance_schema	True	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	BLOCKING	All rows must retain complete source provenance.
+general	S3	semantic_accession_cleanliness	True	authorized=0; unauthorized=0	zero unauthorized GSE168600 use	BLOCKING	The sole allowed GSE168600 string is the explicit S10 prohibition rule.
+general	S3	expected_source_roles_only	True		none	BLOCKING	No unplanned source blocks should appear in the controlled table.
+general	S4	file_exists_and_nonempty	True	exists=True; rows=142	existing nonempty TSV	BLOCKING	Every supplementary table must be present.
+general	S4	provenance_schema	True	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	BLOCKING	All rows must retain complete source provenance.
+general	S4	semantic_accession_cleanliness	True	authorized=0; unauthorized=0	zero unauthorized GSE168600 use	BLOCKING	The sole allowed GSE168600 string is the explicit S10 prohibition rule.
+general	S4	expected_source_roles_only	True		none	BLOCKING	No unplanned source blocks should appear in the controlled table.
+general	S5	file_exists_and_nonempty	True	exists=True; rows=405	existing nonempty TSV	BLOCKING	Every supplementary table must be present.
+general	S5	provenance_schema	True	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	BLOCKING	All rows must retain complete source provenance.
+general	S5	semantic_accession_cleanliness	True	authorized=0; unauthorized=0	zero unauthorized GSE168600 use	BLOCKING	The sole allowed GSE168600 string is the explicit S10 prohibition rule.
+general	S5	expected_source_roles_only	True		none	BLOCKING	No unplanned source blocks should appear in the controlled table.
+general	S6	file_exists_and_nonempty	True	exists=True; rows=558	existing nonempty TSV	BLOCKING	Every supplementary table must be present.
+general	S6	provenance_schema	True	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	BLOCKING	All rows must retain complete source provenance.
+general	S6	semantic_accession_cleanliness	True	authorized=0; unauthorized=0	zero unauthorized GSE168600 use	BLOCKING	The sole allowed GSE168600 string is the explicit S10 prohibition rule.
+general	S6	expected_source_roles_only	True		none	BLOCKING	No unplanned source blocks should appear in the controlled table.
+general	S7	file_exists_and_nonempty	True	exists=True; rows=219	existing nonempty TSV	BLOCKING	Every supplementary table must be present.
+general	S7	provenance_schema	True	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	BLOCKING	All rows must retain complete source provenance.
+general	S7	semantic_accession_cleanliness	True	authorized=0; unauthorized=0	zero unauthorized GSE168600 use	BLOCKING	The sole allowed GSE168600 string is the explicit S10 prohibition rule.
+general	S7	expected_source_roles_only	True		none	BLOCKING	No unplanned source blocks should appear in the controlled table.
+general	S8	file_exists_and_nonempty	True	exists=True; rows=83	existing nonempty TSV	BLOCKING	Every supplementary table must be present.
+general	S8	provenance_schema	True	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	BLOCKING	All rows must retain complete source provenance.
+general	S8	semantic_accession_cleanliness	True	authorized=0; unauthorized=0	zero unauthorized GSE168600 use	BLOCKING	The sole allowed GSE168600 string is the explicit S10 prohibition rule.
+general	S8	expected_source_roles_only	True		none	BLOCKING	No unplanned source blocks should appear in the controlled table.
+general	S9	file_exists_and_nonempty	True	exists=True; rows=197	existing nonempty TSV	BLOCKING	Every supplementary table must be present.
+general	S9	provenance_schema	True	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	BLOCKING	All rows must retain complete source provenance.
+general	S9	semantic_accession_cleanliness	True	authorized=0; unauthorized=0	zero unauthorized GSE168600 use	BLOCKING	The sole allowed GSE168600 string is the explicit S10 prohibition rule.
+general	S9	expected_source_roles_only	True		none	BLOCKING	No unplanned source blocks should appear in the controlled table.
+general	S10	file_exists_and_nonempty	True	exists=True; rows=17	existing nonempty TSV	BLOCKING	Every supplementary table must be present.
+general	S10	provenance_schema	True	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	_supplementary_table; _table_title; _source_order; _source_role; _source_file; _source_relative_path; _source_sha256; _source_row_number	BLOCKING	All rows must retain complete source provenance.
+general	S10	semantic_accession_cleanliness	True	authorized=1; unauthorized=0	zero unauthorized GSE168600 use	BLOCKING	The sole allowed GSE168600 string is the explicit S10 prohibition rule.
+general	S10	expected_source_roles_only	True		none	BLOCKING	No unplanned source blocks should appear in the controlled table.
+table_specific	S1	design_total_rows	True	157	157	BLOCKING	Four frozen designs must contribute 4+73+20+60 rows.
+table_specific	S1	sample_ids_unique_within_source	True	0	0	BLOCKING	Sample identifiers must be unique inside each dataset design.
+table_specific	S1	dam_identifier_boundary	True	0	0	BLOCKING	No dam-level identifier is available; tissue samples remain inferential units.
+table_specific	S2	unique_submodules	True	78	78	BLOCKING	The frozen library contains 78 unique submodules.
+table_specific	S2	unique_axes	True	10	10	BLOCKING	The frozen library contains ten biological axes.
+table_specific	S2	declared_gene_counts_match	True	0	0	BLOCKING	Each n_genes value should match the parsed gene list.
+table_specific	S2	duplicate_gene_tokens_within_module	True	0	0	WARNING	Duplicate tokens inside a module should be reviewed.
+table_specific	S3	four_dataset_effect_sources	True	GSE112098 adjusted human comparator module effects; GSE186800 block and interaction module effects; GSE252321 sample-level UPEC-versus-control module effects; GSE280297 factorial and tissue-specific module effects	GSE112098 adjusted human comparator module effects; GSE186800 block and interaction module effects; GSE252321 sample-level UPEC-versus-control module effects; GSE280297 factorial and tissue-specific module effects	BLOCKING	All four independently analyzed datasets must be represented.
+table_specific	S3	single_cell_biological_unit	False	sample_mean	sample	BLOCKING	GSE252321 effects must use four biological samples, not cells.
+table_specific	S3	single_cell_group_sizes	True	n_group_a=[np.int64(2)]; n_group_b=[np.int64(2)]	2 versus 2	BLOCKING	The sample-level contrast contains two controls and two UPEC samples.
+table_specific	S4	recurrence_feature_rows	True	78	78	BLOCKING	One recurrence record is expected per submodule.
+table_specific	S4	independent_dataset_count_range	True	min=1; max=4	1-4	BLOCKING	Recurrence counts must refer to independently analyzed datasets.
+table_specific	S5	pregnancy_tissues	True	bladder; placenta; uterus	bladder; placenta; uterus	BLOCKING	Pregnancy effects must retain all three tissues.
+table_specific	S5	pregnancy_contrast_columns	True	7	7	BLOCKING	The frozen matrix has three C1 tissues, three C2 tissues and one C3 bladder contrast.
+table_specific	S6	single_cell_raw_cell_total	True	28313	28313	BLOCKING	The four flat matrices contain 28,313 cells.
+table_specific	S6	single_cell_qc_pass_total	True	27385	27385	BLOCKING	A total of 27,385 cells passed QC.
+table_specific	S6	cluster_count	True	18	18	BLOCKING	Marker reconstruction resolved 18 clusters.
+table_specific	S6	cluster_rank_uniqueness	True	0	0	BLOCKING	Cluster-marker ranks must be unique inside each cluster.
+table_specific	S6	broad_cell_type_fraction_sum_by_sample	True	4.440892098500626e-16	<=0.001	BLOCKING	Composition fractions should sum to one within each sample.
+table_specific	S6	refined_cell_subtype_fraction_sum_by_sample	True	9.992007221626409e-16	<=0.001	BLOCKING	Composition fractions should sum to one within each sample.
+table_specific	S7	broad-cell_localization_summary_feature_count	True	rows=73; unique_features=73	73 rows and 73 unique features	BLOCKING	Each localization summary should contain one row per score-eligible module.
+table_specific	S7	core-module_cellular_localization_feature_count	True	rows=73; unique_features=73	73 rows and 73 unique features	BLOCKING	Each localization summary should contain one row per score-eligible module.
+table_specific	S7	refined-subtype_localization_summary_feature_count	True	rows=73; unique_features=73	73 rows and 73 unique features	BLOCKING	Each localization summary should contain one row per score-eligible module.
+table_specific	S8	core_attribution_rows	True	rows=10; features=10	10	BLOCKING	Ten predefined core modules require cellular attribution.
+table_specific	S8	module_synthesis_rows	True	rows=73; features=73	73	BLOCKING	All 73 score-eligible modules require cellular synthesis.
+table_specific	S9	frozen_asset_checksums	True	true	true	BLOCKING	Frozen package assets must match their source checksums.
+table_specific	S9	panel_registry_counts	True	titles=57; legends=57	57 and 57	BLOCKING	All 57 panels require title and definitive-legend provenance.
+table_specific	S9	figures_1_to_8_present	True	1; 2; 3; 4; 5; 6; 7; 8	1; 2; 3; 4; 5; 6; 7; 8	BLOCKING	The provenance registry must cover all eight main figures.
+table_specific	S10	prohibited_skin_accession_rule	True	1	1	BLOCKING	Exactly one semantic prohibition rule should document GSE168600.
+table_specific	S10	correct_recurrent_accession_rule	True	1	1	BLOCKING	Exactly one canonical/required rule should document GSE186800.
+source_block	S1	source_row_count::GSE252321 four-sample biological design	True	4	4	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S1	source_row_count::GSE112098 validated 73-sample design	True	73	73	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S1	source_row_count::GSE186800 validated 20-sample recurrent-UTI design	True	20	20	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S1	source_row_count::GSE280297 validated 60-tissue-sample design	True	60	60	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S2	source_row_count::Frozen 78-submodule library	True	78	78	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S3	source_row_count::GSE112098 adjusted human comparator module effects	True	20	20	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S3	source_row_count::GSE280297 factorial and tissue-specific module effects	True	810	810	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S3	source_row_count::GSE186800 block and interaction module effects	True	162	162	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S3	source_row_count::GSE252321 sample-level UPEC-versus-control module effects	True	20	20	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S4	source_row_count::Evidence-class summary	True	4	4	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S4	source_row_count::Independent-dataset recurrence ranking	True	78	78	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S4	source_row_count::Evidence-weighted synthesis panel support	True	60	60	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S5	source_row_count::Tissue-resolved preterm-versus-term effects	True	243	243	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S5	source_row_count::Collapsed pregnancy-outcome effects	True	81	81	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S5	source_row_count::Full three-contrast tissue effect matrix	True	81	81	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S6	source_row_count::Flat-matrix and per-sample single-cell QC	True	4	4	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S6	source_row_count::Cluster top-marker table	True	450	450	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S6	source_row_count::Broad-cell sample composition	True	32	32	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S6	source_row_count::Refined-subtype sample composition	True	72	72	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S7	source_row_count::Broad-cell localization summary	True	73	73	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S7	source_row_count::Core-module cellular localization	True	73	73	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S7	source_row_count::Refined-subtype localization summary	True	73	73	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S8	source_row_count::Core complement and endocrine-metabolic cellular attribution	True	10	10	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S8	source_row_count::Module-level cellular synthesis across immune populations	True	73	73	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S9	source_row_count::Frozen Figure 1-8 asset manifest	True	83	83	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S9	source_row_count::Figure and panel title registry	True	57	57	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S9	source_row_count::Accession-corrected panel legend provenance registry	True	57	57	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S10	source_row_count::Accession-corrected caveat terminology registry	True	8	8	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S10	source_row_count::Cellular-localization claim-boundary matrix	True	6	6	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S10	source_row_count::Future accession validation rules	True	2	2	BLOCKING	The row-preserving union must match the locked source row count.
+source_block	S10	source_row_count::Accession correction and preservation traceability	True	1	1	BLOCKING	The row-preserving union must match the locked source row count.
+critical_column	S1	critical_nonmissing::GSE252321 four-sample biological design::sample_id	True	4/4	4/4	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S1	critical_nonmissing::GSE252321 four-sample biological design::condition	True	4/4	4/4	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S1	critical_nonmissing::GSE252321 four-sample biological design::analysis_unit	True	4/4	4/4	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S1	critical_nonmissing::GSE112098 validated 73-sample design::sample_id	True	73/73	73/73	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S1	critical_nonmissing::GSE112098 validated 73-sample design::sample_geo_accession	True	73/73	73/73	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S1	critical_nonmissing::GSE112098 validated 73-sample design::organism_ch1	True	73/73	73/73	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S1	critical_nonmissing::GSE186800 validated 20-sample recurrent-UTI design::sample_id	True	20/20	20/20	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S1	critical_nonmissing::GSE186800 validated 20-sample recurrent-UTI design::dataset_id	True	20/20	20/20	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S1	critical_nonmissing::GSE186800 validated 20-sample recurrent-UTI design::inferred_group	True	20/20	20/20	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S1	critical_nonmissing::GSE186800 validated 20-sample recurrent-UTI design::inferred_block	True	20/20	20/20	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S1	critical_nonmissing::GSE280297 validated 60-tissue-sample design::sample_id	True	60/60	60/60	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S1	critical_nonmissing::GSE280297 validated 60-tissue-sample design::tissue	True	60/60	60/60	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S1	critical_nonmissing::GSE280297 validated 60-tissue-sample design::treatment	True	60/60	60/60	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S1	critical_nonmissing::GSE280297 validated 60-tissue-sample design::outcome	True	60/60	60/60	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S1	critical_nonmissing::GSE280297 validated 60-tissue-sample design::pregnancy_status	True	60/60	60/60	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S2	critical_nonmissing::Frozen 78-submodule library::axis	True	78/78	78/78	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S2	critical_nonmissing::Frozen 78-submodule library::submodule_id	True	78/78	78/78	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S2	critical_nonmissing::Frozen 78-submodule library::display_label	True	78/78	78/78	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S2	critical_nonmissing::Frozen 78-submodule library::n_genes	True	78/78	78/78	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S2	critical_nonmissing::Frozen 78-submodule library::genes	True	78/78	78/78	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S3	critical_nonmissing::GSE112098 adjusted human comparator module effects::dataset_id	True	20/20	20/20	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S3	critical_nonmissing::GSE112098 adjusted human comparator module effects::contrast_name	True	20/20	20/20	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S3	critical_nonmissing::GSE112098 adjusted human comparator module effects::module_name	True	20/20	20/20	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S3	critical_nonmissing::GSE112098 adjusted human comparator module effects::direction	True	20/20	20/20	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S3	critical_nonmissing::GSE280297 factorial and tissue-specific module effects::contrast_id	True	810/810	810/810	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S3	critical_nonmissing::GSE280297 factorial and tissue-specific module effects::tissue	True	810/810	810/810	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S3	critical_nonmissing::GSE280297 factorial and tissue-specific module effects::feature_id	True	810/810	810/810	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S3	critical_nonmissing::GSE280297 factorial and tissue-specific module effects::direction	True	810/810	810/810	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S3	critical_nonmissing::GSE186800 block and interaction module effects::dataset	True	162/162	162/162	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S3	critical_nonmissing::GSE186800 block and interaction module effects::contrast_id	True	162/162	162/162	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S3	critical_nonmissing::GSE186800 block and interaction module effects::feature_id	True	162/162	162/162	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S3	critical_nonmissing::GSE186800 block and interaction module effects::effect_value	True	162/162	162/162	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S3	critical_nonmissing::GSE186800 block and interaction module effects::direction	True	162/162	162/162	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S3	critical_nonmissing::GSE252321 sample-level UPEC-versus-control module effects::dataset_id	True	20/20	20/20	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S3	critical_nonmissing::GSE252321 sample-level UPEC-versus-control module effects::contrast_name	True	20/20	20/20	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S3	critical_nonmissing::GSE252321 sample-level UPEC-versus-control module effects::module_name	True	20/20	20/20	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S3	critical_nonmissing::GSE252321 sample-level UPEC-versus-control module effects::unit	True	20/20	20/20	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S3	critical_nonmissing::GSE252321 sample-level UPEC-versus-control module effects::direction	True	20/20	20/20	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S4	critical_nonmissing::Independent-dataset recurrence ranking::feature_id	True	78/78	78/78	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S4	critical_nonmissing::Independent-dataset recurrence ranking::n_independent_datasets	True	78/78	78/78	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S4	critical_nonmissing::Independent-dataset recurrence ranking::weighted_directional_coherence	True	78/78	78/78	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S4	critical_nonmissing::Independent-dataset recurrence ranking::validation_class	True	78/78	78/78	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S5	critical_nonmissing::Tissue-resolved preterm-versus-term effects::dataset	True	243/243	243/243	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S5	critical_nonmissing::Tissue-resolved preterm-versus-term effects::tissue	True	243/243	243/243	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S5	critical_nonmissing::Tissue-resolved preterm-versus-term effects::feature_id	True	243/243	243/243	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S5	critical_nonmissing::Tissue-resolved preterm-versus-term effects::effect_value	True	243/243	243/243	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S5	critical_nonmissing::Tissue-resolved preterm-versus-term effects::direction	True	243/243	243/243	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S5	critical_nonmissing::Collapsed pregnancy-outcome effects::dataset	True	81/81	81/81	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S5	critical_nonmissing::Collapsed pregnancy-outcome effects::feature_id	True	81/81	81/81	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S5	critical_nonmissing::Collapsed pregnancy-outcome effects::effect_value	True	81/81	81/81	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S5	critical_nonmissing::Collapsed pregnancy-outcome effects::direction	True	81/81	81/81	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S5	critical_nonmissing::Full three-contrast tissue effect matrix::feature_id	True	81/81	81/81	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S5	critical_nonmissing::Full three-contrast tissue effect matrix::C1_PRETERM_VS_TERM | bladder	True	81/81	81/81	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S5	critical_nonmissing::Full three-contrast tissue effect matrix::C2_UPEC_VS_PBS_PREGNANCY | bladder	True	81/81	81/81	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S5	critical_nonmissing::Full three-contrast tissue effect matrix::C3_INFECTED_PREGNANT_VS_NONPREGNANT | bladder	True	81/81	81/81	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S6	critical_nonmissing::Flat-matrix and per-sample single-cell QC::sample_id	True	4/4	4/4	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S6	critical_nonmissing::Flat-matrix and per-sample single-cell QC::condition	True	4/4	4/4	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S6	critical_nonmissing::Flat-matrix and per-sample single-cell QC::n_cells	True	4/4	4/4	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S6	critical_nonmissing::Flat-matrix and per-sample single-cell QC::adaptive_qc_pass_cells	True	4/4	4/4	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S6	critical_nonmissing::Cluster top-marker table::cluster	True	450/450	450/450	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S6	critical_nonmissing::Cluster top-marker table::rank	True	450/450	450/450	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S6	critical_nonmissing::Cluster top-marker table::gene_symbol	True	450/450	450/450	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S6	critical_nonmissing::Broad-cell sample composition::sample_id	True	32/32	32/32	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S6	critical_nonmissing::Broad-cell sample composition::condition	True	32/32	32/32	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S6	critical_nonmissing::Broad-cell sample composition::broad_cell_type	True	32/32	32/32	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S6	critical_nonmissing::Broad-cell sample composition::n_cells	True	32/32	32/32	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S6	critical_nonmissing::Broad-cell sample composition::fraction_of_QC_cells	True	32/32	32/32	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S6	critical_nonmissing::Refined-subtype sample composition::sample_id	True	72/72	72/72	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S6	critical_nonmissing::Refined-subtype sample composition::condition	True	72/72	72/72	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S6	critical_nonmissing::Refined-subtype sample composition::refined_cell_subtype	True	72/72	72/72	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S6	critical_nonmissing::Refined-subtype sample composition::n_cells	True	72/72	72/72	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S6	critical_nonmissing::Refined-subtype sample composition::fraction_of_QC_cells	True	72/72	72/72	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S7	critical_nonmissing::Broad-cell localization summary::feature_id	True	73/73	73/73	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S7	critical_nonmissing::Broad-cell localization summary::n_complete_populations	True	73/73	73/73	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S7	critical_nonmissing::Broad-cell localization summary::directional_coherence_fraction	True	73/73	73/73	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S7	critical_nonmissing::Core-module cellular localization::feature_id	True	73/73	73/73	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S7	critical_nonmissing::Core-module cellular localization::n_complete_populations	True	73/73	73/73	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S7	critical_nonmissing::Core-module cellular localization::directional_coherence_fraction	True	73/73	73/73	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S7	critical_nonmissing::Refined-subtype localization summary::feature_id	True	73/73	73/73	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S7	critical_nonmissing::Refined-subtype localization summary::n_complete_populations	True	73/73	73/73	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S7	critical_nonmissing::Refined-subtype localization summary::directional_coherence_fraction	True	73/73	73/73	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S8	critical_nonmissing::Core complement and endocrine-metabolic cellular attribution::feature_id	True	10/10	10/10	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S8	critical_nonmissing::Core complement and endocrine-metabolic cellular attribution::top_population_by_composite_score	True	10/10	10/10	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S8	critical_nonmissing::Core complement and endocrine-metabolic cellular attribution::cellular_localization_class	True	10/10	10/10	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S8	critical_nonmissing::Module-level cellular synthesis across immune populations::feature_id	True	73/73	73/73	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S8	critical_nonmissing::Module-level cellular synthesis across immune populations::top_population_by_composite_score	True	73/73	73/73	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S8	critical_nonmissing::Module-level cellular synthesis across immune populations::cellular_localization_class	True	73/73	73/73	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S9	critical_nonmissing::Frozen Figure 1-8 asset manifest::package_path	True	83/83	83/83	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S9	critical_nonmissing::Frozen Figure 1-8 asset manifest::checksum_match	True	83/83	83/83	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S9	critical_nonmissing::Frozen Figure 1-8 asset manifest::asset_type	True	83/83	83/83	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S9	critical_nonmissing::Frozen Figure 1-8 asset manifest::figure_number	False	81/83	83/83	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S9	critical_nonmissing::Figure and panel title registry::figure_number	True	57/57	57/57	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S9	critical_nonmissing::Figure and panel title registry::panel	True	57/57	57/57	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S9	critical_nonmissing::Figure and panel title registry::panel_title	True	57/57	57/57	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S9	critical_nonmissing::Accession-corrected panel legend provenance registry::figure_number	True	57/57	57/57	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S9	critical_nonmissing::Accession-corrected panel legend provenance registry::panel	True	57/57	57/57	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S9	critical_nonmissing::Accession-corrected panel legend provenance registry::definitive_panel_legend	True	57/57	57/57	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S10	critical_nonmissing::Accession-corrected caveat terminology registry::caveat_id	True	8/8	8/8	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S10	critical_nonmissing::Accession-corrected caveat terminology registry::required_statement	True	8/8	8/8	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S10	critical_nonmissing::Cellular-localization claim-boundary matrix::finding_type	True	6/6	6/6	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S10	critical_nonmissing::Cellular-localization claim-boundary matrix::allowed_wording	True	6/6	6/6	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S10	critical_nonmissing::Cellular-localization claim-boundary matrix::avoid_wording	True	6/6	6/6	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S10	critical_nonmissing::Future accession validation rules::rule_id	True	2/2	2/2	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S10	critical_nonmissing::Future accession validation rules::term	True	2/2	2/2	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S10	critical_nonmissing::Future accession validation rules::rule	True	2/2	2/2	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S10	critical_nonmissing::Future accession validation rules::scientific_identity	True	2/2	2/2	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S10	critical_nonmissing::Accession correction and preservation traceability::source_unchanged	True	1/1	1/1	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S10	critical_nonmissing::Accession correction and preservation traceability::results_wrong_accession_absent	True	1/1	1/1	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+critical_column	S10	critical_nonmissing::Accession correction and preservation traceability::embedded_images_match_frozen_png_masters	True	1/1	1/1	BLOCKING	Critical identifiers and analysis fields must be complete inside their native source block.
+numeric_domain	S1	numeric_domain::n_cell_columns	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S1	numeric_domain::channel_count	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S1	numeric_domain::data_row_count	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S2	numeric_domain::n_genes	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S3	numeric_domain::p_value	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S3	numeric_domain::fdr_bh	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S3	numeric_domain::auc_group_a_higher	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S3	numeric_domain::q_value_within_contrast	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S3	numeric_domain::q_value	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S3	numeric_domain::n_group_a	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S3	numeric_domain::n_group_b	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S4	numeric_domain::weighted_directional_coherence	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S4	numeric_domain::n_modules	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S4	numeric_domain::n_independent_datasets	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S4	numeric_domain::n_positive_datasets	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S4	numeric_domain::n_negative_datasets	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S4	numeric_domain::n_FDR10_datasets	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S4	numeric_domain::n_moderate_effect_datasets	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S4	numeric_domain::n_large_effect_datasets	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S5	numeric_domain::q_value	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S5	numeric_domain::best_tissue_q_value	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S5	numeric_domain::n_tissues	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S5	numeric_domain::n_positive_tissues	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S5	numeric_domain::n_negative_tissues	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S6	numeric_domain::adaptive_qc_pass_fraction	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S6	numeric_domain::n_genes	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S6	numeric_domain::n_cells	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S6	numeric_domain::n_nonzero_values	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S6	numeric_domain::adaptive_qc_pass_cells	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S6	numeric_domain::rank	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S7	numeric_domain::directional_coherence_fraction	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S7	numeric_domain::median_gene_direction_coherence	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S7	numeric_domain::n_complete_populations	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S7	numeric_domain::n_positive_populations	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S7	numeric_domain::n_negative_populations	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S7	numeric_domain::n_populations_abs_g_ge_0_5	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S7	numeric_domain::n_populations_abs_g_ge_0_8	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S8	numeric_domain::directional_coherence_fraction	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S8	numeric_domain::median_gene_direction_coherence	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S8	numeric_domain::n_populations	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S8	numeric_domain::n_positive_populations	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S8	numeric_domain::n_negative_populations	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S8	numeric_domain::n_high_or_moderate_populations	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+numeric_domain	S9	numeric_domain::figure_number	True	nonnumeric=0; outside_or_negative=0	0; 0	BLOCKING	Probability/coherence fields must lie in [0,1], and count fields must be nonnegative.
+manuscript_consistency	S1	supplementary_index_title_consistency	True	number_present=True; anchor_hits=5	table number present and >= 2 title-anchor hits	BLOCKING	The accession-corrected manuscript must index the same supplementary architecture.
+manuscript_consistency	S2	supplementary_index_title_consistency	True	number_present=True; anchor_hits=4	table number present and >= 2 title-anchor hits	BLOCKING	The accession-corrected manuscript must index the same supplementary architecture.
+manuscript_consistency	S3	supplementary_index_title_consistency	True	number_present=True; anchor_hits=5	table number present and >= 2 title-anchor hits	BLOCKING	The accession-corrected manuscript must index the same supplementary architecture.
+manuscript_consistency	S4	supplementary_index_title_consistency	True	number_present=True; anchor_hits=5	table number present and >= 2 title-anchor hits	BLOCKING	The accession-corrected manuscript must index the same supplementary architecture.
+manuscript_consistency	S5	supplementary_index_title_consistency	True	number_present=True; anchor_hits=4	table number present and >= 2 title-anchor hits	BLOCKING	The accession-corrected manuscript must index the same supplementary architecture.
+manuscript_consistency	S6	supplementary_index_title_consistency	True	number_present=True; anchor_hits=5	table number present and >= 2 title-anchor hits	BLOCKING	The accession-corrected manuscript must index the same supplementary architecture.
+manuscript_consistency	S7	supplementary_index_title_consistency	True	number_present=True; anchor_hits=4	table number present and >= 2 title-anchor hits	BLOCKING	The accession-corrected manuscript must index the same supplementary architecture.
+manuscript_consistency	S8	supplementary_index_title_consistency	True	number_present=True; anchor_hits=4	table number present and >= 2 title-anchor hits	BLOCKING	The accession-corrected manuscript must index the same supplementary architecture.
+manuscript_consistency	S9	supplementary_index_title_consistency	True	number_present=True; anchor_hits=5	table number present and >= 2 title-anchor hits	BLOCKING	The accession-corrected manuscript must index the same supplementary architecture.
+manuscript_consistency	S10	supplementary_index_title_consistency	True	number_present=True; anchor_hits=5	table number present and >= 2 title-anchor hits	BLOCKING	The accession-corrected manuscript must index the same supplementary architecture.
+manuscript_consistency	ACCESSION	supplementary_index_title_consistency	True	number_present=True; anchor_hits=1	table number present and >= 1 title-anchor hits	BLOCKING	The accession-corrected manuscript must index the same supplementary architecture.
+archive_integrity	PACKAGE	zip_member_and_hash_integrity	True	test=True; tables=10; hash_matches=10	test=True; tables=10; hash_matches=10	BLOCKING	The controlled ZIP must contain byte-identical copies of all ten tables.

@@ -1,0 +1,81 @@
+section	dataset	frozen_role	present
+Front matter	GSE112098	human urinary/systemic inflammatory comparator	False
+Front matter	GSE280297	mouse pregnancy-associated UTI model	False
+Front matter	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Front matter	GSE252321	single-cell UPEC experiment	False
+Abstract	GSE112098	human urinary/systemic inflammatory comparator	False
+Abstract	GSE280297	mouse pregnancy-associated UTI model	False
+Abstract	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Abstract	GSE252321	single-cell UPEC experiment	True
+Introduction	GSE112098	human urinary/systemic inflammatory comparator	False
+Introduction	GSE280297	mouse pregnancy-associated UTI model	True
+Introduction	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Introduction	GSE252321	single-cell UPEC experiment	False
+Methods	GSE112098	human urinary/systemic inflammatory comparator	True
+Methods	GSE280297	mouse pregnancy-associated UTI model	True
+Methods	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Methods	GSE252321	single-cell UPEC experiment	True
+Results	GSE112098	human urinary/systemic inflammatory comparator	True
+Results	GSE280297	mouse pregnancy-associated UTI model	True
+Results	GSE168600	mouse recurrent or prior-exposure bladder model	True
+Results	GSE252321	single-cell UPEC experiment	True
+Discussion	GSE112098	human urinary/systemic inflammatory comparator	False
+Discussion	GSE280297	mouse pregnancy-associated UTI model	True
+Discussion	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Discussion	GSE252321	single-cell UPEC experiment	False
+Limitations	GSE112098	human urinary/systemic inflammatory comparator	False
+Limitations	GSE280297	mouse pregnancy-associated UTI model	False
+Limitations	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Limitations	GSE252321	single-cell UPEC experiment	True
+Future directions	GSE112098	human urinary/systemic inflammatory comparator	False
+Future directions	GSE280297	mouse pregnancy-associated UTI model	False
+Future directions	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Future directions	GSE252321	single-cell UPEC experiment	False
+Concluding model	GSE112098	human urinary/systemic inflammatory comparator	False
+Concluding model	GSE280297	mouse pregnancy-associated UTI model	False
+Concluding model	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Concluding model	GSE252321	single-cell UPEC experiment	False
+Data availability	GSE112098	human urinary/systemic inflammatory comparator	True
+Data availability	GSE280297	mouse pregnancy-associated UTI model	True
+Data availability	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Data availability	GSE252321	single-cell UPEC experiment	True
+Code availability	GSE112098	human urinary/systemic inflammatory comparator	False
+Code availability	GSE280297	mouse pregnancy-associated UTI model	False
+Code availability	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Code availability	GSE252321	single-cell UPEC experiment	False
+Ethics statement	GSE112098	human urinary/systemic inflammatory comparator	False
+Ethics statement	GSE280297	mouse pregnancy-associated UTI model	False
+Ethics statement	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Ethics statement	GSE252321	single-cell UPEC experiment	False
+Author contributions	GSE112098	human urinary/systemic inflammatory comparator	False
+Author contributions	GSE280297	mouse pregnancy-associated UTI model	False
+Author contributions	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Author contributions	GSE252321	single-cell UPEC experiment	False
+Competing interests	GSE112098	human urinary/systemic inflammatory comparator	False
+Competing interests	GSE280297	mouse pregnancy-associated UTI model	False
+Competing interests	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Competing interests	GSE252321	single-cell UPEC experiment	False
+Funding	GSE112098	human urinary/systemic inflammatory comparator	False
+Funding	GSE280297	mouse pregnancy-associated UTI model	False
+Funding	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Funding	GSE252321	single-cell UPEC experiment	False
+Acknowledgements	GSE112098	human urinary/systemic inflammatory comparator	False
+Acknowledgements	GSE280297	mouse pregnancy-associated UTI model	False
+Acknowledgements	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Acknowledgements	GSE252321	single-cell UPEC experiment	False
+Supplementary tables	GSE112098	human urinary/systemic inflammatory comparator	True
+Supplementary tables	GSE280297	mouse pregnancy-associated UTI model	False
+Supplementary tables	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Supplementary tables	GSE252321	single-cell UPEC experiment	True
+Reference gap register	GSE112098	human urinary/systemic inflammatory comparator	False
+Reference gap register	GSE280297	mouse pregnancy-associated UTI model	True
+Reference gap register	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Reference gap register	GSE252321	single-cell UPEC experiment	False
+Figures	GSE112098	human urinary/systemic inflammatory comparator	False
+Figures	GSE280297	mouse pregnancy-associated UTI model	True
+Figures	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Figures	GSE252321	single-cell UPEC experiment	True
+Reference table	GSE112098	human urinary/systemic inflammatory comparator	False
+Reference table	GSE280297	mouse pregnancy-associated UTI model	True
+Reference table	GSE168600	mouse recurrent or prior-exposure bladder model	False
+Reference table	GSE252321	single-cell UPEC experiment	False

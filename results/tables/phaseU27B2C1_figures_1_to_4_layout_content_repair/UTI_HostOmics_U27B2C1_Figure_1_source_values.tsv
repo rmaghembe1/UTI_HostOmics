@@ -1,0 +1,26 @@
+figure	panel	source_role	source_note	dataset	species	role	biological_samples	detail	inferred_group	bladder	placenta	uterus	axis	n_submodules	evidence_class	n_modules
+Figure_1	B	combined_dataset_manifest		GSE252321	Mus musculus	single-cell bladder UPEC	4.0	10,000 QC-passing cells								
+Figure_1	B	combined_dataset_manifest		GSE186800	Mus musculus	recurrent_or_prior_exposure_bladder_model	20.0									
+Figure_1	B	combined_dataset_manifest		GSE280297	Mus musculus	pregnancy, tissue and outcome	60.0	bladder, uterus and placenta								
+Figure_1	B	combined_dataset_manifest		GSE112098	Homo sapiens	human_urinary_systemic_inflammation_comparator	73.0									
+Figure_1	C	gse280297_design							Mock/PBS	3.0	6.0	3.0				
+Figure_1	C	gse280297_design							UPEC nonpregnant	4.0	0.0	0.0				
+Figure_1	C	gse280297_design							UPEC preterm	6.0	12.0	6.0				
+Figure_1	C	gse280297_design							UPEC term	5.0	10.0	5.0				
+Figure_1	D	module_library											catecholamine_stress_adjacent	3.0		
+Figure_1	D	module_library											insulin_irs_signaling	4.0		
+Figure_1	D	module_library											adipokine_signaling	5.0		
+Figure_1	D	module_library											immune_context_anchors	6.0		
+Figure_1	D	module_library											lipid_metabolism	8.0		
+Figure_1	D	module_library											amino_acid_metabolism	8.0		
+Figure_1	D	module_library											complement_architecture	9.0		
+Figure_1	D	module_library											nucleotide_nad_nitrogen	9.0		
+Figure_1	D	module_library											carbohydrate_inflammatory_carbon	11.0		
+Figure_1	D	module_library											steroid_cholesterol_endocrine	15.0		
+Figure_1	F	refined_core													"One Fdr Dataset
+Plus Independent
+Concordant
+Effect"	5.0
+Figure_1	F	refined_core													"Two Dataset
+Concordant
+Effect"	5.0

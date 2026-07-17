@@ -1,0 +1,3 @@
+dataset	species	modality	expected_samples	observed_samples	canonical_genes	annotation_match_fraction	expression_scale_class	ready_for_scoring	critical_note
+GSE186800	Mus musculus	bulk_RNAseq	20					False	ValueError('cannot insert gene_symbol, already exists')
+GSE112098	Homo sapiens	urinary_expression_array	73					False	ValueError('cannot insert gene_symbol, already exists')

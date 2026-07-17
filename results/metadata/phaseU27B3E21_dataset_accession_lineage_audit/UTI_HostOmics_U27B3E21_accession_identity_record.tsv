@@ -1,0 +1,6 @@
+field	value
+correct_accession	GSE186800
+correct_official_identity	Gardnerella vaginalis activates host responses necessary for Escherichia coli recurrent UTI from bladder reservoirs
+incorrect_accession	GSE168600
+incorrect_official_identity	KLF5 governs sphingolipid metabolism and barrier function of the skin
+audit_scope	read_only_project_wide_accession_lineage

@@ -1,0 +1,13 @@
+field	required_value	present_exactly	occurrences
+corresponding_author_name	Reuben S. Maghembe	True	3
+funding_statement	No specific funding was received for this study.	True	1
+competing_interests_statement	The authors declare no competing interests.	True	1
+author_contributions_CRediT	Reuben S. Maghembe: Conceptualization; Data curation; Formal analysis; Investigation; Methodology; Software; Validation; Visualization; Writing - original draft. Samweli Bahati: Data curation; Methodology; Writing - review and editing. Abdalah Makaranga: Conceptualization; Methodology; Writing - review and editing. Maximilian A.K. Magulye: Conceptualization; Writing - review and editing. Benson R. Kidenya: Writing - review and editing.	True	1
+acknowledgements	The authors acknowledge the investigators who generated and deposited the publicly available datasets used in this study.	True	1
+code_availability_statement	Analysis scripts and derived non-restricted outputs will be deposited in a public GitHub repository after completion of the full manuscript and before submission. The final repository URL will be added to the manuscript.	True	1
+data_availability_statement	All datasets analyzed in this study are publicly available from the NCBI Gene Expression Omnibus under accession numbers GSE112098, GSE186800, GSE252321 and GSE280297. No new primary datasets were generated.	True	1
+author::Reuben S. Maghembe	Reuben S. Maghembe	True	3
+author::Samweli Bahati	Samweli Bahati	True	2
+author::Abdalah Makaranga	Abdalah Makaranga	True	2
+author::Maximilian A.K. Magulye	Maximilian A.K. Magulye	True	2
+author::Benson R. Kidenya	Benson R. Kidenya	True	2

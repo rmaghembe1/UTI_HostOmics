@@ -1,0 +1,10 @@
+figure	title	n_panels	architecture_status
+Figure_S1	Dataset acquisition and preprocessing	6	frozen
+Figure_S2	Module-library construction and coverage	6	frozen
+Figure_S3	GSE280297 technical and statistical diagnostics	8	frozen
+Figure_S4	Cross-dataset comparator and sensitivity analyses	8	frozen
+Figure_S5	Single-cell QC and annotation diagnostics	8	frozen
+Figure_S6	Complete cell-type and subtype pseudobulk landscape	8	frozen
+Figure_S7	Full amino-acid, nucleotide, nitrogen and redox atlas	4	frozen
+Figure_S8	Extended endocrine/lipid and complement branches	6	frozen
+Figure_S9	Robustness, evidence hierarchy and claim-boundary audit	6	frozen

@@ -1,0 +1,11 @@
+supplementary_table	candidate_rank	candidate_score	matched_keywords	candidate_path	file_type	size_bytes	modified_time
+Table S1	1	16	dataset; sample; design; metadata	project://03_metadata/phaseU26B2A1_cross_dataset_input_repair/GSE252321_U26B2A1_sample_level_pseudobulk_design.tsv	tsv	876	2026-07-14T21:10:44
+Table S10	1	10	boundary; claim	project://03_metadata/phaseU26D2C_cellular_localization_synthesis/UTI_HostOmics_U26D2C_claim_boundary_matrix.tsv	tsv	1098	2026-07-14T23:04:11
+Table S2	1	15	submodule; library; expanded	project://03_metadata/phaseU26A_expanded_endocrine_metabolic_immune_feasibility/UTI_HostOmics_U26A_expanded_submodule_library.tsv	tsv	17925	2026-07-14T19:54:48
+Table S3	1	10	module; contrast	project://07_tables/phaseU8b_single_cell_module_scoring/phaseU8b_GSE252321_cell_level_UPEC_vs_Control_module_contrast_v1.tsv	tsv	4513	2026-07-06T13:51:51
+Table S4	1	8	evidence; class	project://06_tables/phaseU26B2B1_independent_dataset_evidence_collapse/UTI_HostOmics_U26B2B1_validation_class_summary.tsv	tsv	183	2026-07-14T21:37:15
+Table S5	1	20	gse280297; tissue; preterm; term	project://06_tables/phaseU26B2B1_independent_dataset_evidence_collapse/UTI_HostOmics_U26B2B1_GSE280297_preterm_term_tissue_effects.tsv	tsv	49813	2026-07-14T21:37:11
+Table S6	1	13	gse252321; refined; subtype	project://06_tables/phaseU26D2B_GSE252321_refined_celltype_pseudobulk/UTI_HostOmics_U26D2B_refined_subtype_module_results.tsv	tsv	383828	2026-07-14T22:52:53
+Table S7	1	21	broad; refined; pseudobulk; localization; cellular	project://06_tables/phaseU26D2B_GSE252321_refined_celltype_pseudobulk/UTI_HostOmics_U26D2B_broad_cellular_localization.tsv	tsv	19587	2026-07-14T22:52:53
+Table S8	1	10	attribution; cellular	project://06_tables/phaseU26D2C_cellular_localization_synthesis/UTI_HostOmics_U26D2C_core_module_cellular_attribution.tsv	tsv	5977	2026-07-14T23:04:11
+Table S9	1	18	figure; source; value; manifest	project://06_tables/phaseU27B3A_complete_eight_figure_package_assembly/UTI_HostOmics_U27B3A_source_value_table_manifest.tsv	tsv	3829	2026-07-16T10:47:17

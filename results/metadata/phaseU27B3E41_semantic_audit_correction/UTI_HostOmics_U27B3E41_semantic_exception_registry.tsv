@@ -1,0 +1,3 @@
+audit_id	original_observed	corrected_interpretation	authorization_basis	pass
+S3_single_cell_biological_unit	sample_mean	sample-level aggregated biological unit	locked sample-level source; 20 module rows; n=2 versus n=2 biological samples; no cell-level source	True
+S9_asset_manifest_figure_number	81/83 nonblank	81 figure-linked assets require numbers; 2 package-level assets may be blank	blank rows lack panel and figure-specific path markers and are explicitly classified as package-level assets	False

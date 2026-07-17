@@ -1,0 +1,10 @@
+{
+  "version": "U26A5_v1.0_2026-07-14",
+  "project_root": "project:",
+  "selected_matrix": "project://03_data_processed/phaseU4b_repaired_matrices/GSE280297_gene_count_repaired_gene_symbol_matrix.tsv.gz",
+  "selected_annotation": "project://07_tables/phaseU4b_repaired_module_scores/GSE280297_gene_count_repaired_sample_annotation_v1.tsv",
+  "canonical_matrix": "project://03_data_processed/phaseU26A5_GSE280297_final_input_resolution/GSE280297_U26A5_canonical_60sample_gene_symbol_expression.tsv.gz",
+  "decision": "READY_FOR_U26B_WITH_DAM_LEVEL_MODEL_DEFERRED",
+  "manuscript_modified": false,
+  "existing_figures_modified": false
+}

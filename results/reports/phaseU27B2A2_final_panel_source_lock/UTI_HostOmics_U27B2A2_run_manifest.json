@@ -1,0 +1,13 @@
+{
+  "version": "U27B2A2_v1.0_2026-07-15",
+  "decision": "READY_FOR_U27B2B_SCRIPTED_FINAL_FIGURES_1_TO_4_BUILD",
+  "panels_with_locked_sources": 57,
+  "locked_source_rows": 114,
+  "replacement_panels": 11,
+  "semantic_pass": true,
+  "source_schema_pass": true,
+  "prohibited_source_selections": 0,
+  "scientific_values_changed": false,
+  "manuscript_modified": false,
+  "figures_modified": false
+}

@@ -1,0 +1,5 @@
+{
+  "Rscript_available": true,
+  "stdout": "Seurat=TRUE\nSingleCellExperiment=TRUE\nSummarizedExperiment=TRUE",
+  "stderr": ""
+}

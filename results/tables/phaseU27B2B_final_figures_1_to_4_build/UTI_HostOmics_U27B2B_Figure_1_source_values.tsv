@@ -1,0 +1,19 @@
+figure	panel	source_role	source_note	dataset	species	biological_role	observed_samples	canonical_genes	annotation_match_fraction	expression_scale_class	ready_for_scoring	critical_note	inferred_group	bladder	placenta	uterus	axis	n_submodules	median_genes	validation_class	n_modules
+Figure_1	B	bulk_readiness		GSE186800	Mus musculus	recurrent_or_prior_exposure_bladder_model	20.0	41082.0	1.0	continuous_transformed_expression	True	Use sample-level dataset-specific scoring; do not pool raw expression across species.									
+Figure_1	B	bulk_readiness		GSE112098	Homo sapiens	human_urinary_systemic_inflammation_comparator	73.0	23952.0	1.0	continuous_transformed_expression	True	Use sample-level dataset-specific scoring; do not pool raw expression across species.									
+Figure_1	C	gse280297_design											UTI89_Preterm	6.0	12.0	6.0					
+Figure_1	C	gse280297_design											UTI89_Term	5.0	10.0	5.0					
+Figure_1	C	gse280297_design											Mock_PBS	3.0	6.0	3.0					
+Figure_1	C	gse280297_design											UTI89_Nonpregnant	4.0	0.0	0.0					
+Figure_1	D	module_library															catecholamine_stress_adjacent	3.0	15.0		
+Figure_1	D	module_library															insulin_irs_signaling	4.0	15.0		
+Figure_1	D	module_library															adipokine_signaling	5.0	12.0		
+Figure_1	D	module_library															immune_context_anchors	6.0	15.5		
+Figure_1	D	module_library															lipid_metabolism	8.0	16.0		
+Figure_1	D	module_library															amino_acid_metabolism	8.0	13.0		
+Figure_1	D	module_library															complement_architecture	9.0	12.0		
+Figure_1	D	module_library															nucleotide_nad_nitrogen	9.0	12.0		
+Figure_1	D	module_library															carbohydrate_inflammatory_carbon	11.0	15.0		
+Figure_1	D	module_library															steroid_cholesterol_endocrine	15.0	12.0		
+Figure_1	F	refined_core																		one_FDR_dataset_plus_independent_concordant_effect	5.0
+Figure_1	F	refined_core																		two_dataset_concordant_effect	5.0

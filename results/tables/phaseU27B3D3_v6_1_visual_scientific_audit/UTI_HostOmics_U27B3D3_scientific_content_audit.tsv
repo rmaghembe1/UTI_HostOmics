@@ -1,0 +1,12 @@
+audit_class	audit_id	required_terms	pass
+required_dataset	GSE112098	GSE112098	True
+required_dataset	GSE280297	GSE280297	True
+required_dataset	GSE168600	GSE168600	True
+required_dataset	GSE252321	GSE252321	True
+required_scientific_architecture	expanded_architecture	78 curated submodules; ten biological axes	True
+required_scientific_architecture	infection_core	TLR4; leptin; PI3K-AKT	True
+required_scientific_architecture	pregnancy_branch_selectivity	branch-selective; steroid; preterm	True
+required_scientific_architecture	single_cell_architecture	27,385; 18 clusters; 14 refined subtypes; 0.333	True
+required_scientific_architecture	complement_architecture	C3a/C5a; opsonophagocytosis; provisional	True
+required_scientific_architecture	metabolic_boundary	transcriptionally inferred; flux	True
+required_scientific_architecture	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	True

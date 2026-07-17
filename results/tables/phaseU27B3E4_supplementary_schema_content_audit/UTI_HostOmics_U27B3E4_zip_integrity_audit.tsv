@@ -1,0 +1,2 @@
+zip_path	zip_exists_once	zip_test_pass	materialized_table_members	table_hash_matches	expected_table_hash_matches	pass
+project://11_supplementary/phaseU27B3E321_semantic_accession_audit_correction/UTI_HostOmics_U27B3E321_Supplementary_Tables_S1-S10.zip	True	True	10	10	10	True

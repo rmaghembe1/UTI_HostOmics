@@ -1,0 +1,2 @@
+target	threshold_source	quantile	log_normalized_threshold	sample_specific_threshold
+TNFSF9_high_macrophage	pooled TNFSF9-positive macrophages across all samples	0.75	2.2088557416963575	False

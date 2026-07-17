@@ -1,0 +1,9 @@
+supplementary_table	source_role	warning_type	value	note
+S1	GSE280297 validated 60-tissue-sample design	NATIVE_SOURCE_MISSINGNESS	0.15384615384615385	Native-source blanks are reported for review. They are not structural union-schema blanks and are not blocking unless a critical field is affected.
+S3	GSE186800 block and interaction module effects	NATIVE_SOURCE_MISSINGNESS	0.09523809523809523	Native-source blanks are reported for review. They are not structural union-schema blanks and are not blocking unless a critical field is affected.
+S6	Flat-matrix and per-sample single-cell QC	NATIVE_SOURCE_MISSINGNESS	0.03225806451612903	Native-source blanks are reported for review. They are not structural union-schema blanks and are not blocking unless a critical field is affected.
+S7	Broad-cell localization summary	NATIVE_SOURCE_MISSINGNESS	0.024657534246575342	Native-source blanks are reported for review. They are not structural union-schema blanks and are not blocking unless a critical field is affected.
+S7	Core-module cellular localization	NATIVE_SOURCE_MISSINGNESS	0.1284246575342466	Native-source blanks are reported for review. They are not structural union-schema blanks and are not blocking unless a critical field is affected.
+S7	Refined-subtype localization summary	NATIVE_SOURCE_MISSINGNESS	0.02054794520547945	Native-source blanks are reported for review. They are not structural union-schema blanks and are not blocking unless a critical field is affected.
+S9	Frozen Figure 1-8 asset manifest	NATIVE_SOURCE_MISSINGNESS	0.05931417979610751	Native-source blanks are reported for review. They are not structural union-schema blanks and are not blocking unless a critical field is affected.
+S9	Accession-corrected panel legend provenance registry	NATIVE_SOURCE_MISSINGNESS	0.08333333333333333	Native-source blanks are reported for review. They are not structural union-schema blanks and are not blocking unless a critical field is affected.

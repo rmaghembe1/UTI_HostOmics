@@ -1,0 +1,9 @@
+caveat_id	required_statement	figure_scope
+cross_dataset_integration	Raw expression was not pooled across datasets, species or tissues.	Figures 1, 2 and 8
+pregnancy_fdr	No broad pregnancy-wide FDR support was detected.	Figures 3, 5, 6, 7 and 8
+pregnancy_unit	Tissue samples are inferential units; no dam-level inference is made.	Figures 1 and 3
+single_cell_sample_size	Cellular localization is descriptive at n=2 control versus n=2 UPEC.	Figures 4-8
+single_cell_permutation	The minimum attainable exact two-sided permutation p-value is 0.333.	Figure 4
+metabolic_activity	Metabolic modules represent transcriptionally inferred pathway activity, not metabolite flux.	Figures 5, 6 and 8
+complement_provisional	Complement recurrence remains provisional where independent sample support is limited.	Figures 2, 3, 7 and 8
+causal_boundary	Evidence-weighted networks summarize directional association and do not establish direct causal sequences.	Figures 2, 4, 6, 7 and 8

@@ -1,0 +1,13 @@
+{
+  "version": "U26A1_v1.0_2026-07-14",
+  "project_root": "project:",
+  "decision": "TARGETED_INPUT_REVIEW_REQUIRED",
+  "outputs": {
+    "selected_sources": "project://06_tables/phaseU26A1_targeted_source_contrast_species_repair/UTI_HostOmics_U26A1_selected_expression_sources.tsv",
+    "gene_universe_summary": "project://06_tables/phaseU26A1_targeted_source_contrast_species_repair/UTI_HostOmics_U26A1_gene_universe_summary.tsv",
+    "coverage": "project://06_tables/phaseU26A1_targeted_source_contrast_species_repair/UTI_HostOmics_U26A1_submodule_coverage_by_selected_source.tsv",
+    "contrasts": "project://06_tables/phaseU26A1_targeted_source_contrast_species_repair/UTI_HostOmics_U26A1_corrected_contrast_map.tsv",
+    "species_plan": "project://06_tables/phaseU26A1_targeted_source_contrast_species_repair/UTI_HostOmics_U26A1_species_harmonization_plan.tsv",
+    "report": "project://05_results/phaseU26A1_targeted_source_contrast_species_repair/UTI_HostOmics_U26A1_targeted_repair_report.md"
+  }
+}

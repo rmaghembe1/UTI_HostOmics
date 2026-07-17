@@ -1,0 +1,21 @@
+figure	panel	content	source
+Figure_7	A	Independent infection-context effects	U26B2B.1 primary independent dataset effects
+Figure_7	B	Pregnancy preterm-versus-term effects	U26B2B.1 GSE280297 preterm-term collapsed
+Figure_7	C	Broad-cell module mean gene log2 fold change	U26D2C broad effect reliability
+Figure_7	D	Top refined-subtype composite support	U26D2C module cellular synthesis
+Figure_8	A	Independent infection-context effects	U26B2B.1 primary independent dataset effects
+Figure_8	B	Pregnancy preterm-versus-term effects	U26B2B.1 GSE280297 preterm-term collapsed
+Figure_8	C	Broad-cell module mean gene log2 fold change	U26D2C broad effect reliability
+Figure_8	D	Top refined-subtype composite support	U26D2C module cellular synthesis
+Figure_9	A	Independent infection-context effects	U26B2B.1 primary independent dataset effects
+Figure_9	B	Pregnancy preterm-versus-term effects	U26B2B.1 GSE280297 preterm-term collapsed
+Figure_9	C	Broad-cell module mean gene log2 fold change	U26D2C broad effect reliability
+Figure_9	D	Top refined-subtype composite support	U26D2C module cellular synthesis
+Figure_10	A	Independent infection-context effects	U26B2B.1 primary independent dataset effects
+Figure_10	B	Pregnancy preterm-versus-term effects	U26B2B.1 GSE280297 preterm-term collapsed
+Figure_10	C	Broad-cell module mean gene log2 fold change	U26D2C broad effect reliability
+Figure_10	D	Top refined-subtype composite support	U26D2C module cellular synthesis
+Figure_11	A	Core independent infection effects plus preterm-term outcome	U26B2B.1 independent effects and pregnancy collapse
+Figure_11	B	Core broad-cell composite localization	U26D2C broad effect reliability
+Figure_11	C	Cell composition and fixed targeted states	U26D2B composition and targeted-state effects
+Figure_11	D	Integrated mechanistic network	U26C/U26D2C synthesis architecture

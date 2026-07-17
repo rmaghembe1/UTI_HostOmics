@@ -1,0 +1,4 @@
+path	sample_column	group_column	sample_overlap_fraction	n_mapped	n_sepsis	n_vascular_surgery	completeness	selection_score
+project://03_metadata/phaseU26B2A1_cross_dataset_input_repair/GSE112098_U26B2A1_validated_sample_design.tsv	sample_id	description	1.0	36	0	36	0.4931506849315068	653.1506849315068
+project://07_tables/phaseU6_human_urine_comparator/phaseU6_GSE112098_series_matrix_sample_annotation_v1.tsv	sample_id	sample_title	1.0	32	0	32	0.4383561643835616	598.3561643835617
+project://07_tables/phaseU6_human_urine_comparator/phaseU6_GSE112098_series_matrix_sample_annotation_v1.tsv	sample_id	inferred_group	1.0	73	41	32	1.0	1365.0

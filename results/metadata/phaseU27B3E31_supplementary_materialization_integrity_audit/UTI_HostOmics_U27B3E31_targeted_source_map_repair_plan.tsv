@@ -1,0 +1,11 @@
+supplementary_table	action	target_role	reason
+S1	ADD	GSE280297 validated 60-sample design	Current S1 has only 97 rows from GSE252321, GSE112098 and GSE186800.
+S3	ADD	GSE280297 dataset-specific effects	Current S3 omits the pregnancy-model effect family.
+S3	ADD	GSE186800 recurrent-UTI effects	Current S3 omits the recurrent-UTI effect family.
+S6	ADD	GSE252321 sample/cell QC summary	The title promises QC but no QC source is locked.
+S6	ADD	GSE252321 broad-cell composition	The title promises broad populations but no composition source is locked.
+S8	REMOVE	U26B1 run_manifest.json	Unsupported non-tabular administrative artifact.
+S8	REMOVE	U26B1 phase_decision.tsv	Administrative control row is not a biological attribution table.
+S8	ADD	Complement-stage cellular attribution TSV	Required by the table title and manuscript claims.
+S8	ADD	Endocrine-metabolic cellular attribution TSV	Required by the table title and manuscript claims.
+S9	REPLACE	U27B3B panel provenance registry	Use the accession-corrected U27B3E22 panel provenance registry.

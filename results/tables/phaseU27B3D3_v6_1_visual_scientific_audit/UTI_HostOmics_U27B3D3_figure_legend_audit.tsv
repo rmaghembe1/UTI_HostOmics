@@ -1,0 +1,9 @@
+figure_number	caption_count	caption_present_once	expected_order_position	captions_ordered_1_to_8	embedded_drawing_paragraphs	embedded_media_files
+1	1	True	1	True	8	8
+2	1	True	2	True	8	8
+3	1	True	3	True	8	8
+4	1	True	4	True	8	8
+5	1	True	5	True	8	8
+6	1	True	6	True	8	8
+7	1	True	7	True	8	8
+8	1	True	8	True	8	8

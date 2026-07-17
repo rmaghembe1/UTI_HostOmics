@@ -1,0 +1,11 @@
+{
+  "version": "U26B1.1_v1.0_2026-07-14",
+  "project_root": "project:",
+  "source_results": "project://06_tables/phaseU26B1_GSE280297_endocrine_metabolic_immune_scoring/UTI_HostOmics_U26B1_all_contrast_results.tsv",
+  "source_scores": "project://03_data_processed/phaseU26B1_GSE280297_endocrine_metabolic_immune_scoring/GSE280297_U26B1_tissue_centered_submodule_scores.tsv.gz",
+  "max_exact": 5000,
+  "monte_carlo_iterations": 10000,
+  "decision": "READY_FOR_U26B2_CROSS_DATASET_SCORING",
+  "manuscript_modified": false,
+  "existing_figures_modified": false
+}

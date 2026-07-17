@@ -1,0 +1,13 @@
+{
+  "version": "U27B1_v1.0_2026-07-15",
+  "decision": "READY_FOR_U27B2_WITH_TARGETED_WORKING_FIGURE_1_TO_6_SOURCE_CONFIRMATION",
+  "main_figures": 8,
+  "main_panels": 57,
+  "supplementary_figures": 9,
+  "supplementary_panels": 60,
+  "main_tables": 2,
+  "supplementary_table_packages": 8,
+  "architecture_frozen": true,
+  "scientific_values_changed": false,
+  "manuscript_modified": false
+}

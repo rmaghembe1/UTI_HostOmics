@@ -1,0 +1,11 @@
+tissue	treatment	outcome	pregnancy_status	n_samples
+bladder	PBS_or_control			3
+bladder	UTI89	nonpregnant	nonpregnant	3
+bladder	UTI89	preterm	pregnant	4
+bladder	UTI89	term_or_nonlaboring	pregnant	5
+placenta	PBS_or_control			6
+placenta	UTI89	preterm	pregnant	12
+placenta	UTI89	term_or_nonlaboring	pregnant	10
+uterus	PBS_or_control			3
+uterus	UTI89	preterm	pregnant	6
+uterus	UTI89	term_or_nonlaboring	pregnant	5

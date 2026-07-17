@@ -1,0 +1,15 @@
+{
+  "version": "U27B2C2B_v1.0_2026-07-15",
+  "decision": "READY_FOR_U27B2C2C_FINAL_FIGURES_1_TO_4_VISUAL_AUDIT",
+  "figures_rebuilt": 4,
+  "panels": 29,
+  "exports": 12,
+  "panel_crops": 29,
+  "Figure3_unique_modules": 81,
+  "Figure3_C1_columns": 3,
+  "Figure3_C2_columns": 3,
+  "Figure3_C3_columns": 1,
+  "Figure1_evidence_classes": 4,
+  "scientific_values_recalculated": false,
+  "manuscript_modified": false
+}

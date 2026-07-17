@@ -1,0 +1,2 @@
+dataset	species	modality	selected_h5ad	n_h5ad_candidates	n_other_object_candidates	ready_for_pseudobulk_scoring	critical_note
+GSE252321	Mus musculus	single_cell_RNAseq		0	1	False	No readable h5ad was found. RDS/H5/MTX assets exist; targeted object conversion or R inspection is required.

@@ -1,0 +1,5 @@
+repair_item	status	detail
+Figure 3 broad pregnancy source	PASS	81 modules; C1=3, C2=3, C3=1
+Figure 1 evidence hierarchy	PASS	4 unique validation classes
+Figure 4 marker density	PASS	one top marker per cluster supplied to renderer
+Wrapped panel titles	PASS	titles longer than 30 characters wrapped

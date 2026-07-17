@@ -1,0 +1,2 @@
+failed_audit	previous_rule	observed_render	corrected_rule	manuscript_content_changed
+render_page_count	hard-coded expected page count = 31	30 contiguous page PNGs and 30-page PDF	derive canonical page count from rendered PDF when available, otherwise from the complete contiguous PNG sequence	False

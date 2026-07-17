@@ -1,0 +1,2 @@
+phase	overall_decision	expression_identifier_resolution	core_tissue_stratified_scoring	dam_level_pregnancy_outcome_model	n_canonical_gene_symbols	n_expression_samples	metadata_match_fraction	tissue_completion	treatment_completion	outcome_completion	pregnancy_completion	dam_id_completion_all	dam_id_completion_pregnant	critical_rule
+U26A.2	TARGETED_METADATA_REVIEW_REQUIRED	unresolved	not_ready	deferred	0	60	1.0	0.0	0.0	1.0	1.0	0.0	0.0	start tissue-stratified pathway scoring only with one metadata row per expression sample; do not infer dam-level independence from tissues

@@ -1,0 +1,4 @@
+issue	original	revised	basis
+TLR4 preterm effect classification	direction_reversal	pregnancy_near_neutral	|effect| < 0.2; observed effect -0.058
+Steroid synthesis domain wording	preserved_or_increased_steroid_synthesis	branch_selective_mixed_steroid_synthesis	Core steroidogenesis and androgen biosynthesis positive; estrogen and cholesterol biosynthesis negative
+Complement outcome wording	complement_activation	branch_selective_complement_remodeling	Classical/MAC/opsonophagocytosis positive; C3a/C5a signaling negative

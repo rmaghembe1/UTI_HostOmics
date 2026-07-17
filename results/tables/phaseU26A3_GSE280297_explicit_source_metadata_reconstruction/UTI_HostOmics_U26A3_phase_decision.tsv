@@ -1,0 +1,2 @@
+phase	overall_decision	selected_source	critical_note
+U26A.3	TARGETED_IDENTIFIER_MAPPING_REQUIRED	project://02_data_raw/GSE280297/supplementary/GSE280297_Normalized.counts.csv.gz	No plausible local gene-symbol matrix was selected. Inspect the candidate audit and use the cleaned or repaired symbol matrix before U26B.

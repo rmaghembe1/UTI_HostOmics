@@ -1,0 +1,2 @@
+phase	decision	panels_expected	panels_audited	panels_fully_locked	panels_unlocked	locked_source_rows	prohibited_source_selections	U27A4_visual_reference_panels	scientific_values_changed	manuscript_modified	figures_modified	next_phase
+U27B2A.1	TARGETED_SOURCE_LOCK_REVIEW_REQUIRED	57	57	52	5	101	0	19	False	False	False	Resolve source-lock exceptions

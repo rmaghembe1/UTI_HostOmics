@@ -1,0 +1,3 @@
+rule_id	term	rule	scientific_identity
+required_recurrent_UTI_accession	GSE186800	required	Gardnerella-triggered recurrent UTI bladder-reservoir model
+prohibited_unrelated_skin_accession	GSE168600	prohibited	KLF5 skin and sphingolipid dataset

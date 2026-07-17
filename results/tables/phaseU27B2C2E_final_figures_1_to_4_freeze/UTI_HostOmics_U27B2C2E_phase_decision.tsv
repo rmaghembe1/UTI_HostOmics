@@ -1,0 +1,2 @@
+phase	decision	figures_frozen	figure_exports_expected	figure_exports_frozen	panel_crops_expected	panel_crops_frozen	visual_audit_pass	all_exports_nonempty	all_frozen_paths_exist	source_value_tables_frozen	scientific_values_changed	displayed_modules_changed	source_locks_changed	manuscript_modified	next_phase
+U27B2C2E	READY_FOR_U27B2D_SCRIPTED_FINAL_FIGURES_5_TO_8_BUILD	4	12	12	29	29	True	True	True	4	False	False	False	False	U27B2D scripted Final Figures 5-8 build

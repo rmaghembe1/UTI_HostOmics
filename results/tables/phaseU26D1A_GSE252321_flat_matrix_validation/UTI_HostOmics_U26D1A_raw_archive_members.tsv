@@ -1,0 +1,5 @@
+member_name	size_bytes	looks_like_10x_component	looks_like_flat_matrix
+GSM7999426_Control_1_matrix.tsv.gz	12059678	False	True
+GSM7999427_Control_2_matrix.tsv.gz	10750052	False	True
+GSM7999428_UPEC_1_matrix.tsv.gz	10484437	False	True
+GSM7999429_UPEC_2_matrix.tsv.gz	11761152	False	True

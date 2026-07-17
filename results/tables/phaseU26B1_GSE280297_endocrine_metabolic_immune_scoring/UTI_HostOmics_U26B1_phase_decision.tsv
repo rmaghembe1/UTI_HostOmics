@@ -1,0 +1,2 @@
+phase	decision	dataset	n_expression_samples	n_library_submodules	n_score_eligible_submodules	n_contrast_results	n_FDR_0_05_results	n_FDR_0_10_results	dam_level_model	manuscript_modified	existing_figures_modified	next_phase
+U26B1	READY_FOR_U26B2_CROSS_DATASET_SCORING	GSE280297	60	78	77	810	0	0	deferred	False	False	score GSE186800, GSE112098, and GSE252321 with dataset-appropriate models, then integrate standardized module effects

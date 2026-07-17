@@ -1,0 +1,16 @@
+term	occurrence_count	present	required_action
+GSE186800	4	True	Earlier recurrence-trigger identifier; replace with the frozen GSE168600 architecture where appropriate.
+GSE261018	1	True	Held diagnostic dataset; exclude from the final formal architecture.
+17 modules	2	True	Earlier compact validation story; replace with the 78-submodule, 10-axis evidence architecture.
+17 validated modules	0	False	Earlier compact validation story.
+phase u5	0	False	Obsolete early-phase analysis language.
+phase u6	0	False	Obsolete early-phase analysis language.
+phase u7	1	True	Obsolete early-phase analysis language.
+phase u8	0	False	Obsolete early-phase analysis language.
+phase u9	1	True	Obsolete early-phase analysis language.
+phase u10	0	False	Obsolete traceability language.
+phase u11	0	False	Obsolete traceability language.
+phase u12	1	True	Obsolete methods language.
+phase u13	0	False	Obsolete discussion-scaffold language.
+04_scripts/	1	True	Obsolete project path; current scripts are under 10_scripts/.
+six-figure	0	False	Obsolete architecture; the frozen package has 8 figures.

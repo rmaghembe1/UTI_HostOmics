@@ -1,0 +1,161 @@
+section	concept_id	required_terms	present
+Front matter	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Front matter	recurrent_infection_core	TLR4; leptin; PI3K-AKT	False
+Front matter	pregnancy_branch_selectivity	branch-selective; steroid; preterm	False
+Front matter	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Front matter	complement_architecture	C3a/C5a; opsonophagocytosis; complement	False
+Front matter	metabolic_boundary	transcriptionally inferred; flux	False
+Front matter	single_cell_boundary	n=2; 0.333	False
+Front matter	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False
+Abstract	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Abstract	recurrent_infection_core	TLR4; leptin; PI3K-AKT	False
+Abstract	pregnancy_branch_selectivity	branch-selective; steroid; preterm	False
+Abstract	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Abstract	complement_architecture	C3a/C5a; opsonophagocytosis; complement	False
+Abstract	metabolic_boundary	transcriptionally inferred; flux	False
+Abstract	single_cell_boundary	n=2; 0.333	False
+Abstract	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False
+Introduction	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Introduction	recurrent_infection_core	TLR4; leptin; PI3K-AKT	False
+Introduction	pregnancy_branch_selectivity	branch-selective; steroid; preterm	False
+Introduction	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Introduction	complement_architecture	C3a/C5a; opsonophagocytosis; complement	False
+Introduction	metabolic_boundary	transcriptionally inferred; flux	False
+Introduction	single_cell_boundary	n=2; 0.333	False
+Introduction	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False
+Methods	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Methods	recurrent_infection_core	TLR4; leptin; PI3K-AKT	False
+Methods	pregnancy_branch_selectivity	branch-selective; steroid; preterm	False
+Methods	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Methods	complement_architecture	C3a/C5a; opsonophagocytosis; complement	False
+Methods	metabolic_boundary	transcriptionally inferred; flux	True
+Methods	single_cell_boundary	n=2; 0.333	False
+Methods	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False
+Results	expanded_submodule_architecture	78 curated submodules; ten biological axes	True
+Results	recurrent_infection_core	TLR4; leptin; PI3K-AKT	True
+Results	pregnancy_branch_selectivity	branch-selective; steroid; preterm	True
+Results	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	True
+Results	complement_architecture	C3a/C5a; opsonophagocytosis; complement	True
+Results	metabolic_boundary	transcriptionally inferred; flux	True
+Results	single_cell_boundary	n=2; 0.333	True
+Results	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	True
+Discussion	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Discussion	recurrent_infection_core	TLR4; leptin; PI3K-AKT	False
+Discussion	pregnancy_branch_selectivity	branch-selective; steroid; preterm	False
+Discussion	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Discussion	complement_architecture	C3a/C5a; opsonophagocytosis; complement	False
+Discussion	metabolic_boundary	transcriptionally inferred; flux	True
+Discussion	single_cell_boundary	n=2; 0.333	False
+Discussion	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False
+Limitations	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Limitations	recurrent_infection_core	TLR4; leptin; PI3K-AKT	False
+Limitations	pregnancy_branch_selectivity	branch-selective; steroid; preterm	False
+Limitations	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Limitations	complement_architecture	C3a/C5a; opsonophagocytosis; complement	False
+Limitations	metabolic_boundary	transcriptionally inferred; flux	False
+Limitations	single_cell_boundary	n=2; 0.333	False
+Limitations	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False
+Future directions	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Future directions	recurrent_infection_core	TLR4; leptin; PI3K-AKT	False
+Future directions	pregnancy_branch_selectivity	branch-selective; steroid; preterm	False
+Future directions	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Future directions	complement_architecture	C3a/C5a; opsonophagocytosis; complement	False
+Future directions	metabolic_boundary	transcriptionally inferred; flux	False
+Future directions	single_cell_boundary	n=2; 0.333	False
+Future directions	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False
+Concluding model	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Concluding model	recurrent_infection_core	TLR4; leptin; PI3K-AKT	False
+Concluding model	pregnancy_branch_selectivity	branch-selective; steroid; preterm	False
+Concluding model	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Concluding model	complement_architecture	C3a/C5a; opsonophagocytosis; complement	False
+Concluding model	metabolic_boundary	transcriptionally inferred; flux	False
+Concluding model	single_cell_boundary	n=2; 0.333	False
+Concluding model	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False
+Data availability	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Data availability	recurrent_infection_core	TLR4; leptin; PI3K-AKT	False
+Data availability	pregnancy_branch_selectivity	branch-selective; steroid; preterm	False
+Data availability	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Data availability	complement_architecture	C3a/C5a; opsonophagocytosis; complement	False
+Data availability	metabolic_boundary	transcriptionally inferred; flux	False
+Data availability	single_cell_boundary	n=2; 0.333	False
+Data availability	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False
+Code availability	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Code availability	recurrent_infection_core	TLR4; leptin; PI3K-AKT	False
+Code availability	pregnancy_branch_selectivity	branch-selective; steroid; preterm	False
+Code availability	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Code availability	complement_architecture	C3a/C5a; opsonophagocytosis; complement	False
+Code availability	metabolic_boundary	transcriptionally inferred; flux	False
+Code availability	single_cell_boundary	n=2; 0.333	False
+Code availability	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False
+Ethics statement	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Ethics statement	recurrent_infection_core	TLR4; leptin; PI3K-AKT	False
+Ethics statement	pregnancy_branch_selectivity	branch-selective; steroid; preterm	False
+Ethics statement	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Ethics statement	complement_architecture	C3a/C5a; opsonophagocytosis; complement	False
+Ethics statement	metabolic_boundary	transcriptionally inferred; flux	False
+Ethics statement	single_cell_boundary	n=2; 0.333	False
+Ethics statement	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False
+Author contributions	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Author contributions	recurrent_infection_core	TLR4; leptin; PI3K-AKT	False
+Author contributions	pregnancy_branch_selectivity	branch-selective; steroid; preterm	False
+Author contributions	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Author contributions	complement_architecture	C3a/C5a; opsonophagocytosis; complement	False
+Author contributions	metabolic_boundary	transcriptionally inferred; flux	False
+Author contributions	single_cell_boundary	n=2; 0.333	False
+Author contributions	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False
+Competing interests	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Competing interests	recurrent_infection_core	TLR4; leptin; PI3K-AKT	False
+Competing interests	pregnancy_branch_selectivity	branch-selective; steroid; preterm	False
+Competing interests	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Competing interests	complement_architecture	C3a/C5a; opsonophagocytosis; complement	False
+Competing interests	metabolic_boundary	transcriptionally inferred; flux	False
+Competing interests	single_cell_boundary	n=2; 0.333	False
+Competing interests	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False
+Funding	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Funding	recurrent_infection_core	TLR4; leptin; PI3K-AKT	False
+Funding	pregnancy_branch_selectivity	branch-selective; steroid; preterm	False
+Funding	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Funding	complement_architecture	C3a/C5a; opsonophagocytosis; complement	False
+Funding	metabolic_boundary	transcriptionally inferred; flux	False
+Funding	single_cell_boundary	n=2; 0.333	False
+Funding	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False
+Acknowledgements	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Acknowledgements	recurrent_infection_core	TLR4; leptin; PI3K-AKT	False
+Acknowledgements	pregnancy_branch_selectivity	branch-selective; steroid; preterm	False
+Acknowledgements	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Acknowledgements	complement_architecture	C3a/C5a; opsonophagocytosis; complement	False
+Acknowledgements	metabolic_boundary	transcriptionally inferred; flux	False
+Acknowledgements	single_cell_boundary	n=2; 0.333	False
+Acknowledgements	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False
+Supplementary tables	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Supplementary tables	recurrent_infection_core	TLR4; leptin; PI3K-AKT	False
+Supplementary tables	pregnancy_branch_selectivity	branch-selective; steroid; preterm	False
+Supplementary tables	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Supplementary tables	complement_architecture	C3a/C5a; opsonophagocytosis; complement	False
+Supplementary tables	metabolic_boundary	transcriptionally inferred; flux	False
+Supplementary tables	single_cell_boundary	n=2; 0.333	False
+Supplementary tables	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False
+Reference gap register	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Reference gap register	recurrent_infection_core	TLR4; leptin; PI3K-AKT	False
+Reference gap register	pregnancy_branch_selectivity	branch-selective; steroid; preterm	False
+Reference gap register	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Reference gap register	complement_architecture	C3a/C5a; opsonophagocytosis; complement	False
+Reference gap register	metabolic_boundary	transcriptionally inferred; flux	False
+Reference gap register	single_cell_boundary	n=2; 0.333	False
+Reference gap register	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False
+Figures	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Figures	recurrent_infection_core	TLR4; leptin; PI3K-AKT	True
+Figures	pregnancy_branch_selectivity	branch-selective; steroid; preterm	True
+Figures	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Figures	complement_architecture	C3a/C5a; opsonophagocytosis; complement	True
+Figures	metabolic_boundary	transcriptionally inferred; flux	True
+Figures	single_cell_boundary	n=2; 0.333	True
+Figures	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False
+Reference table	expanded_submodule_architecture	78 curated submodules; ten biological axes	False
+Reference table	recurrent_infection_core	TLR4; leptin; PI3K-AKT	False
+Reference table	pregnancy_branch_selectivity	branch-selective; steroid; preterm	False
+Reference table	single_cell_reconstruction	27,385; 18 clusters; 14 refined subtypes	False
+Reference table	complement_architecture	C3a/C5a; opsonophagocytosis; complement	False
+Reference table	metabolic_boundary	transcriptionally inferred; flux	False
+Reference table	single_cell_boundary	n=2; 0.333	False
+Reference table	cross_dataset_boundary	analyzed independently; standardized effects; directional concordance	False

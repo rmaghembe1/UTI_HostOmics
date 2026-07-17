@@ -1,0 +1,8 @@
+refined_broad_cell_type	GSM7999426_Control_1	GSM7999427_Control_2	GSM7999428_UPEC_1	GSM7999429_UPEC_2
+NK_cell	True	True	True	True
+T_cell	True	True	True	True
+cycling_immune	True	True	True	True
+dendritic	True	True	True	True
+macrophage_monocyte	True	True	True	True
+mast_cell	True	True	False	False
+neutrophil	True	True	True	True

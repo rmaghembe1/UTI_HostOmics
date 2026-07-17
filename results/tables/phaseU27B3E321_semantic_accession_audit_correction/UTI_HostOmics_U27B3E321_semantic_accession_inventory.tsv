@@ -1,0 +1,2 @@
+supplementary_table	materialized_row_number	matching_columns	source_role	rule_id	term	rule	scientific_identity	classification	authorized
+S10	16	term	Future accession validation rules	prohibited_unrelated_skin_accession	GSE168600	prohibited	KLF5 skin and sphingolipid dataset	DOCUMENTED_PROHIBITION_RULE	True

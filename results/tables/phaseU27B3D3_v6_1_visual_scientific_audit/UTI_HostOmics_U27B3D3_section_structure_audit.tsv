@@ -1,0 +1,19 @@
+heading	occurrence_count	body_index	unique_heading_pass	required_narrative_order_pass
+Abstract	1	9	True	True
+Introduction	1	14	True	True
+Methods	1	20	True	True
+Results	1	41	True	True
+Discussion	1	69	True	True
+Limitations	1	83	True	True
+Future directions	1	88	True	True
+Concluding model	1	91	True	True
+Data availability	1	94	True	True
+Code availability	1	96	True	True
+Ethics statement	1	98	True	True
+Author contributions	1	100	True	True
+Competing interests	1	102	True	True
+Funding	1	104	True	True
+Acknowledgements	1	106	True	True
+Supplementary tables	1	108	True	True
+Remaining reference gaps after citation-key cleanup	1	119	True	True
+Reference table for Zotero finalization	1	146	True	True

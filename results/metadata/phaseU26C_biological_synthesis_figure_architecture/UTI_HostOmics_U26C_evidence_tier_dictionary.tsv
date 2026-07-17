@@ -1,0 +1,7 @@
+tier	definition	interpretation	manuscript_verb
+Tier_1_human_adjusted_FDR	GSE112098 age/sex-adjusted FDR < 0.10	Strongest inferential layer; systemic urinary inflammation, not UTI-specific	was associated with
+Tier_2_independent_concordance	Concordant moderate effect in at least one independent dataset	Independent pathway support without replicated FDR	showed concordant remodeling
+Tier_3_mouse_treatment	GSE186800 average Gardnerella-versus-PBS effect	Independent mouse-bladder direction; no treatment FDR < 0.10	was directionally altered
+Tier_4_pregnancy_tissue	GSE280297 UPEC or preterm pregnancy-tissue effect	Tissue-resolved discovery evidence	suggested
+Tier_5_exploratory_UPEC	GSE252321 pseudobulk, n=2 per group	Magnitude and direction only	was directionally consistent with
+Excluded_from_infection_claims	GSE186800 PBS block effect	Experimental-block or exposure-stage difference	must not be called infection-induced

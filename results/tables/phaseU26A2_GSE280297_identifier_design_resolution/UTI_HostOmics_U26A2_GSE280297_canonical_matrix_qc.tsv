@@ -1,0 +1,2 @@
+selected_source	canonical_matrix	mapping_method	n_input_rows	n_canonical_gene_symbols	n_expression_samples	duplicate_collapse_rule	n_mouse_ensembl_ids_observed	n_mouse_ensembl_ids_mapped	gene_universe_plausible	sample_count_plausible
+project://02_data_raw/GSE280297/supplementary/GSE280297_Normalized.counts.csv.gz	project://04_data_processed/phaseU26A2_GSE280297_identifier_design_resolution/GSE280297_U26A2_canonical_gene_symbol_expression.tsv.gz	org.Mm.eg.db	0	0	60	mean	56748	0	False	True

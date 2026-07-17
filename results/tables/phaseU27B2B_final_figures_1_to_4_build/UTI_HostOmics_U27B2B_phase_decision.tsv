@@ -1,0 +1,2 @@
+phase	decision	figures_expected	figures_built	panels_expected	panels_in_build_manifest	exports_expected	exports_present	nonempty_exports	full_figure_contact_sheet_present	panel_contact_sheet_present	scientific_values_changed	manuscript_modified	next_phase
+U27B2B	READY_FOR_U27B2C_FINAL_FIGURES_1_TO_4_VISUAL_AUDIT	4	4	29	29	12	12	True	True	True	False	False	U27B2C visual audit of Final Figures 1-4

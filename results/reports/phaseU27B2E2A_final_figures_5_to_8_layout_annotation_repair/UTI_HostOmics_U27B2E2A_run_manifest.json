@@ -1,0 +1,12 @@
+{
+  "version": "U27B2E2A_v1.0_2026-07-16",
+  "decision": "READY_FOR_U27B2E2B_FINAL_FIGURES_5_TO_8_FREEZE_AUDIT",
+  "figures_polished": 4,
+  "panels": 28,
+  "panel_crops": 28,
+  "exports": 12,
+  "statistical_effects_recalculated": false,
+  "displayed_modules_changed": false,
+  "pathway_membership_changed": false,
+  "source_locks_changed": false
+}

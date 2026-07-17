@@ -1,0 +1,3 @@
+table	title	planned_rows	columns	source	architecture_status
+Table_1	Dataset, sample and analytical-design summary	one row per dataset/analysis context	accession; organism; tissue/specimen; exposure/outcome; omics platform; biological n; contrast; analytical role; adjustment; principal limitation	dataset manifests and validated sample designs	frozen
+Table_2	Evidence-tiered core biological modules	core, provisional, secondary and selected pregnancy branches	module; axis; human adjusted-FDR evidence; independent mouse support; pregnancy direction; broad-cell localization; refined subtype; evidence class; claim priority; principal limitation	U26B2B1, U26C1 and U26D2C	frozen

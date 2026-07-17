@@ -1,0 +1,12 @@
+audit_id	value	pass
+abstract_nonempty	254	True
+introduction_nonempty	317	True
+methods_nonempty	556	True
+discussion_nonempty	692	True
+data_availability_nonempty	45	True
+code_availability_nonempty	44	True
+funding_nonempty	36	True
+supplementary_items_present	100	True
+misplaced_discussion_absent	False	True
+legacy_figure_selection_table_removed	1	True
+legacy_open_issue_table_removed	3	True

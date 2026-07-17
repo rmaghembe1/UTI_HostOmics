@@ -1,0 +1,22 @@
+{
+  "script_version": "U26A_v1.0_2026-07-14",
+  "project_root": "project:",
+  "outputs": {
+    "submodule_library": "project://03_metadata/phaseU26A_expanded_endocrine_metabolic_immune_feasibility/UTI_HostOmics_U26A_expanded_submodule_library.tsv",
+    "gmt": "project://03_metadata/phaseU26A_expanded_endocrine_metabolic_immune_feasibility/UTI_HostOmics_U26A_expanded_submodules.gmt",
+    "coverage": "project://06_tables/phaseU26A_expanded_endocrine_metabolic_immune_feasibility/UTI_HostOmics_U26A_submodule_coverage_by_dataset.tsv",
+    "contrasts": "project://06_tables/phaseU26A_expanded_endocrine_metabolic_immune_feasibility/UTI_HostOmics_U26A_feasible_contrast_map.tsv",
+    "axis_summary": "project://06_tables/phaseU26A_expanded_endocrine_metabolic_immune_feasibility/UTI_HostOmics_U26A_axis_feasibility_summary.tsv",
+    "figure_priority": "project://06_tables/phaseU26A_expanded_endocrine_metabolic_immune_feasibility/UTI_HostOmics_U26A_submodule_figure_priority.tsv",
+    "research_questions": "project://06_tables/phaseU26A_expanded_endocrine_metabolic_immune_feasibility/UTI_HostOmics_U26A_high_impact_research_question_ranking.tsv",
+    "report": "project://05_results/phaseU26A_expanded_endocrine_metabolic_immune_feasibility/UTI_HostOmics_U26A_feasibility_report.md"
+  },
+  "dataset_gene_counts": {
+    "GSE186800": 39406,
+    "GSE280297": 92350,
+    "GSE112098": 23930,
+    "GSE252321": 28449
+  },
+  "n_submodules": 78,
+  "n_axes": 10
+}

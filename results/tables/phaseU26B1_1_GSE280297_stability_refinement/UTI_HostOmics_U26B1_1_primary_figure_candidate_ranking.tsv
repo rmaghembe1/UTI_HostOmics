@@ -1,0 +1,78 @@
+proposed_figure_family	axis	feature_id	display_label	max_absolute_hedges_g_primary	median_absolute_hedges_g_primary	n_primary_results	n_large_primary_effects	n_moderate_primary_effects	n_permutation_FDR_0_05	n_permutation_FDR_0_10	n_family_FDR_0_10	primary_evidence_score	evidence_class
+Figure_10	complement_architecture	COMPLEMENT_TERMINAL_MAC	Terminal complement and membrane-attack complex	0.960613721304766	0.5744464349606124	7	1	4	0	0	0	2.547836938785072	single_large_effect
+Figure_10	complement_architecture	COMPLEMENT_C3_CONVERTASE_AMPLIFICATION	C3 convertase and amplification	1.1686840835533288	0.3000879207652096	7	1	3	0	0	0	2.4187280439359338	single_large_effect
+Figure_10	complement_architecture	COMPLEMENT_LECTIN	Lectin complement pathway	1.0957972708101489	0.3022518246503143	7	1	3	0	0	0	2.3469231831353063	single_large_effect
+Figure_10	complement_architecture	COMPLEMENT_CLASSICAL	Classical complement pathway	0.9339565793762142	0.4735556700610808	7	1	3	0	0	0	2.2707344144067547	single_large_effect
+Figure_10	complement_architecture	COMPLEMENT_ALTERNATIVE	Alternative complement pathway	0.961724494107166	0.2987179578977494	7	1	2	0	0	0	2.0110834730560407	single_large_effect
+Figure_10	complement_architecture	COMPLEMENT_COAGULATION_CROSSTALK	Complement-coagulation crosstalk	1.079559418900903	0.3667988269137078	7	1	1	0	0	0	1.962958832357757	single_large_effect
+Figure_10	complement_architecture	COMPLEMENT_OPSONOPHAGOCYTOSIS	Complement-opsonophagocytosis	0.8797041911271781	0.2985457207804661	7	1	2	0	0	0	1.9289770515174114	single_large_effect
+Figure_10	complement_architecture	COMPLEMENT_REGULATORS	Complement regulators	0.7446344914912053	0.3362592898366689	7	0	2	0	0	0	1.3127641364095397	recurrent_moderate_effect
+Figure_10	complement_architecture	COMPLEMENT_C3A_C5A_SIGNALING	C3a and C5a inflammatory signaling	0.6066408853550672	0.3431704758291174	7	0	2	0	0	0	1.178226123269626	recurrent_moderate_effect
+Figure_7	steroid_cholesterol_endocrine	GLUCOCORTICOID_RESPONSE	Glucocorticoid response	1.1970524508315372	0.6577090767419905	7	3	4	0	0	0	3.825906989202532	recurrent_large_effect
+Figure_7	steroid_cholesterol_endocrine	ESTROGEN_RECEPTOR_RESPONSE	Estrogen receptor response	1.0495272485911142	0.4053843847647264	7	3	3	0	0	0	3.3522194409734776	recurrent_large_effect
+Figure_7	steroid_cholesterol_endocrine	ANDROGEN_RECEPTOR_SIGNALING	Androgen receptor signaling	1.0188848639899222	0.5712311994970121	7	2	5	0	0	0	3.304500463738428	recurrent_large_effect
+Figure_7	steroid_cholesterol_endocrine	ANDROGEN_TESTOSTERONE_BIOSYNTHESIS	Androgen and testosterone biosynthesis	1.4716923478785662	0.3327292638980083	7	2	3	0	0	0	3.2380569798275705	recurrent_large_effect
+Figure_7	steroid_cholesterol_endocrine	CHOLESTEROL_BIOSYNTHESIS	Cholesterol biosynthesis	1.3346489251793725	0.3676190350403667	7	1	3	0	0	0	2.618458442699556	single_large_effect
+Figure_7	steroid_cholesterol_endocrine	STEROID_SULFATION_DESULFATION	Steroid sulfation and desulfation	0.8804057063697692	0.6212498208409187	7	1	4	0	0	0	2.491030616790229	single_large_effect
+Figure_7	steroid_cholesterol_endocrine	STEROIDOGENESIS_CORE	Core steroidogenesis	0.8795652756774262	0.6092611905886939	7	1	4	0	0	0	2.484195870971773	single_large_effect
+Figure_7	steroid_cholesterol_endocrine	TESTOSTERONE_CONVERSION_AROMATIZATION	Testosterone conversion and aromatization	1.2270353565274814	0.3249692049303546	7	1	2	0	0	0	2.289519958992659	single_large_effect
+Figure_7	lipid_metabolism	FERROPTOSIS_LIPID_PEROXIDATION	Ferroptosis-linked lipid peroxidation	1.1508293610411644	0.159494278806105	7	1	2	0	0	0	2.1305765004442168	single_large_effect
+Figure_7	lipid_metabolism	FATTY_ACID_SYNTHESIS	Fatty-acid synthesis	0.5753774682279177	0.4007421562587914	7	0	3	0	0	0	1.3757485463573134	recurrent_moderate_effect
+Figure_7	steroid_cholesterol_endocrine	MINERALOCORTICOID_RESPONSE	Mineralocorticoid response	0.7444900529211202	0.4414312161189138	7	0	2	0	0	0	1.3652056609805772	recurrent_moderate_effect
+Figure_7	steroid_cholesterol_endocrine	PLACENTAL_STEROID_METABOLISM	Placental steroid metabolism	0.7761391768770401	0.2693983197571547	7	0	2	0	0	0	1.3108383367556176	recurrent_moderate_effect
+Figure_7	lipid_metabolism	PHOSPHOLIPID_METABOLISM	Phospholipid metabolism	0.6455749484980116	0.2476622491017035	7	0	2	0	0	0	1.1694060730488633	recurrent_moderate_effect
+Figure_7	lipid_metabolism	SPHINGOLIPID_CERAMIDE_METABOLISM	Sphingolipid and ceramide metabolism	0.556979293354634	0.3783187089333651	7	0	2	0	0	0	1.1461386478213167	recurrent_moderate_effect
+Figure_7	steroid_cholesterol_endocrine	PROGESTERONE_BIOSYNTHESIS_RESPONSE	Progesterone biosynthesis and response	0.5874343331618976	0.2357976586753661	7	0	2	0	0	0	1.1053331624995808	recurrent_moderate_effect
+Figure_7	lipid_metabolism	EICOSANOID_PROSTAGLANDIN_METABOLISM	Eicosanoid and prostaglandin metabolism	0.7027911556992366	0.2060843430332685	7	0	1	0	0	0	1.0058333272158708	weak_or_context_specific
+Figure_7	lipid_metabolism	LIPID_DROPLET_DYNAMICS	Lipid-droplet dynamics	0.6910461652770182	0.2193009933274784	7	0	1	0	0	0	1.0006966619407573	weak_or_context_specific
+Figure_7	lipid_metabolism	FATTY_ACID_BETA_OXIDATION	Fatty-acid beta-oxidation	0.5782000396501533	0.3720436296384718	7	0	1	0	0	0	0.9642218544693892	weak_or_context_specific
+Figure_7	lipid_metabolism	PPAR_SREBP_LXR_REGULATION	PPAR, SREBP and LXR regulation	0.5415905503476	0.3897187535088728	7	0	1	0	0	0	0.9364499271020363	weak_or_context_specific
+Figure_7	steroid_cholesterol_endocrine	LXR_FXR_STEROL_SIGNALING	LXR and FXR sterol signaling	0.5616348946379178	0.2498601283618348	7	0	1	0	0	0	0.8865649588188351	weak_or_context_specific
+Figure_7	steroid_cholesterol_endocrine	ESTROGEN_BIOSYNTHESIS	Estrogen biosynthesis and interconversion	0.4930960806800092	0.2679451119744505	7	0	0	0	0	0	0.6270686366672344	weak_or_context_specific
+Figure_7	steroid_cholesterol_endocrine	CHOLESTEROL_UPTAKE_TRANSPORT_EXPORT	Cholesterol uptake, transport and export	0.3891861816974427	0.2842637032332668	7	0	0	0	0	0	0.5313180333140761	weak_or_context_specific
+Figure_8	carbohydrate_inflammatory_carbon	AMPK_SIGNALING	AMPK signaling	0.938124875763557	0.5303538899217222	7	2	4	0	0	0	3.0033018207244178	recurrent_large_effect
+Figure_8	insulin_irs_signaling	INSULIN_RECEPTOR_IRS	Insulin receptor and IRS signaling	1.3402578002419596	0.4097496453018356	7	1	2	0	0	0	2.4451326228928774	single_large_effect
+Figure_8	insulin_irs_signaling	PI3K_AKT_SIGNALING	PI3K-AKT signaling	1.289974024948377	0.363776852967889	7	1	2	0	0	0	2.3718624514323214	single_large_effect
+Figure_8	carbohydrate_inflammatory_carbon	GLYCOLYSIS	Glycolysis	1.0101712519678727	0.406645615550242	7	1	3	0	0	0	2.313494059742994	single_large_effect
+Figure_8	carbohydrate_inflammatory_carbon	GLYCOGEN_SYNTHESIS	Glycogen synthesis	1.2540676429955062	0.3027964300522092	7	1	2	0	0	0	2.305465858021611	single_large_effect
+Figure_8	carbohydrate_inflammatory_carbon	TCA_OXPHOS	TCA cycle and oxidative phosphorylation	0.9104433454479705	0.4910697557217295	7	1	3	0	0	0	2.2559782233088352	single_large_effect
+Figure_8	carbohydrate_inflammatory_carbon	GLUCONEOGENESIS	Gluconeogenesis	1.1931810405762515	0.2986875855793756	7	1	2	0	0	0	2.2425248333659393	single_large_effect
+Figure_8	adipokine_signaling	ADIPOKINE_INFLAMMATORY_AXIS	Inflammatory adipokine axis	0.937365683597475	0.3514870479535067	7	1	3	0	0	0	2.2131092075742282	single_large_effect
+Figure_8	adipokine_signaling	LEPTIN_SIGNALING	Leptin signaling	0.8527724012270284	0.4165908496950087	7	1	3	0	0	0	2.161067826074533	single_large_effect
+Figure_8	carbohydrate_inflammatory_carbon	GLUCOSE_TRANSPORT	Glucose transport	1.0447689218991196	0.3864424762040065	7	1	2	0	0	0	2.137990160001123	single_large_effect
+Figure_8	adipokine_signaling	ADIPONECTIN_SIGNALING	Adiponectin signaling	1.0885162443443697	0.167177944205993	7	1	1	0	0	0	1.8721052164473662	single_large_effect
+Figure_8	insulin_irs_signaling	MTORC1_INSULIN_OUTPUT	mTORC1 insulin output	0.8517546154371797	0.4528166626182239	7	1	1	0	0	0	1.7781629467462916	single_large_effect
+Figure_8	carbohydrate_inflammatory_carbon	MTOR_SIGNALING	mTOR signaling	0.8057188489579195	0.4048917584702233	7	1	1	0	0	0	1.708164728193031	single_large_effect
+Figure_8	carbohydrate_inflammatory_carbon	LACTATE_HIF1A_INFLAMMATORY_GLYCOLYSIS	Lactate and HIF1A inflammatory glycolysis	0.8484877551076575	0.2939459045391361	7	1	1	0	0	0	1.6954607073772257	single_large_effect
+Figure_8	insulin_irs_signaling	AMPK_INSULIN_COUNTERREGULATION	AMPK counter-regulation of insulin signaling	0.744315365082096	0.4232120891357079	7	0	3	0	0	0	1.55592140964995	recurrent_moderate_effect
+Figure_8	adipokine_signaling	RESISTIN_INFLAMMATORY_SIGNALING	Resistin-associated inflammatory signaling	0.5890935728332182	0.4912458416695309	7	0	3	0	0	0	1.4347164936679837	recurrent_moderate_effect
+Figure_8	carbohydrate_inflammatory_carbon	PENTOSE_PHOSPHATE_PATHWAY	Pentose-phosphate pathway	0.6129351439755868	0.3985926277046877	7	0	2	0	0	0	1.2122314578279307	recurrent_moderate_effect
+Figure_8	carbohydrate_inflammatory_carbon	GLYCOGENOLYSIS	Glycogenolysis	0.6468012762765816	0.3112890492426151	7	0	2	0	0	0	1.202445800897889	recurrent_moderate_effect
+Figure_8	carbohydrate_inflammatory_carbon	AGE_RAGE_SIGNALING	AGE-RAGE signaling	0.6560046769717482	0.2182608845677418	7	0	1	0	0	0	0.9651351192556192	weak_or_context_specific
+Figure_8	adipokine_signaling	PPARG_ADIPOMETABOLIC_REGULATION	PPARG adipometabolic regulation	0.4225736558547329	0.203366431931541	7	0	0	0	0	0	0.5242568718205034	weak_or_context_specific
+Figure_9	nucleotide_nad_nitrogen	PYRIMIDINE_SYNTHESIS	Pyrimidine synthesis	0.9269698590723384	0.5980736118976233	7	2	4	0	0	0	3.02600666502115	recurrent_large_effect
+Figure_9	nucleotide_nad_nitrogen	PYRIMIDINE_DEGRADATION	Pyrimidine degradation	1.1825503908015684	0.4251442512349531	7	2	3	0	0	0	2.995122516419045	recurrent_large_effect
+Figure_9	amino_acid_metabolism	AMINO_ACID_TRANSPORT	Amino-acid transport	1.0527503025877167	0.4126434491982289	7	2	3	0	0	0	2.8590720271868313	recurrent_large_effect
+Figure_9	amino_acid_metabolism	SERINE_GLYCINE_ONE_CARBON	Serine, glycine and one-carbon metabolism	0.9867953184936026	0.5663371315777995	7	1	4	0	0	0	2.5699638842825023	single_large_effect
+Figure_9	nucleotide_nad_nitrogen	PURINE_SALVAGE	Purine salvage	1.3706554466140357	0.4471217219262232	7	1	2	0	0	0	2.494216307577147	single_large_effect
+Figure_9	amino_acid_metabolism	GLUTAMINE_GLUTAMATE	Glutamine and glutamate metabolism	1.0249915329895265	0.3796808399169906	7	1	3	0	0	0	2.3148319529480217	single_large_effect
+Figure_9	catecholamine_stress_adjacent	ADRENERGIC_STRESS_SIGNALING	Adrenergic stress signaling	0.9815447317630288	0.459976279309689	7	1	3	0	0	0	2.3115328714178736	single_large_effect
+Figure_9	nucleotide_nad_nitrogen	PURINE_DE_NOVO_SYNTHESIS	De novo purine synthesis	0.90439918257767	0.4173728526439439	7	1	3	0	0	0	2.2130856088996422	single_large_effect
+Figure_9	nucleotide_nad_nitrogen	NITRIC_OXIDE_SYNTHESIS_REGULATION	Nitric-oxide synthesis and regulation	0.8010822653736148	0.4823432471131333	7	1	3	0	0	0	2.1422538889301816	single_large_effect
+Figure_9	amino_acid_metabolism	BRANCHED_CHAIN_AMINO_ACIDS	Branched-chain amino-acid metabolism	0.9393602518520584	0.2217901100176466	7	1	2	0	0	0	1.9502553068608819	single_large_effect
+Figure_9	nucleotide_nad_nitrogen	PURINE_DEGRADATION_URATE	Purine degradation and urate	1.0307811243653426	0.3218919033956605	7	1	1	0	0	0	1.8917270760631728	single_large_effect
+Figure_9	amino_acid_metabolism	METHIONINE_SAM_METHYLATION	Methionine and SAM metabolism	0.974855358925732	0.3595408500154374	7	1	1	0	0	0	1.8546257839334508	single_large_effect
+Figure_9	nucleotide_nad_nitrogen	NAD_METABOLISM	NAD metabolism	0.7360484078283704	0.4449612884131995	7	0	3	0	0	0	1.5585290520349702	recurrent_moderate_effect
+Figure_9	nucleotide_nad_nitrogen	XANTHINE_OXIDASE_OXIDATIVE_PURINE_CATABOLISM	Xanthine oxidase and oxidative purine catabolism	0.698496137927261	0.457025426352275	7	0	3	0	0	0	1.5270088511033986	recurrent_moderate_effect
+Figure_9	amino_acid_metabolism	TRYPTOPHAN_KYNURENINE	Tryptophan-kynurenine metabolism	0.7817533430730323	0.3141327870680319	7	0	2	0	0	0	1.3388197366070482	recurrent_moderate_effect
+Figure_9	amino_acid_metabolism	AROMATIC_AMINO_ACID_METABOLISM	Aromatic amino-acid metabolism	0.727493669092695	0.2497445629794132	7	0	2	0	0	0	1.2523659505824016	recurrent_moderate_effect
+Figure_9	nucleotide_nad_nitrogen	UREA_CYCLE	Urea cycle	0.5599540873201713	0.3480638296524763	7	0	2	0	0	0	1.1339860021464094	recurrent_moderate_effect
+Figure_9	amino_acid_metabolism	ARGININE_NO_UREA	Arginine, nitric oxide and urea coupling	0.7359283512934944	0.3257433984221691	7	0	1	0	0	0	1.098800050504579	weak_or_context_specific
+Figure_9	catecholamine_stress_adjacent	CATECHOLAMINE_BIOSYNTHESIS_DEGRADATION	Catecholamine biosynthesis and degradation	0.609077680783404	0.281575955981889	7	0	1	0	0	0	0.9498656587743484	weak_or_context_specific
+Figure_9	catecholamine_stress_adjacent	CATECHOLAMINE_IRON_REDOX_INTERFACE	Catecholamine, iron and redox interface	0.5697731798949757	0.2901081783007024	7	0	1	0	0	0	0.914827269045327	weak_or_context_specific
+Integrated_network	immune_context_anchors	NEUTROPHIL_NETOSIS_ANCHOR	Neutrophil and NETosis anchor	1.265255542033866	0.1952936895453198	7	2	2	0	0	0	2.762902386806526	recurrent_large_effect
+Integrated_network	immune_context_anchors	UROTHELIAL_BARRIER_REPAIR_ANCHOR	Urothelial barrier and repair anchor	0.8374515387745279	0.4558386128695851	7	1	3	0	0	0	2.1653708452093205	single_large_effect
+Integrated_network	immune_context_anchors	PREGNANCY_INFLAMMATION_ANCHOR	Pregnancy-associated inflammation anchor	0.7003963891748872	0.3664402293437156	7	0	3	0	0	0	1.4836165038467453	recurrent_moderate_effect
+Integrated_network	immune_context_anchors	OXIDATIVE_STRESS_NRF2_ANCHOR	Oxidative stress and NRF2 anchor	0.7363029411036537	0.471335951988209	7	0	2	0	0	0	1.3719709170977583	recurrent_moderate_effect
+Integrated_network	immune_context_anchors	TLR4_LPS_SIGNALING_ANCHOR	TLR4-LPS signaling anchor	0.5764899785252723	0.1537550043828793	7	0	3	0	0	0	1.2533674807167121	recurrent_moderate_effect
+Integrated_network	immune_context_anchors	NFKB_MAPK_INFLAMMATION_ANCHOR	NF-kB and MAPK inflammation anchor	0.6839938611237788	0.2998598713410063	7	0	2	0	0	0	1.233923796794282	recurrent_moderate_effect

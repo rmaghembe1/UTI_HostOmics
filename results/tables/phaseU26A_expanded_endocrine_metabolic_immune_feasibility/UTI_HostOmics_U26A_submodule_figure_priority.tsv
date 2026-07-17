@@ -1,0 +1,79 @@
+axis	submodule_id	display_label	adequate_bulk_datasets	partial_bulk_datasets	single_cell_coverage	mean_coverage_fraction	priority_weight	proposed_figure_family	figure_recommendation
+steroid_cholesterol_endocrine	CHOLESTEROL_BIOSYNTHESIS	Cholesterol biosynthesis	3	0	adequate	0.9606	5	Figure_7	main_figure_strong
+steroid_cholesterol_endocrine	CHOLESTEROL_UPTAKE_TRANSPORT_EXPORT	Cholesterol uptake, transport and export	3	0	adequate	0.9737	5	Figure_7	main_figure_strong
+steroid_cholesterol_endocrine	STEROIDOGENESIS_CORE	Core steroidogenesis	3	0	adequate	0.8542	5	Figure_7	main_figure_strong
+steroid_cholesterol_endocrine	PROGESTERONE_BIOSYNTHESIS_RESPONSE	Progesterone biosynthesis and response	3	0	adequate	0.8971	5	Figure_7	main_figure_strong
+steroid_cholesterol_endocrine	ESTROGEN_BIOSYNTHESIS	Estrogen biosynthesis and interconversion	3	0	adequate	0.8889	5	Figure_7	main_figure_strong
+steroid_cholesterol_endocrine	ESTROGEN_RECEPTOR_RESPONSE	Estrogen receptor response	3	0	adequate	0.9616	5	Figure_7	main_figure_strong
+steroid_cholesterol_endocrine	ANDROGEN_TESTOSTERONE_BIOSYNTHESIS	Androgen and testosterone biosynthesis	3	0	partial	0.8334	5	Figure_7	main_figure_candidate_with_bulk_emphasis
+steroid_cholesterol_endocrine	TESTOSTERONE_CONVERSION_AROMATIZATION	Testosterone conversion and aromatization	1	2	weak	0.5909	5	Figure_7	supplement_exploratory
+steroid_cholesterol_endocrine	ANDROGEN_RECEPTOR_SIGNALING	Androgen receptor signaling	3	0	adequate	0.9318	4	Figure_7	main_figure_strong
+steroid_cholesterol_endocrine	GLUCOCORTICOID_RESPONSE	Glucocorticoid response	3	0	adequate	0.9039	5	Figure_7	main_figure_strong
+steroid_cholesterol_endocrine	MINERALOCORTICOID_RESPONSE	Mineralocorticoid response	3	0	adequate	1.0	4	Figure_7	main_figure_strong
+steroid_cholesterol_endocrine	STEROID_SULFATION_DESULFATION	Steroid sulfation and desulfation	3	0	partial	0.85	5	Figure_7	main_figure_candidate_with_bulk_emphasis
+steroid_cholesterol_endocrine	STEROID_CATABOLISM_DEACTIVATION	Steroid catabolism and deactivation	1	0	weak	0.5	5	Figure_7	supplement_exploratory
+steroid_cholesterol_endocrine	PLACENTAL_STEROID_METABOLISM	Placental steroid metabolism	3	0	partial	0.8393	5	Figure_7	main_figure_candidate_with_bulk_emphasis
+steroid_cholesterol_endocrine	LXR_FXR_STEROL_SIGNALING	LXR and FXR sterol signaling	3	0	adequate	0.9167	4	Figure_7	main_figure_strong
+lipid_metabolism	FATTY_ACID_SYNTHESIS	Fatty-acid synthesis	3	0	adequate	0.9286	5	Figure_7	main_figure_strong
+lipid_metabolism	FATTY_ACID_BETA_OXIDATION	Fatty-acid beta-oxidation	3	0	adequate	1.0	5	Figure_7	main_figure_strong
+lipid_metabolism	PHOSPHOLIPID_METABOLISM	Phospholipid metabolism	3	0	adequate	0.9844	4	Figure_7	main_figure_strong
+lipid_metabolism	SPHINGOLIPID_CERAMIDE_METABOLISM	Sphingolipid and ceramide metabolism	3	0	adequate	0.9875	5	Figure_7	main_figure_strong
+lipid_metabolism	EICOSANOID_PROSTAGLANDIN_METABOLISM	Eicosanoid and prostaglandin metabolism	3	0	adequate	0.9559	5	Figure_7	main_figure_strong
+lipid_metabolism	LIPID_DROPLET_DYNAMICS	Lipid-droplet dynamics	3	0	adequate	0.9833	4	Figure_7	main_figure_strong
+lipid_metabolism	PPAR_SREBP_LXR_REGULATION	PPAR, SREBP and LXR regulation	3	0	adequate	1.0	5	Figure_7	main_figure_strong
+lipid_metabolism	FERROPTOSIS_LIPID_PEROXIDATION	Ferroptosis-linked lipid peroxidation	3	0	adequate	0.9531	5	Figure_7	main_figure_strong
+carbohydrate_inflammatory_carbon	GLYCOLYSIS	Glycolysis	3	0	adequate	0.9583	5	Figure_8	main_figure_strong
+carbohydrate_inflammatory_carbon	GLUCONEOGENESIS	Gluconeogenesis	3	0	adequate	0.9167	4	Figure_8	main_figure_strong
+carbohydrate_inflammatory_carbon	GLYCOGEN_SYNTHESIS	Glycogen synthesis	3	0	adequate	1.0	4	Figure_8	main_figure_strong
+carbohydrate_inflammatory_carbon	GLYCOGENOLYSIS	Glycogenolysis	3	0	adequate	0.9583	4	Figure_8	main_figure_strong
+carbohydrate_inflammatory_carbon	PENTOSE_PHOSPHATE_PATHWAY	Pentose-phosphate pathway	3	0	adequate	0.95	5	Figure_8	main_figure_strong
+carbohydrate_inflammatory_carbon	TCA_OXPHOS	TCA cycle and oxidative phosphorylation	3	0	adequate	0.8805	5	Figure_8	main_figure_strong
+carbohydrate_inflammatory_carbon	LACTATE_HIF1A_INFLAMMATORY_GLYCOLYSIS	Lactate and HIF1A inflammatory glycolysis	3	0	adequate	0.9833	5	Figure_8	main_figure_strong
+carbohydrate_inflammatory_carbon	AMPK_SIGNALING	AMPK signaling	3	0	adequate	1.0	5	Figure_8	main_figure_strong
+carbohydrate_inflammatory_carbon	MTOR_SIGNALING	mTOR signaling	3	0	adequate	1.0	5	Figure_8	main_figure_strong
+carbohydrate_inflammatory_carbon	GLUCOSE_TRANSPORT	Glucose transport	3	0	adequate	0.8959	4	Figure_8	main_figure_strong
+carbohydrate_inflammatory_carbon	AGE_RAGE_SIGNALING	AGE-RAGE signaling	3	0	adequate	0.9219	4	Figure_8	main_figure_strong
+insulin_irs_signaling	INSULIN_RECEPTOR_IRS	Insulin receptor and IRS signaling	3	0	adequate	0.9861	5	Figure_8	main_figure_strong
+insulin_irs_signaling	PI3K_AKT_SIGNALING	PI3K-AKT signaling	3	0	adequate	1.0	5	Figure_8	main_figure_strong
+insulin_irs_signaling	MTORC1_INSULIN_OUTPUT	mTORC1 insulin output	3	0	adequate	1.0	5	Figure_8	main_figure_strong
+insulin_irs_signaling	AMPK_INSULIN_COUNTERREGULATION	AMPK counter-regulation of insulin signaling	3	0	adequate	1.0	4	Figure_8	main_figure_strong
+adipokine_signaling	LEPTIN_SIGNALING	Leptin signaling	3	0	adequate	0.9792	5	Figure_8	main_figure_strong
+adipokine_signaling	ADIPONECTIN_SIGNALING	Adiponectin signaling	3	0	adequate	1.0	5	Figure_8	main_figure_strong
+adipokine_signaling	RESISTIN_INFLAMMATORY_SIGNALING	Resistin-associated inflammatory signaling	3	0	adequate	1.0	4	Figure_8	main_figure_strong
+adipokine_signaling	ADIPOKINE_INFLAMMATORY_AXIS	Inflammatory adipokine axis	3	0	adequate	0.9616	5	Figure_8	main_figure_strong
+adipokine_signaling	PPARG_ADIPOMETABOLIC_REGULATION	PPARG adipometabolic regulation	3	0	adequate	1.0	4	Figure_8	main_figure_strong
+amino_acid_metabolism	TRYPTOPHAN_KYNURENINE	Tryptophan-kynurenine metabolism	3	0	adequate	0.9231	5	Figure_9	main_figure_strong
+amino_acid_metabolism	ARGININE_NO_UREA	Arginine, nitric oxide and urea coupling	3	0	adequate	1.0	5	Figure_9	main_figure_strong
+amino_acid_metabolism	GLUTAMINE_GLUTAMATE	Glutamine and glutamate metabolism	3	0	adequate	0.9423	5	Figure_9	main_figure_strong
+amino_acid_metabolism	SERINE_GLYCINE_ONE_CARBON	Serine, glycine and one-carbon metabolism	3	0	adequate	0.9808	5	Figure_9	main_figure_strong
+amino_acid_metabolism	METHIONINE_SAM_METHYLATION	Methionine and SAM metabolism	3	0	adequate	1.0	5	Figure_9	main_figure_strong
+amino_acid_metabolism	BRANCHED_CHAIN_AMINO_ACIDS	Branched-chain amino-acid metabolism	3	0	adequate	1.0	4	Figure_9	main_figure_strong
+amino_acid_metabolism	AROMATIC_AMINO_ACID_METABOLISM	Aromatic amino-acid metabolism	3	0	adequate	0.9039	4	Figure_9	main_figure_strong
+amino_acid_metabolism	AMINO_ACID_TRANSPORT	Amino-acid transport	3	0	adequate	1.0	5	Figure_9	main_figure_strong
+catecholamine_stress_adjacent	CATECHOLAMINE_BIOSYNTHESIS_DEGRADATION	Catecholamine biosynthesis and degradation	3	0	adequate	0.9423	4	Figure_9	main_figure_strong
+catecholamine_stress_adjacent	ADRENERGIC_STRESS_SIGNALING	Adrenergic stress signaling	3	0	adequate	1.0	4	Figure_9	main_figure_strong
+catecholamine_stress_adjacent	CATECHOLAMINE_IRON_REDOX_INTERFACE	Catecholamine, iron and redox interface	3	0	adequate	0.95	5	Figure_9	main_figure_strong
+nucleotide_nad_nitrogen	PURINE_DE_NOVO_SYNTHESIS	De novo purine synthesis	3	0	adequate	0.8462	5	Figure_9	main_figure_strong
+nucleotide_nad_nitrogen	PURINE_SALVAGE	Purine salvage	3	0	adequate	0.9167	4	Figure_9	main_figure_strong
+nucleotide_nad_nitrogen	PURINE_DEGRADATION_URATE	Purine degradation and urate	3	0	adequate	0.9773	5	Figure_9	main_figure_strong
+nucleotide_nad_nitrogen	PYRIMIDINE_SYNTHESIS	Pyrimidine synthesis	3	0	adequate	0.9167	5	Figure_9	main_figure_strong
+nucleotide_nad_nitrogen	PYRIMIDINE_DEGRADATION	Pyrimidine degradation	3	0	adequate	1.0	4	Figure_9	main_figure_strong
+nucleotide_nad_nitrogen	NAD_METABOLISM	NAD metabolism	3	0	adequate	1.0	5	Figure_9	main_figure_strong
+nucleotide_nad_nitrogen	UREA_CYCLE	Urea cycle	3	0	adequate	0.975	5	Figure_9	main_figure_strong
+nucleotide_nad_nitrogen	NITRIC_OXIDE_SYNTHESIS_REGULATION	Nitric-oxide synthesis and regulation	3	0	adequate	0.9821	5	Figure_9	main_figure_strong
+nucleotide_nad_nitrogen	XANTHINE_OXIDASE_OXIDATIVE_PURINE_CATABOLISM	Xanthine oxidase and oxidative purine catabolism	3	0	adequate	0.9808	5	Figure_9	main_figure_strong
+complement_architecture	COMPLEMENT_CLASSICAL	Classical complement pathway	3	0	adequate	0.825	5	Figure_10	main_figure_strong
+complement_architecture	COMPLEMENT_LECTIN	Lectin complement pathway	3	0	partial	0.6875	5	Figure_10	main_figure_candidate_with_bulk_emphasis
+complement_architecture	COMPLEMENT_ALTERNATIVE	Alternative complement pathway	3	0	partial	0.7955	5	Figure_10	main_figure_candidate_with_bulk_emphasis
+complement_architecture	COMPLEMENT_C3_CONVERTASE_AMPLIFICATION	C3 convertase and amplification	3	0	adequate	0.875	5	Figure_10	main_figure_strong
+complement_architecture	COMPLEMENT_TERMINAL_MAC	Terminal complement and membrane-attack complex	3	0	partial	0.775	5	Figure_10	main_figure_candidate_with_bulk_emphasis
+complement_architecture	COMPLEMENT_REGULATORS	Complement regulators	3	0	partial	0.7084	5	Figure_10	main_figure_candidate_with_bulk_emphasis
+complement_architecture	COMPLEMENT_COAGULATION_CROSSTALK	Complement-coagulation crosstalk	3	0	adequate	0.9219	5	Figure_10	main_figure_strong
+complement_architecture	COMPLEMENT_OPSONOPHAGOCYTOSIS	Complement-opsonophagocytosis	1	2	partial	0.6965	5	Figure_10	supplement_or_secondary_main_panel
+complement_architecture	COMPLEMENT_C3A_C5A_SIGNALING	C3a and C5a inflammatory signaling	3	0	adequate	0.8958	5	Figure_10	main_figure_strong
+immune_context_anchors	TLR4_LPS_SIGNALING_ANCHOR	TLR4-LPS signaling anchor	3	0	adequate	0.9833	5	Integrated_network	main_figure_strong
+immune_context_anchors	NFKB_MAPK_INFLAMMATION_ANCHOR	NF-kB and MAPK inflammation anchor	3	0	adequate	0.9688	5	Integrated_network	main_figure_strong
+immune_context_anchors	NEUTROPHIL_NETOSIS_ANCHOR	Neutrophil and NETosis anchor	3	0	adequate	0.9531	5	Integrated_network	main_figure_strong
+immune_context_anchors	OXIDATIVE_STRESS_NRF2_ANCHOR	Oxidative stress and NRF2 anchor	3	0	adequate	0.9616	5	Integrated_network	main_figure_strong
+immune_context_anchors	UROTHELIAL_BARRIER_REPAIR_ANCHOR	Urothelial barrier and repair anchor	3	0	adequate	0.9844	5	Integrated_network	main_figure_strong
+immune_context_anchors	PREGNANCY_INFLAMMATION_ANCHOR	Pregnancy-associated inflammation anchor	3	0	adequate	0.95	5	Integrated_network	main_figure_strong

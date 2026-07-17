@@ -1,0 +1,17 @@
+{
+  "version": "U27B3E4_v1.0_2026-07-16",
+  "decision": "TARGETED_U27B3E4_SUPPLEMENTARY_SCHEMA_OR_CONTENT_REPAIR_REQUIRED",
+  "package_root": "project://11_supplementary/phaseU27B3E321_semantic_accession_audit_correction",
+  "package_sha256": "71ad671861de5eae8ac8e05ad1ea441bcc3348b32413e2c79191f30c932d9d71",
+  "manuscript": "project://09_manuscript_docx/phaseU27B3E22_targeted_accession_correction/UTI_HostOmics_preZotero_manuscript_v6_3_U27B3E22_accession_corrected.docx",
+  "manuscript_sha256": "e2ad9a68675428f8c48fcd6047a9fa89435709f40d0c8bc2ade257c5565faa8d",
+  "checks": 266,
+  "checks_passed": 264,
+  "blocking_checks": 265,
+  "blocking_failures": 2,
+  "warnings": 8,
+  "scientific_values_recalculated": false,
+  "materialized_tables_modified": false,
+  "source_files_modified": false,
+  "manuscript_modified": false
+}

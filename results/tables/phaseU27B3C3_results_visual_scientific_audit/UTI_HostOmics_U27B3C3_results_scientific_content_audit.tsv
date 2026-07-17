@@ -1,0 +1,24 @@
+audit_type	audit_id	required_terms	pass
+required_results_concept	expanded_atlas	expanded; atlas; evidence	True
+required_results_concept	infection_core	TLR4; leptin; PI3K	True
+required_results_concept	pregnancy_remodeling	pregnancy; tissue; preterm	True
+required_results_concept	single_cell_localization	single-cell; cellular; UPEC	True
+required_results_concept	steroid_lipid_branching	steroid; cholesterol; lipid	True
+required_results_concept	immunometabolism	adipokine; insulin; carbon	True
+required_results_concept	complement_architecture	complement; C3a; opsonophagocytosis	True
+required_results_concept	integrated_synthesis	integrated; evidence; causal	True
+required_interpretation_boundary	pregnancy_fdr_boundary	no broad pregnancy; false-discovery	True
+required_interpretation_boundary	sample_unit_boundary	tissue samples; dam-level	False
+required_interpretation_boundary	single_cell_sample_size	n=2; control; UPEC	True
+required_interpretation_boundary	single_cell_exact_p	0.333	True
+required_interpretation_boundary	metabolic_flux_boundary	transcriptionally inferred; flux	True
+required_interpretation_boundary	cross_dataset_boundary	not pooled; species	False
+required_interpretation_boundary	complement_boundary	complement; provisional	True
+required_dataset	GSE112098	GSE112098	True
+required_dataset	GSE280297	GSE280297	True
+required_dataset	GSE168600	GSE168600	True
+required_dataset	GSE252321	GSE252321	True
+prohibited_obsolete_term	GSE186800	absent	True
+prohibited_obsolete_term	phaseU11_results_claim_index_v1.tsv	absent	True
+prohibited_obsolete_term	phaseU11_key_numeric_anchors_v1.tsv	absent	True
+prohibited_obsolete_term	Results-section traceability note	absent	True

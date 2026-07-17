@@ -1,0 +1,6 @@
+gap_id	priority	description	citation_key	status
+U16A_GAP_01	high	Check whether the GSE280297-associated preprint has been peer-reviewed and update citation accordingly. Citation/key: `GSE280297_maternofetal_UTI_preterm`.	GSE280297_maternofetal_UTI_preterm	OPEN
+U16A_GAP_02	medium	Import through Zotero/Crossref to complete the full author list. Citation/key: `Masajtis_Zagajewska_2017_NETs_UTI`.	Masajtis_Zagajewska_2017_NETs_UTI	OPEN
+U16A_GAP_03	medium	Import through Zotero/Crossref to complete the full author list and PMID/PMCID if available. Citation/key: `Demirel_2023_NETs_children_UTI`.	Demirel_2023_NETs_children_UTI	OPEN
+U16A_GAP_04	medium	Keep as pregnancy/oxytocin biology support only; find a more specific oxytocin-inflammation source if this axis becomes central. Citation/key: `UvnasMoberg_2023_oxytocin_labor_peripartum`.	UvnasMoberg_2023_oxytocin_labor_peripartum	OPEN
+U16A_GAP_05	medium	Add one exact reference on glucocorticoid signaling in pregnancy inflammation or immune regulation before final Discussion polishing. Citation/key: `glucocorticoid_pregnancy_inflammation`.	glucocorticoid_pregnancy_inflammation	OPEN

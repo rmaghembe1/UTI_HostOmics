@@ -1,0 +1,12 @@
+working_figure	final_destination	mapping_rule
+Working_Figure_1	Final_Figure_1	primary source
+Working_Figure_2	Final_Figure_2	consolidated with working Figure 3
+Working_Figure_3	Final_Figure_2	consolidated with working Figure 2
+Working_Figure_4	Final_Figure_3;Final_Figure_4;Figure_S3;Figure_S5	redistributed by content
+Working_Figure_5	Final_Figure_3;Final_Figure_4;Figure_S4;Figure_S5	redistributed by content
+Working_Figure_6	Final_Figure_3;Final_Figure_4;Figure_S4;Figure_S6	redistributed by content
+Working_Figure_7	Final_Figure_5	U27A4 source archive
+Working_Figure_8	Final_Figure_6	U27A4 source archive
+Working_Figure_9	Final_Figure_6 panels G-H;Figure_S7	selected main panels plus complete supplementary atlas
+Working_Figure_10	Final_Figure_7	U27A4 source archive
+Working_Figure_11	Final_Figure_8	U27A4 source archive

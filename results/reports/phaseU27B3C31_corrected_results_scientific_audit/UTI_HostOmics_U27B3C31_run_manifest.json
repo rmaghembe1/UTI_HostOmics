@@ -1,0 +1,16 @@
+{
+  "version": "U27B3C31_v1.0_2026-07-16",
+  "decision": "READY_FOR_U27B3C4_FROZEN_FIGURES_1_TO_8_AND_LEGEND_INTEGRATION",
+  "scientific_audits": 23,
+  "scientific_audits_passed": 23,
+  "figures_1_to_8_referenced": true,
+  "figure_references_in_order": true,
+  "pre_results_text_preserved": true,
+  "discussion_onward_text_preserved": true,
+  "visual_render_pass": true,
+  "legacy_embedded_figures": 6,
+  "scientific_values_recalculated": false,
+  "figure_assets_modified": false,
+  "source_manuscript_modified": false,
+  "derivative_modified": false
+}

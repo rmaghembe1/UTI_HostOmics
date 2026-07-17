@@ -1,0 +1,2 @@
+phase	decision	n_figures_expected	n_figures_produced	n_output_files	png_svg_pdf_for_each_figure	manuscript_modified	existing_figures_1_to_6_modified	metabolic_flux_claims_used	cells_treated_as_independent_replicates	next_phase
+U27A.2	READY_FOR_U27B_RESULTS_DISCUSSION_AND_LEGEND_INTEGRATION	5	5	15	True	False	False	False	False	U27B integrate Results, Discussion and figure legends

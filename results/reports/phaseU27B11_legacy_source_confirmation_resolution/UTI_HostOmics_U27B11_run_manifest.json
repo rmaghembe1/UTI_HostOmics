@@ -1,0 +1,10 @@
+{
+  "version": "U27B11_v1.0_2026-07-15",
+  "decision": "READY_FOR_U27B2_SCRIPTED_MAIN_FIGURE_CONSOLIDATION",
+  "working_figures_audited": 6,
+  "hard_legacy_dependencies": 0,
+  "missing_figures_2_to_5_nonblocking": true,
+  "scientific_values_changed": false,
+  "manuscript_modified": false,
+  "existing_figures_modified": false
+}

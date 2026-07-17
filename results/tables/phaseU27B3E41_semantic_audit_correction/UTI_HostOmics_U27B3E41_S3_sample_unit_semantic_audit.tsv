@@ -1,0 +1,2 @@
+supplementary_table	source_role	rows	observed_units	semantic_classification	source_path	source_is_sample_level	n_group_a_values	n_group_b_values	group_sizes_are_2_vs_2	cell_level_source_present	semantic_audit_pass
+S3	GSE252321 sample-level UPEC-versus-control module effects	20	sample_mean	SAMPLE_LEVEL_AGGREGATED_BIOLOGICAL_UNIT	project://07_tables/phaseU8b_single_cell_module_scoring/phaseU8b_GSE252321_sample_level_UPEC_vs_Control_module_contrast_v1.tsv	True	2	2	True	False	True
