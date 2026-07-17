@@ -4,6 +4,15 @@
 **Manuscript:** *Host endocrine-metabolic-immune remodeling across recurrent and pregnancy-associated uropathogenic Escherichia coli infection*
 <!-- manuscript-title:end -->
 
+<!-- zenodo-doi:start -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21419896.svg)](https://doi.org/10.5281/zenodo.21419896)
+
+- Version archive (`v1.0.0`): [10.5281/zenodo.21419897](https://doi.org/10.5281/zenodo.21419897)
+- All-version concept DOI: [10.5281/zenodo.21419896](https://doi.org/10.5281/zenodo.21419896)
+- Zenodo record: [https://zenodo.org/records/21419897](https://zenodo.org/records/21419897)
+<!-- zenodo-doi:end -->
+
+
 
 This repository accompanies the study:
 
@@ -53,7 +62,7 @@ large intermediate matrices are reacquired from GEO rather than stored in Git.
 
 Public repository: https://github.com/rmaghembe1/UTI_HostOmics
 
-Release candidate: `v1.0.0`. Zenodo integration is enabled; the archival DOI will be added after the GitHub release is ingested.
+Release `v1.0.0` is archived in Zenodo with version DOI `10.5281/zenodo.21419897` and concept DOI `10.5281/zenodo.21419896`.
 
 ## Citation
 
